@@ -1,0 +1,162 @@
+{
+	"gameVersion": "1.1.338",
+	"modStatus":
+	{
+		"SimpleZoom":
+		{
+			"bEnabled": true
+		},
+		"BetterMissionChoices":
+		{
+			"bEnabled": true
+		},
+		"Coyotesmission":
+		{
+			"bEnabled": true
+		},
+		"vonBiomes":
+		{
+			"bEnabled": true
+		},
+		"CoopRewards":
+		{
+			"bEnabled": true
+		},
+		"smalltraitcheap":
+		{
+			"bEnabled": true
+		},
+		"2500792511":
+		{
+			"bEnabled": true
+		},
+		"YetiJSAnimRem":
+		{
+			"bEnabled": true
+		},
+		"volatile":
+		{
+			"bEnabled": true
+		},
+		"SMMO":
+		{
+			"bEnabled": true
+		},
+		"ArmorGreenRasal":
+		{
+			"bEnabled": true
+		},
+		"2541842757":
+		{
+			"bEnabled": true
+		},
+		"2507466797":
+		{
+			"bEnabled": true
+		},
+		"2509890520":
+		{
+			"bEnabled": true
+		},
+		"Mechs_of_Beauty":
+		{
+			"bEnabled": true
+		},
+		"2837381089":
+		{
+			"bEnabled": true
+		},
+		"2527636437":
+		{
+			"bEnabled": true
+		},
+		"2526838426":
+		{
+			"bEnabled": true
+		},
+		"2522931926":
+		{
+			"bEnabled": true
+		},
+		"2898497010":
+		{
+			"bEnabled": true
+		},
+		"2898949936":
+		{
+			"bEnabled": true
+		},
+		"MPUI_V2_0":
+		{
+			"bEnabled": true
+		},
+		"PilotOverhaul":
+		{
+			"bEnabled": true
+		},
+		"AClaninvasion":
+		{
+			"bEnabled": true
+		},
+		"YetAnotherClanMech":
+		{
+			"bEnabled": true
+		},
+		"YetAnotherWeaponClan":
+		{
+			"bEnabled": true
+		},
+		"Lore-based Mech Variants - YAML Edition":
+		{
+			"bEnabled": true
+		},
+		"YetAnotherWeapon":
+		{
+			"bEnabled": true
+		},
+		"harjel":
+		{
+			"bEnabled": true
+		},
+		"YetAnotherMechlabMechs":
+		{
+			"bEnabled": true
+		},
+		"YetAnotherMechlab":
+		{
+			"bEnabled": true
+		},
+		"2734237267":
+		{
+			"bEnabled": true
+		},
+		"ModOptions":
+		{
+			"bEnabled": true
+		},
+		"MW5Compatibility":
+		{
+			"bEnabled": true
+		},
+		"MechDelivery":
+		{
+			"bEnabled": true
+		},
+		"NextGenPilots":
+		{
+			"bEnabled": true
+		},
+		"CoopUnlocked":
+		{
+			"bEnabled": true
+		},
+		"AlternateFlamerVisuals":
+		{
+			"bEnabled": true
+		},
+		"PurchaseSalvage":
+		{
+			"bEnabled": true
+		}
+	}
+}

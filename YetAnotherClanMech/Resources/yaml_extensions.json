@@ -1,0 +1,7 @@
+[
+{
+	"name": "yacm-global-misc",
+	"type": "global",
+	"actorClassPath": "/YetAnotherClanMech/Functions/YACM_GlobalActor.YACM_GlobalActor_C"
+}
+]

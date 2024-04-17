@@ -1,0 +1,21 @@
+{
+	"CDA-HWLR": {
+		"quirks": [
+			"BATTLECOMP",
+			"CLAN-QUIRK-coyotecic",
+			"coyotekinshwlr",
+			"DISTRACTING"
+		]
+	},
+
+	"CDA-BLU": {
+		"quirks": [
+			"BATTLECOMP",
+			"CLAN-QUIRK-coyotecic",
+			"DISTRACTING",
+			"coyotekinsblue"
+		]
+	}
+
+
+}

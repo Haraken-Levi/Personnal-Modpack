@@ -1,0 +1,217 @@
+{
+	"YACM_OMNI_GYRO_FIXED": {
+		"loreAccurate": false,
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"removeDays": 90,
+		"removeCost": 2200000
+	},
+	"YACM_ENGINE_XL_CLAN_FIXED": {
+		"fixed": true,
+		"fillerSlots": {
+			"LeftTorso": 2,
+			"RightTorso": 2
+		},
+		"engineHealthType": "light",
+		"engineRelativeWeight": -0.5,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.95
+				}
+			]
+		},
+		"movementHeatMulti": 0.75,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:ENGINE_XL_CLAN",
+		"removeDays": 90,
+		"removeCost": 3800000
+	},
+	"YACM_ENGINE_CORE_175_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std175",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_210_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std210",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_240_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std240",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_250_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std250",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_270_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std270",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_300_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std300",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_325_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std325",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_360_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std360",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_ENGINE_CORE_385_FIXED": {
+		"fixed": true,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:std385",
+		"removeDays": 90,
+		"removeCost": 1800000
+	},
+	"YACM_CLAN_DHS_KIT_FIXED": {
+		"fixed": true,
+		"salvageInto": "MWHeatSinkDataAsset:CLAN_DHS_KIT",
+		"mechConflicts": [
+			"SingleHeatSink",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS"
+		],
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"removeDays": 90,
+		"removeCost": 1600000
+	},
+	"YACM_ARMOR_FERRO_CLAN_FIXED": {
+		"fixed": true,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"armorDamageMulti": 0.95,
+				"scope": "mech"
+			}]
+		},
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"armorRepairDaysMulti": 0.5,
+		"armorRepairCostMulti": 2,
+		"salvageInto": "MWHeatSinkDataAsset:CFERRO",
+		"installCostScaling": 10,
+		"removeDays": 110,
+		"removeCost": 620000
+	},
+	"YACM_ARMOR_STANDARD_CLAN_FIXED": {
+		"fixed": true,
+		"armorPerTon": 32,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"armorDamageMulti": 0.95,
+				"scope": "mech"
+			}]
+		},
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"armorRepairDaysMulti": 0.5,
+		"armorRepairCostMulti": 2,
+		"installCostScaling": 10,
+		"removeDays": 110,
+		"removeCost": 420000
+	},
+	"YACM_STRUCTURE_CLAN_FIXED": {
+		"fixed": true,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"structureDamageMulti": 0.95,
+				"scope": "mech"
+			}]
+		},
+		"caseLevel": 1,
+		"caseScope": "mech",
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"structureRepairDaysMulti": 0.5,
+		"structureRepairCostMulti": 2,
+		"installCostScaling": 10,
+		"removeDays": 110,
+		"removeCost": 520000
+	},
+	"YACM_ENDOSTEEL_CLAN_FIXED": {
+		"fixed": true,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"structureDamageMulti": 0.95,
+				"scope": "mech"
+			}]
+		},
+		"caseLevel": 1,
+		"caseScope": "mech",
+		"structureRepairDaysMulti": 0.5,
+		"structureRepairCostMulti": 2,
+		"equipmentRefitDaysMulti": 0.8,
+		"equipmentRefitCostMulti": 0.95,
+		"salvageInto": "MWHeatSinkDataAsset:C79ENDO",
+		"installCostScaling": 10,
+		"removeDays": 110,
+		"removeCost": 820000
+	}
+}

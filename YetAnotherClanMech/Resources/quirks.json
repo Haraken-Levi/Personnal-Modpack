@@ -1,0 +1,1209 @@
+{
+	"clan-mech": {
+		"name": "Clan",
+		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.",
+		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.067,
+			"accelerationMulti": 1.08,
+			"turnSpeedMulti": 1.08,
+			"upkeepCostMulti": 1.2,
+			"caseLevel": 1
+		}
+	},
+	"OMNI-MECH": {
+		"name": "OmniMech",
+		"description": "An OmniMech is a highly configurable type of BattleMech. They allow rapid refitting, but have permanently affixed internals.",
+		"color": "(R=0,G=1,B=0,A=1)",
+		"properties": {
+			"upkeepCostMulti": 1.2
+		}
+	},
+	"BALLISTICPROF": {
+		"name": "Ballistic Proficiency",
+		"description": "This 'Mech chassis has optimized components for all Ballistic type weapons.",
+		"comment": "XanderShade custom content, adapted from ENERGYPROF",
+		"color": "(R=0.031373,G=0.227451,B=1.000000,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"heatMulti": 0.9,
+						"cooldownMulti": 0.9,
+						"speedMulti": 1.3
+					}
+				]
+			}
+		}
+	},
+	"MAD-IIC-HERO": {
+		"name": "Marauder IIC Hero Armor",
+		"description": "The Marauder IIC Hero comes equipped with higher density armor",
+		"color": "(R=1,G=0,B=0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"RightTorso": 14,
+				"LeftTorso": 14,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			}
+		}
+	},
+	"MAD-IIC-SC": {
+		"name": "Scorch",
+		"description": "Unique set of quirks for the Marauder IIC Scorch Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "SRM Missile",
+						"tags": [
+							"Weapon.Missile.SRM",
+							"Weapon.ArtemisMissile.SRM"
+						],
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
+	},
+	"MAD-IIC-XM": {
+		"name": "Svalinn",
+		"description": "Unique set of quirks for the Marauder IIC Svalinn Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"sensorRangeBonus": 100,
+			"lockonTimeMulti": 0.9,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9,
+						"speedMulti": 1.1,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1,
+						"damageMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"hyper-extending-actuators": {
+		"name": "Hyper-Extending Actuators",
+		"description": "This BattleMech's actuators are hyper-mobile, allowing the 'Mech to aim at targets outside the normal field of fire.",
+		"properties": {
+			"armTwistAngleMulti": 1.3
+		}
+	},
+	"UM-IIC-piloting": {
+		"name": "Easy Piloting",
+		"description": "The UrbanMech IIC is especially easy to pilot.",
+		"color": "(R=0,G=1,B=0.27,A=1)",
+		"properties": {
+			"turnSpeedMulti": 1.1,
+			"decelerationMulti": 1.1
+		}
+	},
+	"IMPROVED_LIFE_SUPPORT": {
+		"name": "Improved Life Support",
+		"description": "This 'mech's life support systems are superior to standard ones.",
+		"properties": {
+			"pilotDeathPercMult": 0.7,
+			"armorBonus": {
+				"Head": 2
+			}
+		}
+	},
+	"ON1-IIC-HERO": {
+		"name": "Orion IIC Hero Armor",
+		"description": "The Orion IIC Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 16,
+				"RightTorso": 16,
+				"LeftTorso": 16,
+				"RightArm": 6,
+				"LeftArm": 6,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			}
+		}
+	},
+	"ON1-IIC-SK": {
+		"name": "Orion IIC Sköll",
+		"description": "Unique set of quirks for the Orion IIC Sköll Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.95
+					},
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"heatMulti": 0.85
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.75
+					}
+				]
+			},
+			"topSpeedMulti": 1.1
+		}
+	},
+	"ON1-IIC-BTN": {
+		"name": "Orion IIC Burton",
+		"description": "Unique set of quirks for the Orion IIC Burton Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"cooldownMulti": 0.8
+					},
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"optimalRangeMulti": 1.2,
+						"maxRangeMulti": 1.2
+					}
+				]
+			}
+		}
+	},
+	"KNIGHT-OF-THE-SPHERE": {
+		"name": "Knight of the Sphere",
+		"description": "The title Knight of the Sphere was granted within the Republic of the Sphere. Knights do not waver in the face of incoming danger.",
+		"color": "(R=0,G=0,B=1,A=1)",
+		"properties": {
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Projectile",
+					"tags": [
+						"Weapon.Ballistic",
+						"Weapon.Missile",
+						"Weapon.ArtemisMissile",
+						"Weapon.Energy.ParticleCannon"
+					],
+					"armorDamageMulti": 0.9,
+					"scope": "mech"
+				}]
+			}
+		}
+	},
+	"EXTENDED-TORSO-TWIST": {
+		"name": "Extended Torso Twist",
+		"description": "This 'mech is capable of twisting their torso sections much further than the average.",
+		"properties": {
+			"torsoTwistAngleMulti": 1.15
+		}
+	},
+	"HGN-IIC-KEEPER-HERO": {
+		"name": "Highlander IIC Keeper",
+		"description": "Unique set of quirks for the Highlander IIC Keeper Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.9
+					}
+				]
+			},
+			"incomingDamage": {
+				"groups": [{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"structureDamageMulti": 0.6,
+					"scope": "mech"
+				}]
+			},
+			"jumpJetFuelBurnTimeMulti": 1.15,
+			"jumpJetInitialZVelocityMulti": 1.15
+		}
+	},
+	"HGN-IIC-HERO": {
+		"name": "Highlander IIC Hero Armor",
+		"description": "The Highlander IIC Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 27,
+				"RightTorso": 15,
+				"LeftTorso": 15,
+				"RightArm": 15,
+				"LeftArm": 15,
+				"RightLeg": 15,
+				"LeftLeg": 15
+			}
+		}
+	},
+	"SVG-Dickie": {
+		"name": "Dickie",
+		"description": "Richard \"Dickie\" Wojciehowski made this variant of the Savage Wolf famous.",
+		"color": "(R=0.39,G=0.75,B=0.82,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.07,
+			"weapons": {
+				"groups": [{
+					"weaponGroupName": "Ultra AC",
+					"tags": [
+						"Weapon.Ballistic.AutoCannon.Ultra"
+					],
+					"cooldownMulti": 0.80
+				},{
+					"weaponGroupName": "LRM",
+					"tags": [
+						"Weapon.Missile.LRM"
+					],
+					"cooldownMulti": 0.80
+				}]
+			}
+		}
+	},
+	"high-pressure-cooling": {
+		"name": "High Pressure Cooling",
+		"description": "High Pressure Cooling reduces the heat generated by weapon fire by 10%.",
+		"color": "(R=0.27,G=0.2,B=0.7,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.9
+					}
+				]
+			}
+		}
+	},
+	"THE-REAL-GRINNER": {
+		"name": "The Real Grinner",
+		"description": "Phelan Kell and his original Wolfhound, nicknamed \"Grinner\", were captured by the forces of Clan Wolf during Operation Revival. They subsequently rebuilt the 'mech with clan technology.",
+		"color": "(R=0.27,G=0.2,B=0.7,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"heatMulti": 0.8
+					}
+				]
+			},
+			"incomingDamage": {
+				"heatMulti": 0.7
+			},
+			"topSpeedMulti": 1.07
+		}
+	},
+	"WLF-IIC-HERO": {
+		"name": "Wolfhound IIC Hero Armor",
+		"description": "The Wolfhound IIC Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 11,
+				"RightTorso": 11,
+				"LeftTorso": 11,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			}
+		}
+	},
+	"FAST-RELOAD-TORSO": {
+		"name": "Fast Reload (Torso)",
+		"description": "Shortened reload time for torso-mounted weapons",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Torso weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.8,
+						"mechParts": [
+							"LeftTorso",
+							"RightTorso",
+							"CenterTorso"
+						]
+					}
+				]
+			}
+		}
+	},
+	"IMPROVED-TARGETING-SHORT": {
+		"name": "Improved Targeting (Short)",
+		"description": "This mech has superior short-range targeting equipment.\nThis includes Small Laser, Small Pulse Laser, Machine Guns, AC/20 and SRMs.",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Short-ranged weapon",
+						"tags": [
+							"Weapon.Energy.Laser.Standard.Small",
+							"Weapon.Energy.Laser.Chemical.Small",
+							"Weapon.Energy.Laser.Pulse.Small",
+							"Weapon.Ballistic.AutoCannon.Standard.AC20",
+							"Weapon.Ballistic.AutoCannon.Ultra.AC20",
+							"Weapon.Ballistic.AutoCannon.LBX.LBX20",
+							"Weapon.Missile.SRM",
+							"Weapon.ArtemisMissile.SRM",
+							"Weapon.Ballistic.MG"
+						],
+						"optimalRangeMulti": 1.05,
+						"maxRangeMulti": 1.05,
+						"speedMulti": 1.1,
+						"spreadRadiusMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"IMPROVED-TARGETING-MEDIUM": {
+		"name": "Improved Targeting (Medium)",
+		"description": "This mech has superior medium-range targeting equipment.\nThis includes Medium Laser, Medium Pulse Laser, ER Small Laser, Snub PPC, MRM, AC/10, LBX/10, UAC/10 and Heavy Gauss.",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Medium-ranged weapon",
+						"tags": [
+							"Weapon.Energy.Laser.Standard.Medium",
+							"Weapon.Energy.Laser.Chemical.Medium",
+							"Weapon.Energy.Laser.Pulse.Medium",
+							"Weapon.Energy.Laser.ER.Small",
+							"Weapon.Energy.Laser.Pulse.Small.Clan.ER",
+							"Weapon.Energy.Laser.Standard.Small.ER.Clan",
+							"Weapon.Energy.ParticleCannon.SNPPC",
+							"Weapon.Ballistic.AutoCannon.Standard.AC10",
+							"Weapon.Ballistic.AutoCannon.Ultra.AC10",
+							"Weapon.Ballistic.AutoCannon.LBX.LBX10",
+							"Weapon.Ballistic.GaussRifle.HeavyGauss",
+							"Weapon.Missile.MRM"
+						],
+						"optimalRangeMulti": 1.05,
+						"maxRangeMulti": 1.05,
+						"speedMulti": 1.1,
+						"spreadRadiusMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"IMPROVED-TARGETING-LONG": {
+		"name": "Improved Targeting (Long)",
+		"description": "This mech has superior long-range targeting equipment.\nThis includes LRM, ER laser, ER PPC, AC/2, LBX/2, UAC/2, RAC2, AC/5, LBX/5, UAC/5, RAC5, Gauss, Light and Hyper Assault Gauss.",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Long-ranged weapon",
+						"tags": [
+							"Weapon.Missile.LRM",
+							"Weapon.ArtemisMissile.LRM",
+							"Weapon.Ballistic.AutoCannon.LBX.LBX2",
+							"Weapon.Ballistic.AutoCannon.Rotary.RAC2",
+							"Weapon.Ballistic.AutoCannon.Standard.AC2",
+							"Weapon.Ballistic.AutoCannon.Ultra.AC2",
+							"Weapon.Ballistic.AutoCannon.Hyper.AC2",
+							"Weapon.Ballistic.AutoCannon.LBX.LBX2",
+							"Weapon.Ballistic.AutoCannon.Rotary.RAC5",
+							"Weapon.Ballistic.AutoCannon.Standard.AC5",
+							"Weapon.Ballistic.AutoCannon.Ultra.AC5",
+							"Weapon.Ballistic.AutoCannon.Hyper.AC5",
+							"Weapon.Ballistic.GaussRifle.Gauss",
+							"Weapon.Ballistic.GaussRifle.LightGauss",
+							"Weapon.Ballistic.GaussRifle.Gauss.Hyper",
+							"Weapon.Energy.Laser.ER.Large",
+							"Weapon.Energy.Laser.Pulse.Large.Clan.ER",
+							"Weapon.Energy.Laser.Standard.Large.ER.Clan",
+							"Weapon.Energy.ParticleCannon.ERPPC"
+						],
+						"optimalRangeMulti": 1.05,
+						"maxRangeMulti": 1.05,
+						"speedMulti": 1.1,
+						"spreadRadiusMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"DWF-HERO": {
+		"name": "Dire Wolf Hero Armor",
+		"description": "The Dire Wolf Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 16,
+				"RightTorso": 14,
+				"LeftTorso": 14,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			}
+		}
+	},
+	"DWF-WM": {
+		"name": "Widowmaker",
+		"description": "The preferred configuration of the Black Widow Natasha Kerensky, the Widowmaker can do a great deal of damage at any range.",
+		"color": "(R=0.5,G=0,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"speedMulti": 1.15,
+						"cooldownMulti": 0.95
+					},
+					{
+						"weaponGroupName": "UAC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"speedMulti": 1.2,
+						"jamChanceMulti": 0.85,
+						"maxRangeMulti": 1.3,
+						"optimalRangeMulti": 1.3
+					}
+				]
+			}
+		}
+	},
+	"DWF-LW": {
+		"name": "Lone Wolf",
+		"description": "The variant piloted by Phelan Wolf at his Trial of Position to test out as a MechWarrior on 21 July 3051. Configured by Khan Natasha Kerensky.",
+		"color": "(R=0.05,G=0,B=0.3,A=1)",
+		"properties": {
+			"weapons": {
+				"lockonTimeMulti": 0.8,
+				"groups": [
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.85
+					},
+					{
+						"weaponGroupName": "Gauss",
+						"tags": [
+							"Weapon.Ballistic.GaussRifle"
+						],
+						"speedMulti": 1.2,
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"maxRangeMulti": 1.2,
+						"optimalRangeMulti": 1.2,
+						"heatMulti": 0.85
+					}
+				]
+			}
+		}
+	},
+	"DWF-UV": {
+		"name": "Ultraviolet",
+		"description": "A customized variant of the Dire Wolf. Piloted by Jin Mehta.",
+		"color": "(R=0.37,G=0.29,B=0.55,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.95,
+						"speedMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"heatMulti": 0.95
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.85
+					},
+					{
+						"weaponGroupName": "UAC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"jamChanceMulti": 0.8,
+						"jamDurationMulti": 0.85
+					}
+				]
+			},
+			"sensorRangeBonus": 400,
+			"topSpeedReverseMulti": 1.06
+		}
+	},
+	"DWF-HO": {
+		"name": "Hohiro",
+		"description": "The Hohiro configuration of the Dire Wolf is used by Hohiro Kurita and has a mixed long and short range weapons profile.",
+		"color": "(R=0.5,G=0.1,B=0.12,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Pulse laser",
+						"tags": [
+							"Weapon.Energy.Laser.Pulse"
+						],
+						"duration": 0.8
+					},
+					{
+						"weaponGroupName": "Gauss",
+						"tags": [
+							"Weapon.Ballistic.GaussRifle"
+						],
+						"cooldownMulti": 0.75
+					},
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"speedMulti": 1.2
+					}
+				]
+			}
+		}
+	},
+	"MCII-HERO": {
+		"name": "Mad Cat Mk II Hero Armor",
+		"description": "The Mad Cat Mk  Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 8,
+				"RightTorso": 8,
+				"LeftTorso": 8,
+				"RightArm": 10,
+				"LeftArm": 10,
+				"RightLeg": 10,
+				"LeftLeg": 10
+			}
+		}
+	},
+	"MCII-DEATHSTRIKE": {
+		"name": "Deathstrike",
+		"description": "The so-called Deathstrike variant of the Mad Cat Mk II was named for the Diamond Shark's elite Alpha Galaxy.",
+		"color": "(R=0,G=0.0,B=0.9,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "UAC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"jamChanceMulti": 0.8,
+						"jamDurationMulti": 0.93,
+						"spreadRadiusMulti": 0.9
+					},
+					{
+						"weaponGroupName": "ER Laser",
+						"tags": [
+							"Weapon.Energy.Laser.ER",
+							"Weapon.Energy.Laser.Pulse.Small.Clan.ER",
+							"Weapon.Energy.Laser.Pulse.Medium.Clan.ER",
+							"Weapon.Energy.Laser.Pulse.Large.Clan.ER",
+							"Weapon.Energy.Laser.Standard.Large.ER.Clan",
+							"Weapon.Energy.Laser.Standard.Medium.ER.Clan",
+							"Weapon.Energy.Laser.Standard.Small.ER.Clan",
+							"Weapon.Energy.Laser.Standard.Small.Micro.ER.Clan"
+						],
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"BAS-HERO": {
+		"name": "Blood Asp Hero Armor",
+		"description": "The Blood Asp Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 7,
+				"LeftTorso": 7,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			}
+		}
+	},
+	"BAS-RANCOR": {
+		"name": "Rancor",
+		"description": "Unique set of quirks for the Rancor Blood Asp Hero 'Mech",
+		"color": "(R=0,G=0.0,B=0.9,A=1)",
+		"properties": {
+			"sensorRangeMulti": 1.1,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"maxRangeMulti": 1.2
+					},
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"PPC-Platform": {
+		"name": "PPC Platform",
+		"description": "This 'Mech was designed to be a Particle Projection Cannon platform, and has improved PPC efficiency",
+		"comment": "XanderShade custom creation, generic version of the AWS-PPC quirk",
+		"color": "(R=0.033105,G=0.226966,B=1,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"cooldownMulti": 0.85,
+						"heatMulti": 0.85,
+						"speedMulti": 1.25
+					}
+				]
+			}
+		}
+	},
+	"RFL-IIC-HERO": {
+		"name": "Rifleman IIC Hero Armor",
+		"description": "The Rifleman IIC Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 7,
+				"RightTorso": 7,
+				"LeftTorso": 7,
+				"RightArm": 7,
+				"LeftArm": 7,
+				"RightLeg": 7,
+				"LeftLeg": 7
+			}
+		}
+	},
+	"TUNEDPULSE": {
+		"name": "Tuned Pulse Lasers",
+		"description": "This mech has had it's FCS tuned to increase the rate of fire of Pulse Weaponry",
+		"comment": "XanderShade Custom Content",
+		"color": "(R=0.031373,G=0.227451,B=1.000000,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Pulse Weapon",
+						"tags": [
+							"Weapon.Energy.Laser.Pulse"
+						],
+						"durationMulti": 0.9,
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
+	},
+	"RFL-IIC-CH-HERO": {
+		"name": "Chironex",
+		"description": "Unique set of quirks for the Chironex Rifleman IIC Hero 'Mech",
+		"color": "(R=0,G=0.8,B=0,A=1)",
+		"properties": {
+			"sensorRangeBonus": 100,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.9,
+						"maxRangeMulti": 1.1,
+						"optimalRangeMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Ultra AC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"cooldownMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"IMP-COOLING-LASER": {
+		"name": "Improved Cooling Jacket",
+		"description": "An Improved Cooling Jacket reduces the heat generated by the weapon group it is applied to",
+		"color": "(R=0.309804,G=0.219608,B=0.478431,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"heatMulti": 0.92
+					}
+				]
+			}
+		}
+	},
+	"COU-BA-HERO-ARMOR": {
+		"name": "Cougar Hero Armor",
+		"description": "The Cougar Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 15,
+				"RightTorso": 12,
+				"LeftTorso": 12,
+				"RightArm": 10,
+				"LeftArm": 10
+			},
+			"structureBonus": {
+				"RightTorso": 7,
+				"LeftTorso": 7,
+				"RightLeg": 16,
+				"LeftLeg": 16
+			}
+		}
+	},
+	"COU-BA-HERO": {
+		"name": "Blood Adder",
+		"description": "Unique set of quirks for the Blood Adder Cougar Hero 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"coolingMulti": 1.05,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"cooldownMulti": 0.95
+					},
+					{
+						"weaponGroupName": "Ultra AC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"jamChanceMulti": 0.8,
+						"jamDurationMulti": 0.9,
+						"ammoMulti": 1.2
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"heatMulti": 0.9,
+						"speedMulti": 1.15,
+						"cooldownMulti": 0.9,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"BKL-BL-HERO": {
+		"name": "Bellonarius",
+		"description": "Unique set of quirks for the Bellonarius Black Lanner 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"turnSpeedMulti": 1.15,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"maxRangeMulti": 1.1,
+						"optimalRangeMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Machinegun",
+						"tags": [
+							"Weapon.Ballistic.MG"
+						],
+						"ammoMulti": 1.25
+					},
+					{
+						"weaponGroupName": "Enery",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"cooldownMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.9,
+						"ammoMulti": 1.5
+					}
+				]
+			}
+		}	
+	},
+	"BKL-BL-HERO-STRUCT": {
+		"name": "Black Lanner Hero Structure",
+		"description": "The Black Lanner Hero comes equipped with higher density structure",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"structureBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 5,
+				"LeftTorso": 5,
+				"RightArm": 8,
+				"LeftArm": 8,
+				"RightLeg": 5,
+				"LeftLeg": 5
+			}
+		}
+	},
+	"NVA-HERO": {
+		"name": "Nova Hero Structure",
+		"description": "The Nova Hero comes equipped with higher density armor and structure",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"structureBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 10,
+				"LeftTorso": 5,
+				"RightArm": 9,
+				"LeftArm": 9,
+				"RightLeg": 5,
+				"LeftLeg": 5
+			},
+			"armorBonus": {
+				"RightArm": 7,
+				"LeftArm": 7
+			}
+		}
+	},
+	"NVA-BK": {
+		"name": "Breaker",
+		"description": "Unique set of quirks for the Nova Breaker Hero 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"maxRangeMulti": 1.05,
+						"optimalRangeMulti": 1.05,
+						"heatMulti": 0.925
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"heatMulti": 0.95,
+						"cooldownMulti": 0.85,
+						"ammoMulti": 1.15
+					},
+					{
+						"weaponGroupName": "Machine Gun",
+						"tags": [
+							"Weapon.Ballistic.MG"
+						],
+						"cooldownMulti": 0.85
+					}
+				]
+			}
+		}
+	},
+	"MDD-BA-HERO": {
+		"name": "Mad Dog Hero Structure",
+		"description": "The Mad Dog Hero comes equipped with higher density armor and structure",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 12,
+				"RightTorso": 15,
+				"LeftTorso": 15,
+				"RightArm": 10,
+				"LeftArm": 10,
+				"RightLeg": 5,
+				"LeftLeg": 5
+			}
+		}
+	},
+	"MDD-RV-HERO": {
+		"name": "Mad Dog Hero Structure",
+		"description": "The Mad Dog Hero comes equipped with higher density armor and structure",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 7,
+				"RightTorso": 10,
+				"LeftTorso": 10,
+				"RightArm": 15,
+				"LeftArm": 15,
+				"RightLeg": 5,
+				"LeftLeg": 5
+			}
+		}
+	},
+	"MDD-BA": {
+		"name": "Bandit",
+		"description": "Unique set of quirks for the Mad Dog Bandit Hero 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"turnSpeedMulti": 1.1,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"durationMulti": 0.95
+					},
+					{
+						"weaponGroupName": "UAC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"jamChanceMulti": 0.7
+					},
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"cooldownMulti": 0.9
+					}
+				]
+			}
+		}
+	},
+	"MDD-RV": {
+		"name": "Revenant",
+		"description": "Unique set of quirks for the Mad Dog Revenant Hero 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"accelerationMulti": 1.1,
+			"decelerationMulti": 1.1,
+			"turnSpeedMulti": 1.15,
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"cooldownMulti": 0.95,
+						"optimalRangeMulti": 1.05,
+						"maxRangeMulti": 1.05
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"heatMulti": 0.95,
+						"cooldownMulti": 0.9,
+						"ammoMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"CAULDRON-BORN": {
+		"name": "Cauldron-Born",
+		"description": "Inner Sphere warriors who first fought the Ebon Jaguar gave it the code name Cauldron-Born after the unstoppable zombies of Irish myth.",
+		"color": "(R=0,G=0,B=0.9,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.08,
+			"maxArmorBonus": {
+				"CenterTorso": 12,
+				"RightTorso": 12,
+				"LeftTorso": 12,
+				"RightArm": 10,
+				"LeftArm": 10,
+				"RightLeg": 8,
+				"LeftLeg": 8
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"heatMulti": 0.95
+					}
+				]
+			}
+		}
+	},
+	"EBJ-HERO": {
+		"name": "Ebon Jaguar Hero Armor",
+		"description": "The Ebon Jaguar Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 10,
+				"RightTorso": 10,
+				"LeftTorso": 10,
+				"RightArm": 15,
+				"LeftArm": 15,
+				"RightLeg": 7,
+				"LeftLeg": 7
+			}
+		}
+	},
+	"EBJ-EC": {
+		"name": "Esprit de Corps",
+		"description": "Unique set of quirks for the Ebon Jaguar Esprit de Corps Hero 'Mech",
+		"color": "(R=0.9,G=0,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"cooldownMulti": 0.85
+					},
+					{
+						"weaponGroupName": "Ultra AC",
+						"tags": [
+							"Weapon.Ballistic.AutoCannon.Ultra"
+						],
+						"jamChanceMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Missile",
+						"tags": [
+							"Weapon.Missile",
+							"Weapon.ArtemisMissile"
+						],
+						"cooldownMulti": 0.9,
+						"heatMulti": 0.9
+					},
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"heatMulti": 0.95
+					},
+					{
+						"weaponGroupName": "Laser",
+						"tags": [
+							"Weapon.Energy.Laser"
+						],
+						"durationMulti": 0.95
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,113 @@
+{
+	"C79_MASC_MKI": {
+		"rarity": 0.1
+	},
+	"C79_MASC_MKII": {
+		"rarity": 0.1
+	},
+	"C79_MASC_MKIII": {
+		"rarity": 0.1
+	},
+	"C79_MASC_MKIV": {
+		"rarity": 0.1
+	},
+	"C79_MASC_MKV": {
+		"rarity": 0.1
+	},
+	"ClanAP79": {
+		"rarity": 0.1
+	},
+	"ClanECM79": {
+		"rarity": 0.1
+	},
+	"ClanDHS79": {
+		"rarity": 0.1
+	},
+	"ClanLHS79": {
+		"rarity": 0.1
+	},
+	"C79_ArrowIV_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79AC10_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79AC20_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79AC2_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79AC5_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79ACProto_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79ATM_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79LRM_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79LRM_Artemis_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79LRM_Streak_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79SRM_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79SRM_Artemis_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79SRM_Streak_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"C79MachineGun_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC10_LBX_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC10_Ultra_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC20_LBX_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC20_Ultra_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC2_LBX_79_Standard_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC2_Ultra_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC5_LBX_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAC5_Ultra_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CAPGauss_AmmoEquipment79_Double": {
+		"loreAccurate": false
+	},
+	"CGauss_Hyper_AmmoEquipment79_Double": {
+		"loreAccurate": false
+	},
+	"CGauss_Standard_AmmoEquipment79_Double": {
+		"loreAccurate": false
+	},
+	"CHFlamer_79_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CMachineGun79_Heavy_AmmoEquipment_Double": {
+		"loreAccurate": false
+	},
+	"CMachineGun79_Light_AmmoEquipment_Double": {
+		"loreAccurate": false
+	}
+}

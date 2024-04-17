@@ -1,0 +1,27 @@
+Quirks are loading correctly on all official 'mech families, not all modded mechs. Probably needs the custom mechs to call the quirk references. 
+
+Quirks added:
+
+Command 'Mech ("CMD_MECH")
+sensorRangeBonus: 50
+
+Combat Computer ("CBTCPU")
+heatMulti: 0.95 (5%)
+
+
+Quirks added to Mechs:
+Awsome_MDL: BATTLEFISTS
+Banshee_MDL: RUGGED1
+Battlemaster_MDL: CMD_MECH
+BlackKnight_MDL: CMD_MECH
+Commando_MDL: NARROW_PROFILE
+Dragon_MDL: NARROW_PROFILE
+Hatamotochi_MDL: EASYTOMAINTAIN
+Kingcrab_MDL: CMD_MECH
+Kintaro_MDL: RUGGED1
+Marauder_MDL: NARROW_PROFILE, CMD_MECH
+MarauderII_MDL: NARROW_PROFILE, CMD_MECH
+Nightstar_MDL: CMD_MECH
+Stalker_MDL: CBTCPU
+Vulcan_MDL: NARROW_PROFILE
+Wolverine_MDL: CMD_MECH

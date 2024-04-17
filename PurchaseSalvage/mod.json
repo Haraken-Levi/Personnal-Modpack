@@ -1,0 +1,20 @@
+{
+   "displayName" : "Purchase Salvage",
+   "version" : "1.2.1",
+   "buildNumber" : 15,
+   "description" : "Allows going over allocated salvage shares and paying the difference.",
+   "author" : "Bobbert",
+   "authorURL" : "",
+   "defaultLoadOrder" : 6,
+   "gameVersion" : "1.1.338",
+   "manifest" : [
+      "/Game/Libraries/MW5_TonnageAccess.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropPayoutWidget.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropSalvageHeader.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropSalvageItem.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropSalvageListPanel.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

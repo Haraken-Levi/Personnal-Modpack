@@ -1,0 +1,50 @@
+{
+	"YAMM-Refit": {
+		"name": "Field Refit",		"color": "(R=0.50,G=0.50,B=0.50,A=1)",
+		"description": "This mech is a field refit with a different loadout than the usual.",
+		"properties": {"InfoOnly": 1}},
+	"YAMM-RefitOLD": {
+		"name": "Field Refit",  	"color": "(R=0.75,G=0.50,B=0.50,A=1)",
+		"description": "This mech is a field refit with a different loadout than the usual.\n\n[Legacy YAMM v1.1 or older]",
+		"properties": {"InfoOnly": 1}},
+	"INTIMIDATING": {
+		"name": "Intimidating",		"color": "(R=0.00,G=0.55,B=0.55,A=1)",
+		"description": "This 'Mech has a fearsome reputation and/or appearance that can affect enemy competence",
+		"properties": {"dmgEvasionChance": 0.075}},
+	"YAMM_STRUCTSHAVE": {
+		"name": "Reduced Structure",	"color": "(R=0.10,G=0.65,B=0.65,A=1)",
+		"description": "The internal structure of this mech has been reduced for weight reduction at the cost of becoming much more brittle to impact.",
+		"properties": {"incomingDamage": {"groups": [{"weaponGroupName": "Received","tags": ["Weapon"],"structureDamageMulti": 1.17}]}}},
+	"AS7-KAT": {
+		"name": "KATaclysm",		"color": "(R=0.00,G=1.00,B=0.51,A=1)",
+	  	"description": "Unique set of quirks for the Atlas Kataclysm Hero 'Mech",
+		"properties": { "torsoTwistRateMulti": 1.15, "turnSpeedMulti": 1.20, "accelerationMulti": 1.15,
+			"weapons": {
+				"groups": [{"weaponGroupName": "LBX",
+						"tags": ["Weapon.Ballistic.AutoCannon.LBX"],
+				    			"speedMulti":  1.3,  "spreadRadiusMulti": 0.8,"optimalRangeMulti": 1.1},
+				  	   {"weaponGroupName": "Claws",
+						"tags": ["Weapon.Melee.Assault.Claws"],
+							"damageMulti": 1.25, "cooldownMulti":     0.85}
+				 	 ]}}
+	},
+	"RVN-NM": {
+		"name": "Nevermore",		"color": "(R=1.00,G=0.40,B=0.00,A=1)",
+		"description": "Unique set of quirks for the Raven Nevermore Hero 'Mech",
+		"properties": { "armorBonus": {"Head": 4},
+			"weapons": {
+				"groups": [{"weaponGroupName": "Weapon",
+						"tags": ["Weapon"],
+							"minRangeMulti": 0.8, "optimalRangeMulti": 1.2, "heatMulti": 0.9},
+					   {"weaponGroupName": "Rifle",
+						"tags": ["Weapon.Ballistic.Rifle"],
+							"cooldownMulti": 0.9, "damageMulti": 1.25},
+					   {"weaponGroupName": "Laser",
+						"tags": ["Weapon.Energy.Laser"], "excludeTags" : ["Weapon.Energy.Laser.Pulse"],
+							"durationMulti": 0.8},
+					  {"weaponGroupName": "LRM",
+						"tags": ["Weapon.Missile.LRM", "Weapon.ArtemisMissile.LRM", "Weapon.ArtemisMissile.MML"],
+							"cooldownMulti": 0.85}
+					]}}
+	}
+}

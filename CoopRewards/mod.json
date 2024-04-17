@@ -1,0 +1,16 @@
+{
+   "displayName" : "Co-op Rewards",
+   "version" : "2.1",
+   "buildNumber" : 14,
+   "description" : "Gives rewards to co-op players",
+   "author" : "Bobbert",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.338",
+   "manifest" : [
+      
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

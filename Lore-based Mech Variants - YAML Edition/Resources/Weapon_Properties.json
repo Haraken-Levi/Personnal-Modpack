@@ -1,0 +1,10 @@
+{
+	"Weapon.Melee.Medium.Katana": {
+		"armorComponentFront": 15,
+		"structureComponent": 12
+	},
+	"Weapon.Melee.Medium.Sword": {
+		"armorComponentFront": 15,
+		"structureComponent": 12
+	}
+}

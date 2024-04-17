@@ -1,0 +1,16 @@
+{
+   "displayName" : "Simple Zoom",
+   "version" : "1.2.6",
+   "buildNumber" : 18,
+   "description" : "Different implementation of advanced zoom that just increases user FOV.",
+   "author" : "Bobbert",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.338",
+   "manifest" : [
+      "/Game/Objects/_common/Components/PlayerControllerComponents/PlayerControllerSwitchMech.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

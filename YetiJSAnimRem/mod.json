@@ -1,0 +1,17 @@
+{
+  "displayName": "Yeti\u0027s Jumpship Animation Remover",
+  "version": "1.0",
+  "buildNumber": 9,
+  "description": "JS Animation Remover\r\n\r\nThe previous version by cszolee79 was causing my game to crash with it enabled, so i created my own. Hope it works. i will try an package a new version with every update to the base game if necessary.",
+  "author": "Yeti",
+  "authorURL": "",
+  "defaultLoadOrder": 29,
+  "gameVersion": "1.1.0",
+  "manifest": [
+    "/Game/Objects/Cinematics/Leopard_EventQueues/JumpSequence_Short.uasset"
+  ],
+  "steamPublishedFileId": 2611433872,
+  "steamLastSubmittedBuildNumber": 6,
+  "steamModVisibility": "Public",
+  "bEnabled": true
+}

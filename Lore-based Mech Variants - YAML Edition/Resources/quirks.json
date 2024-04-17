@@ -1,0 +1,11 @@
+{
+	"NONSTANDARDPARTS": {
+		"name": "Non-Standard Parts",
+		"description": "This 'Mech is built with little regard to maintenance",
+		"color": "(R=1.0,G=0.5,B=0.0,A=1)",
+		"properties": {
+			"structureRepairCostMulti": 1.25,
+			"structureRepairDaysMulti": 1.25
+		}
+	}
+}

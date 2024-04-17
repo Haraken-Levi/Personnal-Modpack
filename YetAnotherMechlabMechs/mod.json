@@ -1,0 +1,31 @@
+{
+   "displayName" : "Yet Another Mechlab Mechs",
+   "version" : "1.3m-Milestone",
+   "buildNumber" : 313,
+   "description" : "Adds new innersphere mech variants and loadouts with non-vanilla weapons.\r\n\r\nThey will spawn as enemies and as market items. Only new base variants show in Instant Action.This mod requires Yet Another Mechlab and Yet Another Weapon mods.",
+   "author" : "Chozo4",
+   "authorURL" : "https://www.nexusmods.com/mechwarrior5mercenaries/mods/816",
+   "defaultLoadOrder" : 7,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/DLC1/Objects/Mechs/Corsair/Model/Weapons/Weapon_Mech_COR_Upperarm_Left_AH1_AMS.uasset",
+      "/Game/DLC1/Objects/Mechs/Corsair/Model/Weapons/Weapon_Mech_COR_Upperarm_Left_AH1_Lams.uasset",
+      "/Game/DLC1/Objects/Mechs/Corsair/Model/Weapons/Weapon_Mech_COR_Upperarm_Right_AH1_AMS.uasset",
+      "/Game/DLC1/Objects/Mechs/Corsair/Model/Weapons/Weapon_Mech_COR_Upperarm_Right_AH1_Lams.uasset",
+      "/Game/DLC1/Objects/Mechs/Phoenixhawk/Loadout/PXH-2_Loadout.uasset",
+      "/Game/DLC1/Objects/Mechs/Phoenixhawk/Loadout/PXH-3S_Loadout.uasset",
+      "/Game/DLC1/Objects/Mechs/Phoenixhawk/Loadout/PXH-R_Loadout.uasset",
+      "/Game/DLC1/Objects/Mechs/Phoenixhawk/MDA/PXH-3S_MDA.uasset",
+      "/Game/DLC1/Objects/Mechs/Phoenixhawk/MDA/PXH-R_MDA.uasset",
+      "/Game/Objects/Mechs/Griffin/Model/Griffin_HPS.uasset",
+      "/Game/Objects/Mechs/Kintaro/Animation/KTO_FP_Jumpjetting_Neutral_ANI.uasset",
+      "/Game/Objects/Mechs/Kintaro/Animation/KTO_Jumpjetting_Neutral_ANI.uasset",
+      "/Game/Objects/Mechs/Phoenixhawk/Loadout/PXH-1_Loadout.uasset",
+      "/Game/Objects/Mechs/Phoenixhawk/MDA/PXH-1_MDA.uasset",
+      "/Game/Objects/Mechs/Raven/Model/Raven_HPS.uasset",
+      "/Game/Objects/Mechs/Urbanmech/Model/Urbanmech_HPS.uasset"
+   ],
+   "steamPublishedFileId" : 2950358682,
+   "steamLastSubmittedBuildNumber" : 183,
+   "steamModVisibility" : "Public"
+}

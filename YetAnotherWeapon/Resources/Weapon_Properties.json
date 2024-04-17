@@ -1,0 +1,29 @@
+{
+	"Weapon.Ballistic.Artillery.LongTom.Artillery": {
+		"minTonnage": 80,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm"
+		]
+	},
+	"Weapon.Ballistic.Artillery.LongTom.Cannon": {
+		"minTonnage": 70,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm"
+		]
+	},
+	"Weapon.Ballistic.Artillery.Sniper.Artillery": {
+		"minTonnage": 70,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm"
+		]
+	},
+	"Weapon.Ballistic.GaussRifle.HeavyGauss": {
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm"
+		]
+	}
+}

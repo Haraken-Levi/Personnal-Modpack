@@ -1,0 +1,8316 @@
+{
+	"KGC-PPLORD": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"MAD-PPLORD": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"NSR-PPLORD": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"RVN-PPLORD": {
+		"scale": "X=1.4 Y=1.4 Z=1.4",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"RFL-PPLORD": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"STK-PPLORD": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"PP-LORD",
+			"PP-SENSORS",
+			"PRTLORD"
+		]
+	},
+	"ORCA_MDL": {
+		"quirks": [
+			"DISTRACTING",
+			"HARD-PILOT",
+			"OBSOLE",
+			"POORPF",
+			"PROTOT"
+		]
+	},
+	"OC-1X": {
+		"scale": "X=1.15 Y=1.15 Z=1.15",
+		"quirks": [
+			"DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT",
+			"MECHART"
+		]
+	},
+	"OC-PPIII": {
+		"scale": "X=1.15 Y=1.15 Z=1.15",
+		"quirks": [
+			"DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT",
+			"KILLPRT",
+			"KILLPRT1",
+			"KILLPRT2",
+			"KILLPRT3",
+			"KILLPRT4",
+			"PRTPPIII"
+		]
+	},
+	"Mackie_MDL": {
+		"quirks": []
+	},
+	"MSK-9H-KR": {
+		"quirks": [
+			"OBSOLE",
+			"POORPF",
+			"KILLROY",
+			"KILLROY1",
+			"KILLROY2",
+			"KILLROY3"
+		]
+	},
+	"MSK-FLF": {
+		"quirks": [
+			"OBSOLE",
+			"POORPF",
+			"FLOOF",
+			"FLOOF1"
+		]
+	},
+	"MSK-FLK-FLACKIE": {
+		"quirks": [
+			"OBSOLE",
+			"POORPF",
+			"BALSND"
+		]
+	},
+	"MSK-5S": {
+		"quirks": [
+			"PROTOT",
+			"OBSOLE",
+			"POORPF",
+			"RELIC",
+			"ATCCLD"
+		]
+	},
+	"MSK-6S": {
+		"quirks": [
+			"PROTOT",
+			"OBSOLE",
+			"POORPF",
+			"RELIC",
+			"PPCVEL"
+		]
+	},
+	"MSK-7A": {
+		"quirks": [
+			"PROTOT",
+			"OBSOLE",
+			"POORPF",
+			"RELIC",
+			"ENGHET"
+		]
+	},
+	"MSK-8B": {
+		"quirks": [
+			"PROTOT",
+			"OBSOLE",
+			"POORPF",
+			"RELIC",
+			"PPCCLD"
+		]
+	},
+	"MSK-9H": {
+		"quirks": [
+			"OBSOLE",
+			"POORPF",
+			"SLDFR"
+		]
+	},
+	"MSK-9UJ": {
+		"quirks": [
+			"PROTOT",
+			"OBSOLE",
+			"POORPF",
+			"RELIC",
+			"SYKE"
+		]
+	},
+	"AlphaWolf-Prime": {
+		"quirks": [
+			"PRIME",
+			"CLNEND"
+		]
+	},
+	"AlphaWolf-A": {
+		"quirks": [
+			"SRMSTCLD",
+			"ENGALL",
+			"CLNEND"
+		]
+	},
+	"AlphaWolf-B": {
+		"quirks": [
+			"BALGAR",
+			"SRMMRP",
+			"CLNEND"
+		]
+	},
+	"AlphaWolf-C": {
+		"quirks": [
+			"LASALL",
+			"LRMCLU",
+			"CLNEND"
+		]
+	},
+	"BA-PP-B": {
+		"scale": "X=0.35 Y=0.35 Z=0.35",
+		"quirks": [
+			"BATTLE_ARMOR_PROFILE"
+		]
+	},
+	"BA-PPI": {
+		"scale": "X=0.35 Y=0.35 Z=0.35",
+		"quirks": [
+			"BATTLE_ARMOR_PROFILE"
+		]
+	},
+	"MK-Kitty (P)": {
+		"scale": "X=0.4 Y=0.4 Z=0.4",
+		"quirks": [
+			"PRPRF",
+			"PRMOBILE"
+		]
+	},
+	"Amarok_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"STABLE",
+			"CLNEND"
+		]
+	},
+	"Amarok I": {
+		"quirks": [
+			"BALRJC",
+			"ENDZOM"
+		]
+	},
+	"Amarok II": {
+		"quirks": [
+			"LPSHEV",
+			"GAUGAB"
+		]
+	},
+	"Amarok III": {
+		"quirks": [
+			"GAUHAG",
+			"LBECRB"
+		]
+	},
+	"Annihilator_MDL": {
+		"quirks": [
+			"BSC-SYSTEM",
+			"EASYTOMAINTAIN",
+			"DISTRACTING",
+			"POWER-REVERSE"
+		]
+	},
+	"Annihilator_MDL_2": {
+		"quirks": [
+			"BSC-SYSTEM",
+			"EASYTOMAINTAIN",
+			"DISTRACTING",
+			"POWER-REVERSE"
+		]
+	},
+	"ANH-MB": {
+		"quirks": [
+			"MBABY",
+			"MBABY1",
+			"MBABY2"
+		]
+	},
+	"ANH-DHNT": {
+		"quirks": [
+			"DHUNT",
+			"DHUNT1",
+			"DHUNT2"
+		]
+	},
+	"ANH-1A": {
+		"quirks": [
+			"ATCHET"
+		]
+	},
+	"ANH-1E": {
+		"quirks": [
+			"PPCHET"
+		]
+	},
+	"ANH-1G": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"ANH-1P": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"ANH-1X": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"ANH-2A": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"ANH-2AX": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"ANH-5W": {
+		"quirks": [
+			"BALGAB",
+			"LPSGEN",
+			"CLNEND"
+		]
+	},
+	"ANH-C": {
+		"quirks": [
+			"UACALL",
+			"CLNEND"
+		]
+	},
+	"ANH-C 2": {
+		"quirks": [
+			"GAUALL",
+			"CLNEND"
+		]
+	},
+	"ANH-3A": {
+		"quirks": [
+			"BALSND"
+		]
+	},
+	"ANH-4A": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"ANH-PPIA": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ANH-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ANH-PPIC": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ANH-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ANH-PPIIB": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ANH-PPIIC": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ANH-PPIIIA": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"ANH-PPIIIB": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"ANH-PPIIIC": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"ANH-PPIV (P)": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"Archer_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"STABLE",
+			"UBIQUITOUS",
+			"ARCMCD"
+		]
+	},
+	"ArcherV_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"STABLE",
+			"UBIQUITOUS",
+			"ARCMCD"
+		]
+	},
+	"ARC-T": {
+		"quirks": [
+			"TEMPEST",
+			"TEMPEST1",
+			"TEMPEST2"
+		]
+	},
+	"ARC-AGC": {
+		"quirks": [
+			"AGCOURT",
+			"AGCOURT1",
+			"AGCOURT2"
+		]
+	},
+	"ARC-2K": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"ARC-2P": {
+		"quirks": [
+			"MELHEV"
+		]
+	},
+	"ARC-2R": {
+		"quirks": [
+			"MSLCLD"
+		]
+	},
+	"ARC-2RB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"ARC-2S": {
+		"quirks": [
+			"MSLHET"
+		]
+	},
+	"ARC-2W": {
+		"quirks": [
+			"LRMSPR"
+		]
+	},
+	"ARC-4M": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"ARC-4M2": {
+		"quirks": [
+			"LRMUNS"
+		]
+	},
+	"ARC-5CS": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"ARC-5R": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"ARC-5S": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"ARC-5W": {
+		"quirks": [
+			"ATMCRM"
+		]
+	},
+	"ARC-5WX": {
+		"quirks": [
+			"MRMCRM"
+		]
+	},
+	"ARC-6S": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"ARC-6W": {
+		"quirks": [
+			"RKTVEL"
+		]
+	},
+	"ARC-7C": {
+		"quirks": [
+			"LRMUNS",
+			"CLNEND"
+		]
+	},
+	"ARC-7L": {
+		"quirks": [
+			"LRMHOT"
+		]
+	},
+	"ARC-7S": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"ARC-8M": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"ARC-9K": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"ARC-9KC": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"ARC-9M": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"ARC-9R": {
+		"quirks": [
+			"LRMBLT"
+		]
+	},
+	"ARC-9W": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"ARC-C (C)": {
+		"quirks": [
+			"LRMALL",
+			"CLNEND"
+		]
+	},
+	"ARC-C 2 (C)": {
+		"quirks": [
+			"SRMSTCLD",
+			"CLNEND"
+		]
+	},
+	"ARC-WOLF": {
+		"quirks": [
+			"LRMCRM",
+			"MERCWLFD"
+		]
+	},
+	"ARC-PPI(P)": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ARC-PPIIA (P)": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ARC-PPIIB (P)": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ARC-PPIIIA (P)": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"ARC-PPIIIB (P)": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Arcticwolf2_MDL": {
+		"quirks": [
+			"CLNEND"
+		]
+	},
+	"ArcticWolfII-A": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"ArcticWolfII-B": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"ArcticWolfII-C": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"ArcticWolfII-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"Assassin_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"CRAMPED-COCKPIT",
+			"NON-STANDARD-PARTS",
+			"POOR-LIFE-SUPPORT"
+		]
+	},
+	"ASN-DD": {
+		"quirks": [
+			"DKDTH",
+			"DKDTH1",
+			"DKDTH2",
+			"DKDTH3"
+		]
+	},
+	"ASN-101": {
+		"quirks": [
+			"ENGCLD"
+		]
+	},
+	"ASN-21": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"ASN-23": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"ASN-25": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"ASN-26": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"ASN-27": {
+		"quirks": [
+			"PPCHET"
+		]
+	},
+	"ASN-30": {
+		"quirks": [
+			"BALLRF"
+		]
+	},
+	"ASN-99": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"ASN-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ASN-PPII": {
+		"quirks": [
+			""
+		]
+	},
+	"ASN-PPIII": {
+		"quirks": [
+			""
+		]
+	},
+	"Argus_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"AGS-2D": {
+		"quirks": [
+			"LRMUNS"
+		]
+	},
+	"AGS-4D": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"AGS-5D": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"AGS-6F": {
+		"quirks": [
+			"ATCALL"
+		]
+	},
+	"AGS-8DX": {
+		"quirks": [
+			"BALRJC",
+			"ENGFST"
+		]
+	},
+	"AGS-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"AGS-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Atlas_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING",
+			"IMPROVED-COMS"
+		]
+	},
+	"AS7-BH": {
+		"quirks": [
+			"BHEAD",
+			"BHEAD1",
+			"BHEAD2",
+			"BHEAD3",
+			"AS7ACD"
+		]
+	},
+	"AS7-KR": {
+		"quirks": [
+			"KRAKEN",
+			"KRAKEN1",
+			"KRAKEN2",
+			"KRAKEN3",
+			"AS7ACD"
+		]
+	},
+	"AS7-00": {
+		"quirks": [
+			"BALAPDS",
+			"AS7ACD"
+		]
+	},
+	"AS7-A": {
+		"quirks": [
+			"MSLVEL",
+			"AS7ACD"
+		]
+	},
+	"AS7-C": {
+		"quirks": [
+			"LPSLAR",
+			"AS7ACD"
+		]
+	},
+	"AS7-D": {
+		"quirks": [
+			"ATCVEL",
+			"AS7ACD"
+		]
+	},
+	"AS7-D (C)": {
+		"quirks": [
+			"UACRNG",
+			"CLNEND",
+			"AS7ACD"
+		]
+	},
+	"AS7-D-DC": {
+		"quirks": [
+			"BALAPCR",
+			"AS7ACD"
+		]
+	},
+	"AS7-D-H": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"AS7-DR": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"AS7-K": {
+		"quirks": [
+			"ENGALL",
+			"AS7ACD"
+		]
+	},
+	"AS7-K-DC": {
+		"quirks": [
+			"LRMCLD",
+			"AS7ACD"
+		]
+	},
+	"AS7-K2": {
+		"quirks": [
+			"SRMSTCLD",
+			"AS7ACD"
+		]
+	},
+	"AS7-K3": {
+		"quirks": [
+			"LEMLBN",
+			"AS7ACD"
+		]
+	},
+	"AS7-K4": {
+		"quirks": [
+			"DRKAGEAS7",
+			"DRKAGEAS71",
+			"DRKAGEAS72",
+			"DRKAGEAS73",
+			"AS7ACD"
+		]
+	},
+	"AS7-P": {
+		"quirks": [
+			"MELASS",
+			"AS7ACD"
+		]
+	},
+	"AS7-RS": {
+		"quirks": [
+			"LRMCLD",
+			"AS7ACD"
+		]
+	},
+	"AS7-S": {
+		"quirks": [
+			"MSLALL",
+			"AS7ACD"
+		]
+	},
+	"AS7-S2": {
+		"quirks": [
+			"GAUHEV",
+			"AS7ACD"
+		]
+	},
+	"AS7-S3": {
+		"quirks": [
+			"PPCSTC",
+			"AS7ACD"
+		]
+	},
+	"AS8-D": {
+		"quirks": [
+			"MMLHE",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIA": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"AS7-PPIB": {
+		"quirks": [
+			"PRTPPI",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIC": {
+		"quirks": [
+			"PRTPPI",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIIA": {
+		"quirks": [
+			"PRTPPII",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIIB": {
+		"quirks": [
+			"PRTPPII",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIIC": {
+		"quirks": [
+			"PRTPPII",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIIIA": {
+		"quirks": [
+			"PRTPPIII",
+			"AS7ACD"
+		]
+	},
+	"AS7-PPIIIB": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"AS7-PPIIIC": {
+		"quirks": [
+			"PRTPPIII",
+			"AS7ACD"
+		]
+	},
+	"AS7-D3_11A": {
+		"quirks": [
+			"CMD-MECH",
+			"DISTRACTING",
+			"PROTECTED-ACTUATOR",
+			"AS7ACD",
+			"ATCALL"
+		]
+	},
+	"Awesome_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"AWS-PPC"
+		]
+	},
+	"AWS-PB": {
+		"quirks": [
+			"PBABY",
+			"PBABY1",
+			"PBABY2",
+			"PBABY3"
+		]
+	},
+	"AWS-11H": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"AWS-10KM": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"AWS-11M": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"AWS-8Q": {
+		"quirks": [
+			"PPCHET"
+		]
+	},
+	"AWS-8R": {
+		"quirks": [
+			"MSLDMM"
+		]
+	},
+	"AWS-8T": {
+		"quirks": [
+			"LRMCLD"
+		]
+	},
+	"AWS-8V": {
+		"quirks": [
+			"PPCSPD"
+		]
+	},
+	"AWS-9Q": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"AWS-PPI (P)": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"AWS-PPII (P)": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"AWS-PPIII (P)": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Bane_MDL": {
+		"quirks": [
+			""
+		]
+	},
+	"Bane-2": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"UACRNG"
+		]
+	},
+	"Bane-3": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"LRMALL"
+		]
+	},
+	"Bane-4": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"UACALL"
+		]
+	},
+	"Bane-5": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"RACICE"
+		]
+	},
+	"Bane-6": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"BALSND"
+		]
+	},
+	"Bane-7": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"BALGAR"
+		]
+	},
+	"Bane-Prime": {
+		"quirks": [
+			"EXT_TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND",
+			"PRIME"
+		]
+	},
+	"Lady Killer": {
+		"quirks": [
+			"LDYKLR",
+			"LDYKLR1",
+			"LDYKLR2",
+			"LDYKLR3",
+			"EXT-TWIST",
+			"PROTECTED-ACTUATOR",
+			"CLNEND"
+		]
+	},
+	"Banshee_MDL": {
+		"quirks": [
+			"RUGGED1",
+			"BNC-MELEE"
+		]
+	},
+	"BNC-LM": {
+		"quirks": [
+			"LMAL",
+			"LMAL1",
+			"LMAL2",
+			"LMAL3"
+		]
+	},
+	"BNC-SR": {
+		"quirks": [
+			"SIREN",
+			"SIREN1",
+			"SIREN2",
+			"SIREN3"
+		]
+	},
+	"BNC-12S": {
+		"quirks": [
+			"DRKAGEBNC",
+			"DRKAGEBNC1",
+			"DRKAGEBNC2",
+			"DRKAGEBNC3",
+			"DRKAGEBNC4"
+		]
+	},
+	"BNC-1E": {
+		"quirks": [
+			"PROTOT"
+		]
+	},
+	"BNC-2P": {
+		"quirks": [
+			"WHKBOT",
+			"MELASS"
+		]
+	},
+	"BNC-3E": {
+		"quirks": [
+			"PPCCLD"
+		]
+	},
+	"BNC-3M": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"BNC-3MC": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"BNC-3P": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"BNC-3Mr": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"BNC-3Q": {
+		"quirks": [
+			"ATCDMM"
+		]
+	},
+	"BNC-3S": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"BNC-5S": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"BNC-6S": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"BNC-7S": {
+		"quirks": [
+			"SRMCRM",
+			"MELASS"
+		]
+	},
+	"BNC-8S": {
+		"quirks": [
+			"LBXCLU"
+		]
+	},
+	"BNC-9S": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"BNC-9S2": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"BNC-PPI (P)": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"BNC-PPII (P)": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"BNC-PPIIIA (P)": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"BNC-PPIIIB (P)": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Battlemaster_MDL": {
+		"quirks": [
+			"CMD-MECH"
+		]
+	},
+	"BLR-1GHE": {
+		"quirks": [
+			"HSLING",
+			"HSLING1",
+			"HSLING2",
+			"HSLING3"
+		]
+	},
+	"BLR-10S": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"BLR-1C": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"BLR-1D": {
+		"quirks": [
+			"PPCSPD"
+		]
+	},
+	"BLR-1G": {
+		"quirks": [
+			"BALDMM"
+		]
+	},
+	"BLR-1Gb (R)": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"BLR-1Gd": {
+		"quirks": [
+			"LPSRNGP"
+		]
+	},
+	"BLR-1M": {
+		"quirks": [
+			"MELASS"
+		]
+	},
+	"BLR-1P": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"BLR-1S": {
+		"quirks": [
+			"LRMCLD"
+		]
+	},
+	"BLR-2C": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"BLR-3M": {
+		"quirks": [
+			"LPSMEO",
+			"ENDZOM"
+		]
+	},
+	"BLR-3S": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"BLR-4L": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"BLR-4S": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"BLR-5M": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"BLR-6G": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"BLR-6M": {
+		"quirks": [
+			"TBDHOT"
+		]
+	},
+	"BLR-6X": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"BLR-C (C)": {
+		"quirks": [
+			"GAUALL",
+			"CLNEND"
+		]
+	},
+	"BLR-C2 (C)": {
+		"quirks": [
+			"LBECON",
+			"CLNEND"
+		]
+	},
+	"BLR-CM": {
+		"quirks": [
+			"MRMTDB"
+		]
+	},
+	"BLR-K3": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"BLR-K4": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"BLR-M3": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"BLR-C3 (C)": {
+		"quirks": [
+			"BALMGRF",
+			"LBEXPL",
+			"SRMCRM",
+			"CLNEND"
+		]
+	},
+	"BLR-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"BLR-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"BLR-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"BlackKnight_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"ARMBLK"
+		]
+	},
+	"BL-KNT": {
+		"quirks": [
+			"BLKNT",
+			"BLKNT1"
+		]
+	},
+	"BL-G-KNT": {
+		"quirks": [
+			"GUERILLA",
+			"GUERILLA1",
+			"GUERILLA2",
+			"GUERILLA3"
+		]
+	},
+	"BL-P-KNT": {
+		"quirks": [
+			"PARTI",
+			"PARTI1",
+			"PARTI2",
+			"PARTI3"
+		]
+	},
+	"BL-P-KNT2": {
+		"quirks": [
+			"PARTIMKII",
+			"PARTIMKII1",
+			"PARTIMKII2",
+			"PARTIMKII3"
+		]
+	},
+	"BL-12-KNT": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"BL-18-KNT": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"BL-6-KNT": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"BL-6B-KNT": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"BL-7-KNT": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"BL-7-KNT-L": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"BL-7-KNT-P": {
+		"quirks": [
+			"MELHEV"
+		]
+	},
+	"BL-6-RR": {
+		"quirks": [
+			"LASALL",
+			"CLNEND"
+		]
+	},
+	"BL-9-KNT": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"BL-NT-2Y": {
+		"quirks": [
+			"LASHIGH"
+		]
+	},
+	"BL-NT-3A": {
+		"quirks": [
+			"LBECRB"
+		]
+	},
+	"BL-NT-3B": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"BL-NT-4D": {
+		"quirks": [
+			"LASCLD"
+		]
+	},
+	"BL-NT-5H": {
+		"quirks": [
+			"DRKAGEBK",
+			"DRKAGEBK1",
+			"DRKAGEBK2",
+			"DRKAGEBK3"
+		]
+	},
+	"BL-NT-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"BL-NT-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"BL-NT-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"BL-NT-PPIV": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"Blackjack_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING"
+		]
+	},
+	"BJ-A": {
+		"quirks": [
+			"TARROW",
+			"TARROW1",
+			"TARROW2"
+		]
+	},
+	"BJ-1": {
+		"quirks": [
+			"RFLARM",
+			"ATCVEL"
+		]
+	},
+	"BJ-1DB": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"BJ-1DC": {
+		"quirks": [
+			"RFLARM",
+			"ATCCLD"
+		]
+	},
+	"BJ-1X": {
+		"quirks": [
+			"BURNHT"
+		]
+	},
+	"BJ-2": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"BJ-2R": {
+		"quirks": [
+			"LBEXPL"
+		]
+	},
+	"BJ-3": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"BJ-4": {
+		"quirks": [
+			"RFLARM",
+			"ATCRAC"
+		]
+	},
+	"BJ-HKR": {
+		"quirks": [
+			"HOOKER",
+			"HOOKER1",
+			"HOOKER2"
+		]
+	},
+	"BJ-5": {
+		"quirks": [
+			"RFLARM",
+			"PPCARC",
+			"BALEAF"
+		]
+	},
+	"BJ-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"BJ-PPII": {
+		"quirks": [
+			"RFLARM",
+			"PRTPPII"
+		]
+	},
+	"BJ-PPIII": {
+		"quirks": [
+			"WOBBREL",
+			"PRTPPIII"
+		]
+	},
+	"BZR_11A": {
+		"quirks": [
+			"BZRBOT",
+			"BZRARM"
+		]
+	},
+	"Bushwacker_MDL": {
+		"quirks": [
+			"NARROW"
+		]
+	},
+	"BSW-L1": {
+		"quirks": [
+			"LBXCLU"
+		]
+	},
+	"BSW-S2": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"BSW-S2R": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"BSW-X1": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"BSW-X2": {
+		"quirks": [
+			"BALAPCR"
+		]
+	},
+	"BSW-X4": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"Cataphract_MDL": {
+		"quirks": [
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"CTF-IM": {
+		"quirks": [
+			"IMETS",
+			"IMETS1",
+			"IMETS2"
+		]
+	},
+	"CTF-0X": {
+		"quirks": [
+			"PROTOT"
+		]
+	},
+	"CTF-0XP": {
+		"quirks": [
+			"PROTOT"
+		]
+	},
+	"CTF-1X": {
+		"quirks": [
+			"PPCHET"
+		]
+	},
+	"CTF-2P": {
+		"quirks": [
+			"MELHEV"
+		]
+	},
+	"CTF-2X": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"CTF-3D": {
+		"quirks": [
+			"BALALL"
+		]
+	},
+	"CTF-3L": {
+		"quirks": [
+			"LNBREAK"
+		]
+	},
+	"CTF-3LL": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"CTF-4L": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"CTF-4X": {
+		"quirks": [
+			"BALEAF"
+		]
+	},
+	"CTF-5D": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"CTF-5L": {
+		"quirks": [
+			"WOBBREL"
+		]
+	},
+	"CTF-L13": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"CTF-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CTF-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CTF-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Catapult_MDL": {
+		"quirks": [
+			"MISSILERY_SUITE",
+			"WEAK-HEAD-1",
+			"NIMBLEJUMPER",
+			"IMPROVED_EJECT",
+			"NIMBLEJUMPER",
+			"MISSILEBOAT",
+			"UBIQUITOUS",
+			"RUGGED2",
+			"CPTARM"
+		]
+	},
+	"Catapult_MDL_2": {
+		"quirks": [
+			"MISSILERY_SUITE",
+			"WEAK-HEAD-1",
+			"NIMBLEJUMPER",
+			"IMPROVED_EJECT",
+			"NIMBLEJUMPER",
+			"MISSILEBOAT",
+			"UBIQUITOUS",
+			"RUGGED2",
+			"CPTARM"
+		]
+	},
+	"CPLT-BB": {
+		"quirks": [
+			"BBEE",
+			"BBEE1",
+			"BBEE2"
+		]
+	},
+	"CPLT-J": {
+		"quirks": [
+			"JESTER",
+			"JESTER1",
+			"JESTER2"
+		]
+	},
+	"CPLT-A1": {
+		"quirks": [
+			"LRMHOT"
+		]
+	},
+	"CPLT-BAN": {
+		"quirks": [
+			"BAN",
+			"BAN1",
+			"BAN2"
+		]
+	},
+	"CPLT-C1": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"CPLT-C1B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CPLT-C2": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"CPLT-C3": {
+		"quirks": [
+			"MECHART"
+		]
+	},
+	"CPLT-C4": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"CPLT-C4C": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"CPLT-C5": {
+		"quirks": [
+			"MECHART"
+		]
+	},
+	"CPLT-C5A": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"CPLT-C6": {
+		"quirks": [
+			"PLRCLD"
+		]
+	},
+	"CPLT-H2": {
+		"quirks": [
+			"RKTCLU"
+		]
+	},
+	"CPLT-K2": {
+		"quirks": [
+			"WARHMR",
+			"PPCVEL"
+		]
+	},
+	"CPLT-K2K": {
+		"quirks": [
+			"WARHMR",
+			"PPCALL"
+		]
+	},
+	"CPLT-K3": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"CPLT-K4": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"CPLT-K5": {
+		"quirks": [
+			"MRMTDB"
+		]
+	},
+	"CPLT-K6": {
+		"quirks": [
+			"LRMUNS"
+		]
+	},
+	"CPLT-PPIA": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CPLT-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CPLT-PPIC": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CPLT-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CPLT-PPIIB": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CPLT-PPIIC": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CPLT-PPIIIA": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"CPLT-PPIIIB": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"CPLT-PPIIIC": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Centurion_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"NON-STANDARD-PARTS",
+			"CN9-SHIELD"
+		]
+	},
+	"CN9-YLW": {
+		"quirks": [
+			"YENLOW",
+			"YENLOW1",
+			"YENLOW2"
+		]
+	},
+	"CN9-YLW2": {
+		"quirks": [
+			"YENLOW",
+			"YENLOW1",
+			"YENLOW2",
+			"MELMED"
+		]
+	},
+	"CN10-B": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"CN10-D": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"CN10-J": {
+		"quirks": [
+			"POPTART"
+		]
+	},
+	"CN10-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"CN9-A": {
+		"quirks": [
+			"BEGIN",
+			"ATCCLD"
+		]
+	},
+	"CN9-AH": {
+		"quirks": [
+			"BALAPCR"
+		]
+	},
+	"CN9-AL": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"CN9-AR": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"CN9-D": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"CN9-D3": {
+		"quirks": [
+			"ENGFST"
+		]
+	},
+	"CN9-D3D": {
+		"quirks": [
+			"SCOUT"
+		]
+	},
+	"CN9-D4D": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"CN9-D5": {
+		"quirks": [
+			"BALRJC"
+		]
+	},
+	"CN9-D9": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"CN9-DA": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"CN9-H2": {
+		"quirks": [
+			"BALUFE",
+			"PPCCLD"
+		]
+	},
+	"CN9-H3": {
+		"quirks": [
+			"RKTFCK"
+		]
+	},
+	"CN10-W": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"CN9-P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"CN9-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CN9-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"Champion_MDL": {
+		"quirks": [
+			"MIN_ARMS",
+			"EASY_PILOT",
+			"HIGH_MANEUVER",
+			"AERODYNAMIC",
+			"EASY-PILOT"
+		]
+	},
+	"Champion_MDL_2": {
+		"quirks": [
+			"MIN_ARMS",
+			"EASY_PILOT",
+			"HIGH_MANEUVER",
+			"AERODYNAMIC",
+			"EASY-PILOT"
+		]
+	},
+	"CHP-INV": {
+		"quirks": [
+			"INVICT",
+			"INVICT1",
+			"INVICT2"
+		]
+	},
+	"CHP-1N": {
+		"quirks": [
+			"LBXDMM"
+		]
+	},
+	"CHP-1N2": {
+		"quirks": [
+			"LBXEXR"
+		]
+	},
+	"CHP-1NB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CHP-2N": {
+		"quirks": [
+			"LPSDMG"
+		]
+	},
+	"CHP-3N": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"CHP-3P": {
+		"quirks": [
+			"BALAPCR",
+			"LPSRNG"
+		]
+	},
+	"CHP-C": {
+		"quirks": [
+			"ENGALL",
+			"CLNEND"
+		]
+	},
+	"CHP-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CHP-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CHP-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"CHP-1X1": {
+		"quirks": [
+			"MIN_ARMS",
+			"EASY_PILOT",
+			"HIGH_MANEUVER",
+			"AERODYNAMIC",
+			"EASY-PILOT",
+			"LAMFCK"
+		]
+	},
+	"Charger_MDL": {
+		"quirks": [
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"CGR-N7": {
+		"quirks": [
+			"NUMSEV",
+			"NUMSEV1",
+			"NUMSEV2"
+		]
+	},
+	"CGR-1A1": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"CGR-1A5": {
+		"quirks": [
+			"BALBRC"
+		]
+	},
+	"CGR-1A9": {
+		"quirks": [
+			"BAD-REP",
+			"LRMCRM"
+		]
+	},
+	"CGR-1P5": {
+		"quirks": [
+			"MELASS"
+		]
+	},
+	"CGR-3K": {
+		"quirks": [
+			"LRMHOT"
+		]
+	},
+	"Cicada_MDL": {
+		"quirks": [
+			"EASY-PILOT",
+			"IMPROVED-TARGETING",
+			"NON-STANDARD-PARTS",
+			"SCOUT"
+		]
+	},
+	"CDA-X5": {
+		"quirks": [
+			"X5",
+			"X51",
+			"X52"
+		]
+	},
+	"CDA-2A": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"CDA-2B": {
+		"quirks": [
+			"BURNHT"
+		]
+	},
+	"CDA-3C": {
+		"quirks": [
+			"PPCCLD"
+		]
+	},
+	"CDA-3F": {
+		"quirks": [
+			"PPCDML"
+		]
+	},
+	"CDA-3G": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"CDA-3M": {
+		"quirks": [
+			"BALUFE"
+		]
+	},
+	"CDA-3MA": {
+		"quirks": [
+			"LBECON"
+		]
+	},
+	"CDA-3P": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"CDA-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CDA-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CDA-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Clint_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING-LONG",
+			"EXP-ACTUATOR",
+			"DIFFICULTTOMAINTAIN",
+			"NON-STANDARD-PARTS"
+		]
+	},
+	"CLNT-2-3T-Denton": {
+		"quirks": [
+			"DENTON",
+			"DENTON1",
+			"DENTON2",
+			"DENTON3"
+		]
+	},
+	"CLNT-1-2R": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CLNT-2-3T": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"CLNT-2-3U": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"CLNT-2-3UL": {
+		"quirks": [
+			"PLRALL"
+		]
+	},
+	"CLNT-2-4T": {
+		"quirks": [
+			"BALSND"
+		]
+	},
+	"CLNT-3-3T": {
+		"quirks": [
+			"BALAPDS"
+		]
+	},
+	"CLNT-5U": {
+		"quirks": [
+			"ARMFLW"
+		]
+	},
+	"CLNT-6S": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"CLNT-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CLNT-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CLNT-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Commando_MDL": {
+		"quirks": [
+			"NARROW",
+			"EXP-ACTUATOR"
+		]
+	},
+	"COM-TDK": {
+		"quirks": [
+			"HERTDK",
+			"HERARM"
+		]
+	},
+	"COM-1B": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"COM-1D": {
+		"quirks": [
+			"MSLHET"
+		]
+	},
+	"COM-2D": {
+		"quirks": [
+			"SRMSPD"
+		]
+	},
+	"COM-2DR": {
+		"quirks": [
+			"MMLALL",
+			"LPSRNG"
+		]
+	},
+	"COM-2P": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"COM-3A": {
+		"quirks": [
+			"SRMEXR"
+		]
+	},
+	"COM-4H": {
+		"quirks": [
+			"MSLCRM"
+		]
+	},
+	"COM-5S": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"COM-7B": {
+		"quirks": [
+			"BURNHT",
+			"SRMSPR"
+		]
+	},
+	"COM-7S": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"COM-7S2": {
+		"quirks": [
+			"FREYR"
+		]
+	},
+	"COM-7X": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"COM-8S": {
+		"quirks": [
+			"SCOUT"
+		]
+	},
+	"COM-9S": {
+		"quirks": [
+			"MMLALL",
+			"PPCBYP"
+		]
+	},
+	"COM-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"COM-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"COM-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Corsair_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"RUGGED1"
+		]
+	},
+	"COR-PVT": {
+		"quirks": [
+			"PRIVT",
+			"PRIVT1",
+			"PRIVT2"
+		]
+	},
+	"COR-RA": {
+		"quirks": [
+			"RAVAGER",
+			"RAVAGER1",
+			"RAVAGER2",
+			"RAVAGER3"
+		]
+	},
+	"COR-4T": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-5H": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-5R": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-6B": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-7C": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-7C2": {
+		"quirks": [
+			""
+		]
+	},
+	"COR-7R": {
+		"quirks": [
+			""
+		]
+	},
+	"Crab_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"CRB-FL": {
+		"quirks": [
+			"FLOREN",
+			"FLOREN1",
+			"FLOREN2",
+			"FLOREN3"
+		]
+	},
+	"CRB-20": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"CRB-27": {
+		"quirks": [
+			"ENGEXR"
+		]
+	},
+	"CRB-27B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CRB-27C": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"CRB-27SL": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CRB-30": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"CRB-45": {
+		"quirks": [
+			"PPCDML",
+			"PPCHET"
+		]
+	},
+	"CRB-54": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"CRB-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"CRB-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"CRB-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Crusader_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"RUGGED1",
+			"UBIQUITOUS",
+			"STABILIZED-WEAPON",
+			"CRUSADER"
+		]
+	},
+	"CRD-CR": {
+		"quirks": [
+			"CRAEL",
+			"CRAEL1",
+			"CRAEL2"
+		]
+	},
+	"CRD-CR2": {
+		"quirks": [
+			"CRAELII",
+			"CRAELII1",
+			"CRAELII2"
+		]
+	},
+	"CRD-2R": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"CRD-3D": {
+		"quirks": [
+			"LRMCLD"
+		]
+	},
+	"CRD-3K": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"CRD-3L": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"CRD-3R": {
+		"quirks": [
+			"ARMINC"
+		]
+	},
+	"CRD-4D": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"CRD-4K": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"CRD-4L": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"CRD-5M": {
+		"quirks": [
+			"AMSOVER"
+		]
+	},
+	"CRD-5S": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"CRD-6T": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"CRD-7L": {
+		"quirks": [
+			"LRMUNS"
+		]
+	},
+	"Cyclops_MDL": {
+		"quirks": [
+			"BATTLECOMP",
+			"COWL",
+			"DIFFICULT-EJECT"
+		]
+	},
+	"CP-S": {
+		"quirks": [
+			"SLEIP",
+			"SLEIP1",
+			"SLEIP2",
+			"SLEIP3"
+		]
+	},
+	"CP-10-P": {
+		"quirks": [
+			"MELASS"
+		]
+	},
+	"CP-10-Q": {
+		"quirks": [
+			"SRMCLD"
+		]
+	},
+	"CP-10-Z": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"CP-11-A": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"CP-11-A-DC": {
+		"quirks": [
+			"MSLDMM"
+		]
+	},
+	"CP-11-P": {
+		"quirks": [
+			"ATCALL"
+		]
+	},
+	"Daishi_MDL": {
+		"quirks": [
+			"DAISHI",
+			"TARPRE"
+		]
+	},
+	"Deimos_MDL": {
+		"quirks": [
+			"ANTIAIR-TARGETING"
+		]
+	},
+	"DM_NRV": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"DM_Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"Dervish_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"HYPER-EXT-ACTUATOR"
+		]
+	},
+	"Dervish_MDL_2": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"HYPER-EXT-ACTUATOR"
+		]
+	},
+	"DV-FR": {
+		"quirks": [
+			"FRENZY",
+			"FRENZY1",
+			"FRENZY2"
+		]
+	},
+	"DV-6M": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"DV-6M2": {
+		"quirks": [
+			"MAUCK"
+		]
+	},
+	"DV-6MR": {
+		"quirks": [
+			"LPSMEO"
+		]
+	},
+	"DV-6MD (R)": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"DV-7D": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"DV-7P": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"DV-8D": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"DV-9D": {
+		"quirks": [
+			"MSLCRM"
+		]
+	},
+	"DV-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"DV-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"DV-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"DireWolf_MDL": {
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"quirks": [
+			"IMPROVED-TARGETING-LONG",
+			"CLNEND"
+		]
+	},
+	"DireWolf-A": {
+		"quirks": [
+			"LASAL"
+		]
+	},
+	"DireWolf-B": {
+		"quirks": [
+			"UACRNG"
+		]
+	},
+	"DireWolf-C": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"DireWolf-D": {
+		"quirks": [
+			"GAUHAG"
+		]
+	},
+	"DireWolf-E": {
+		"quirks": [
+			"LBECON",
+			"LBXALL"
+		]
+	},
+	"DireWolf-H": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"DireWolf-Hohiro": {
+		"quirks": [
+			"HOHIRO",
+			"HOHIRO1",
+			"HOHIRO2",
+			"HOHIRO3"
+		]
+	},
+	"DireWolf-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"DireWolf-Prometheus": {
+		"quirks": [
+			"PROM",
+			"PROM1",
+			"PROM2",
+			"PROM3"
+		]
+	},
+	"DireWolf-S": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"DireWolf-T": {
+		"quirks": [
+			"DRKAGEDWF",
+			"DRKAGEDWF1",
+			"DRKAGEDWF2",
+			"DRKAGEDWF3"
+		]
+	},
+	"DireWolf-W": {
+		"quirks": [
+			"BALALL"
+		]
+	},
+	"DireWolf-Widowmaker": {
+		"quirks": [
+			"MAKER",
+			"MAKER1",
+			"MAKER2",
+			"MAKER3"
+		]
+	},
+	"DireWolf-X": {
+		"quirks": [
+			"SPITE"
+		]
+	},
+	"Dragon_MDL": {
+		"quirks": [
+			"NARROW",
+			"STABLE"
+		]
+	},
+	"DRG-FANG": {
+		"quirks": [
+			"FANG",
+			"FANG1",
+			"FANG2",
+			"FANG3"
+		]
+	},
+	"DRG-FLAME": {
+		"quirks": [
+			"FLAME",
+			"FLAME1",
+			"FLAME2"
+		]
+	},
+	"DRG-SDW": {
+		"quirks": [
+			"SDW",
+			"SDW1",
+			"SDW2",
+			"SDW3"
+		]
+	},
+	"DRG-1C": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"DRG-1G": {
+		"quirks": [
+			"ENGDMM"
+		]
+	},
+	"DRG-1N": {
+		"quirks": [
+			"MSLCLD"
+		]
+	},
+	"DRG-5N": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"EbonJaguar_MDL": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"CLNEND"
+		]
+	},
+	"EbonJaguar-A": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"EbonJaguar-B": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"EbonJaguar-C": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"EbonJaguar-D": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"EbonJaguar-E": {
+		"quirks": [
+			"GAUHAG"
+		]
+	},
+	"EbonJaguar-F": {
+		"quirks": [
+			"DRKAGEEBON",
+			"DRKAGEEBON1",
+			"DRKAGEEBON2"
+		]
+	},
+	"EbonJaguar-G": {
+		"quirks": [
+			"DRKAGEEBONII",
+			"DRKAGEEBONII1",
+			"DRKAGEEBONII2"
+		]
+	},
+	"EbonJaguar-H": {
+		"quirks": [
+			"LPSHEV"
+		]
+	},
+	"EbonJaguar-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"EbonJaguar-Samantha": {
+		"quirks": [
+			"SAMANTHA",
+			"SAMANTHA1",
+			"SAMANTHA2",
+			"SAMANTHA3"
+		]
+	},
+	"EbonJaguar-T": {
+		"quirks": [
+			"DRKAGEEBONIII",
+			"DRKAGEEBONIII1",
+			"DRKAGEEBONIII2",
+			"DRKAGEEBONIII3"
+		]
+	},
+	"EbonJaguar-X": {
+		"quirks": [
+			"RACICE"
+		]
+	},
+	"Enforcer_MDL": {
+		"quirks": [
+			"BARREL-FISTS",
+			"FAST-RELOAD-RARM",
+			"IMP-COOLING-B",
+			"JAM-RARM"
+		]
+	},
+	"ENF-GH": {
+		"quirks": [
+			"GHILLIE",
+			"GHILLIE1",
+			"GHILLIE2"
+		]
+	},
+	"ENF-4P": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"ENF-4R": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"ENF-5D": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"ENF-5P": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"ENF-5R": {
+		"quirks": [
+			"LBEREN"
+		]
+	},
+	"ENF-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ENF-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ENF-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"FNR-5_11A": {
+		"quirks": [
+			"FAFNIR"
+		]
+	},
+	"Firestarter_MDL": {
+		"quirks": [
+			"UBIQUITOUS",
+			"EXPOSED-LINKAGE",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-E": {
+		"quirks": [
+			"EMBER",
+			"EMBER1",
+			"EMBER2"
+		]
+	},
+	"FS9-FS": {
+		"quirks": [
+			"FRSTORM",
+			"FRSTORM1",
+			"FRSTORM2"
+		]
+	},
+	"FS9-81X": {
+		"quirks": [
+			"LBEXPL",
+			"PLRDMM"
+		]
+	},
+	"FS9-A": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"FS9-B": {
+		"quirks": [
+			"SCOUT",
+			"BURNHT"
+		]
+	},
+	"FS9-C": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"FS9-H": {
+		"quirks": [
+			"ENGDMM"
+		]
+	},
+	"FS9-K": {
+		"quirks": [
+			"ENGEXR"
+		]
+	},
+	"FS9-M": {
+		"quirks": [
+			"BALMGR"
+		]
+	},
+	"FS9-P": {
+		"quirks": [
+			"BURNPG"
+		]
+	},
+	"FS9-M2": {
+		"quirks": [
+			"BURNIF"
+		]
+	},
+	"FS9-M3": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"FS9-M4": {
+		"quirks": [
+			"BALUFE",
+			"LBECON"
+		]
+	},
+	"FS9-S": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"FS9-S1": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"FS9-S2": {
+		"quirks": [
+			"BURNPG"
+		]
+	},
+	"FS9-S3": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"FS9-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"FS9-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"FS9-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Flashman_MDL": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"FLS-10E": {
+		"quirks": [
+			"LASHIGH",
+			"INCASE2"
+		]
+	},
+	"FLS-7K": {
+		"quirks": [
+			"ENGHET"
+		]
+	},
+	"FLS-8K": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"FLS-9B": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"FLS-9C": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"FLS-9M": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"FLS-C": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"FLS-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"FLS-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"FLS-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"FLS-PPIV": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"Flea_MDL": {
+		"quirks": [
+			"HARD-PILOT",
+			"NARROW"
+		]
+	},
+	"Flea_MDL_2": {
+		"quirks": [
+			"HARD-PILOT",
+			"NARROW"
+		]
+	},
+	"FLE-R5K": {
+		"quirks": [
+			"ROMEO5K",
+			"ROMEO5K1",
+			"ROMEO5K2"
+		]
+	},
+	"FLE-14": {
+		"scale": "X=0.85 Y=0.85 Z=0.85",
+		"quirks": [
+			"MLTDWN"
+		]
+	},
+	"FLE-15": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"FLE-16": {
+		"quirks": [
+			"ENGEXR"
+		]
+	},
+	"FLE-17": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"FLE-19": {
+		"quirks": [
+			"MACDMM",
+			"SRMCRM"
+		]
+	},
+	"FLE-20": {
+		"quirks": [
+			"BURNIF"
+		]
+	},
+	"FLE-4": {
+		"quirks": [
+			"ENGDMM"
+		]
+	},
+	"FLE-FA": {
+		"quirks": [
+			"MACALL",
+			"BURNHT"
+		]
+	},
+	"FLE-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"FLE-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"FLE-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Grasshopper_MDL": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"GHR-MJ": {
+		"quirks": [
+			"MJOLNIR",
+			"MJOLNIR1",
+			"MJOLNIR2",
+			"MJOLNIR3"
+		]
+	},
+	"GHR-4P": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"GHR-5H": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"GHR-5J": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"GHR-5M": {
+		"quirks": [
+			"MELHEV"
+		]
+	},
+	"GHR-5N": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"GHR-5P": {
+		"quirks": [
+			"PPCDML"
+		]
+	},
+	"Griffin_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"Griffin_MDL_2": {
+		"quirks": [
+			"BATTLEFISTS",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"GRF-1E": {
+		"quirks": [
+			"SPARKY",
+			"SPARKY1",
+			"SPARKY2"
+		]
+	},
+	"GRF-AR": {
+		"quirks": [
+			"ARES",
+			"ARES1",
+			"ARES2"
+		]
+	},
+	"GRF-1DS": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"GRF-1N": {
+		"quirks": [
+			"LRMVEL"
+		]
+	},
+	"GRF-1P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"GRF-1S": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"GRF-2N": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"GRF-3M": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"GRF-4N": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"GRF-4R": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"GRF-5L": {
+		"quirks": [
+			"STEALTH"
+		]
+	},
+	"GRF-5M": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"GRF-6CS": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"GRF-6S2": {
+		"quirks": [
+			"CLNEND",
+			"LRMHE"
+		]
+	},
+	"GRF-C": {
+		"quirks": [
+			"CLNEND",
+			"LRMUNS"
+		]
+	},
+	"GRF-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"GRF-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"GRF-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"HRNY-TD": {
+		"quirks": [
+			"HRTTOD",
+			"HRTTOD1",
+			"HRTTOD2",
+			"HRTTOD3"
+		]
+	},
+	"HRNR-TD": {
+		"scale": "X=1.2 Y=1.2 Z=1.2",
+		"quirks": [
+			"HRTTOD"
+		]
+	},
+	"HRNS-TD": {
+		"scale": "X=1.4 Y=1.4 Z=1.4",
+		"quirks": [
+			"HRTTOD"
+		]
+	},
+	"Hatchetman_MDL": {
+		"scale": "X=0.8 Y=0.8 Z=0.8",
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"HCTMAN"
+		]
+	},
+	"HCT-MA": {
+		"quirks": [
+			"MANARMS",
+			"MANARMS1",
+			"MANARMS2"
+		]
+	},
+	"HCT-3F": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"HCT-5S": {
+		"quirks": [
+			"ATCALL"
+		]
+	},
+	"Hammerhands_MDL": {
+		"quirks": [
+			"BARREL-FISTS",
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"HMH-3D-Kessem": {
+		"quirks": [
+			"KESSEM",
+			"KESSEM1",
+			"KESSEM2"
+		]
+	},
+	"HMH-3D": {
+		"quirks": [
+			"ATCDMM"
+		]
+	},
+	"HMH-4D": {
+		"quirks": [
+			"PPCVEL"
+		]
+	},
+	"HMH-5D": {
+		"quirks": [
+			"ATCALL"
+		]
+	},
+	"HMH-6D": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"HMH-6E": {
+		"quirks": [
+			"RACICE"
+		]
+	},
+	"HMH-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"HMH-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"HMH-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Hatamotochi_MDL": {
+		"quirks": [
+			"HATAMOTOCHI",
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS"
+		]
+	},
+	"Hatamotochi_MDL_2": {
+		"quirks": [
+			"HATAMOTOCHI",
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS"
+		]
+	},
+	"HTM-29P": {
+		"quirks": [
+			"HATAMOTOCHI",
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS",
+			"NWTBOT"
+		]
+	},
+	"HTM-ON": {
+		"quirks": [
+			"ONI",
+			"ONI1",
+			"ONI2",
+			"ONI3"
+		]
+	},
+	"HTM-SG": {
+		"quirks": [
+			"SHUGO",
+			"SHUGO1",
+			"SHUGO2"
+		]
+	},
+	"HTM-26P": {
+		"quirks": [
+			"SLCBOT",
+			"MELASS"
+		]
+	},
+	"HTM-26T": {
+		"quirks": [
+			"SRMCLD"
+		]
+	},
+	"HTM-27T": {
+		"quirks": [
+			"PPCSPD"
+		]
+	},
+	"HTM-27W": {
+		"quirks": [
+			"MULTITRAC",
+			"ATCALL"
+		]
+	},
+	"HTM-28TR": {
+		"quirks": [
+			"ENGFST"
+		]
+	},
+	"Highlander_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"COWL",
+			"DIFFICULT-EJECT",
+			"REINFORCED-LEGS"
+		]
+	},
+	"HighlanderV_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"COWL",
+			"DIFFICULT-EJECT",
+			"REINFORCED-LEGS"
+		]
+	},
+	"HGN-HM": {
+		"quirks": [
+			"HMETAL",
+			"HMETAL1",
+			"HMETAL2",
+			"HMETAL3"
+		]
+	},
+	"HGN-RS": {
+		"quirks": [
+			"RSHANK",
+			"RSHANK1",
+			"RSHANK2",
+			"RSHANK3"
+		]
+	},
+	"HGN-732-Colleen": {
+		"quirks": [
+			"COLLEEN",
+			"COLLEEN1",
+			"COLLEEN2",
+			"COLLEEN3"
+		]
+	},
+	"HGN-732-Jorgensson": {
+		"quirks": [
+			"JORG",
+			"JORG1",
+			"JORG2",
+			"JORG3"
+		]
+	},
+	"HGN-SLDF": {
+		"quirks": [
+			"COWL",
+			"CMD-MECH",
+			"REINFORCED-LEGS",
+			"DIFFICULT-EJECT",
+			"SLDFR"
+		]
+	},
+	"HGN-641-X-2": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"HGN-694": {
+		"quirks": [
+			"BALGAR"
+		]
+	},
+	"HGN-734": {
+		"quirks": [
+			"BALLRF"
+		]
+	},
+	"HGN-736": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"HGN-738": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"HGN-740": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"HGN-732": {
+		"quirks": [
+			"GAUCLD"
+		]
+	},
+	"HGN-732B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"HGN-733": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"HGN-733C": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"HGN-733P": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"HGN-733PP": {
+		"quirks": [
+			"MELASS"
+		]
+	},
+	"HGN-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"HGN-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"HGN-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"HighlanderIIC_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"COWL",
+			"DIFFICULT-EJECT",
+			"REINFORCED-LEGS",
+			"CLNEND"
+		]
+	},
+	"HighlanderIIC-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"HighlanderIIC-2": {
+		"quirks": [
+			"ATMALL"
+		]
+	},
+	"HighlanderIIC-3": {
+		"quirks": [
+			"GAUHAG"
+		]
+	},
+	"HighlanderIIC-4": {
+		"quirks": [
+			"JJENH",
+			"BALGAR",
+			"MSLALL"
+		]
+	},
+	"Hunchback_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"ARMHBK"
+		]
+	},
+	"HunchbackV_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"ARMHBK"
+		]
+	},
+	"Hunchback-II_MDL": {
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"HunchbackFDR_MDL": {
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"HBK-GI": {
+		"quirks": [
+			"GIRON",
+			"GIRON1",
+			"GIRON2",
+			"GIRON3"
+		]
+	},
+	"HBK-4GHohiro": {
+		"quirks": [
+			"HBKACC",
+			"HOHIROHBK",
+			"HOHIROHBK1",
+			"HOHIROHBK2"
+		]
+	},
+	"HBK-4GShakir": {
+		"quirks": [
+			"HBKACC",
+			"SHAKIR",
+			"SHAKIR1",
+			"SHAKIR2"
+		]
+	},
+	"HBK-LGN-PinAnastasia": {
+		"quirks": [
+			"HBKACC",
+			"ANAST",
+			"ANAST1",
+			"ANAST2"
+		]
+	},
+	"HBK-LGN-PinDrizella": {
+		"quirks": [
+			"DRIZ",
+			"DRIZ1",
+			"DRIZ2"
+		]
+	},
+	"HBK-4G": {
+		"quirks": [
+			"HBKACC",
+			"ATCEXR"
+		]
+	},
+	"HBK-4H": {
+		"quirks": [
+			"HBKACC",
+			"PNCBOT"
+		]
+	},
+	"HBK-4HP": {
+		"quirks": [
+			"HBKACC",
+			"MELMED"
+		]
+	},
+	"HBK-4J": {
+		"quirks": [
+			"LRMVEL"
+		]
+	},
+	"HBK-4N": {
+		"quirks": [
+			"HBKACC",
+			"LPSCLD"
+		]
+	},
+	"HBK-4P": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"HBK-4SP": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"HBK-5H": {
+		"quirks": [
+			"HBKACC",
+			"RKTCLU"
+		]
+	},
+	"HBK-5M": {
+		"quirks": [
+			"HBKACC",
+			"ATCALL"
+		]
+	},
+	"HBK-5N": {
+		"quirks": [
+			"HBKACC",
+			"BALEAF"
+		]
+	},
+	"HBK-5P": {
+		"quirks": [
+			"LPSMEO"
+		]
+	},
+	"HBK-5S": {
+		"quirks": [
+			"HBKACC",
+			"LBXALL"
+		]
+	},
+	"HBK-5SG": {
+		"quirks": [
+			"HBKACC",
+			"BALGAU"
+		]
+	},
+	"HBK-5SS": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"HBK-6P": {
+		"quirks": [
+			"HBKLTNG"
+		]
+	},
+	"HBK-6N": {
+		"quirks": [
+			"HBKACC",
+			"LASAL"
+		]
+	},
+	"HBK-6S": {
+		"quirks": [
+			"HBKACC",
+			"BALLBX"
+		]
+	},
+	"HBK-7R": {
+		"quirks": [
+			"HBKACC",
+			"BALAPDS"
+		]
+	},
+	"HBK-7S": {
+		"quirks": [
+			"DRKAGEHBK",
+			"DRKAGEHBK1",
+			"DRKAGEHBK2"
+		]
+	},
+	"HBK-7X-4": {
+		"quirks": [
+			"HBKACC",
+			"UACALL"
+		]
+	},
+	"HBK-PPIA": {
+		"quirks": [
+			"HBKACC",
+			"PRTPPI"
+		]
+	},
+	"HBK-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"HBK-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"HBK-PPIIB": {
+		"quirks": [
+			"HBKACC",
+			"PRTPPII"
+		]
+	},
+	"HBK-PPIIC": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"HBK-PPIIIA": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"HBK-PPIIIB": {
+		"quirks": [
+			"HBKACC",
+			"PRTPPIII"
+		]
+	},
+	"HBK-PPIIIC": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Hunchback-C": {
+		"quirks": [
+			"UACJMC",
+			"CLNEND"
+		]
+	},
+	"Jagermech_MDL": {
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"RFLARM"
+		]
+	},
+	"JM6-FB": {
+		"quirks": [
+			"FBRAND",
+			"FBRAND1",
+			"FBRAND2",
+			"FBRAND3"
+		]
+	},
+	"JM6-A": {
+		"quirks": [
+			"LRMVEL"
+		]
+	},
+	"JM6-DD": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"JM6-S": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"Javelin_MDL": {
+		"quirks": [
+			"UNBALANCED",
+			"NIMBLEJUMPER",
+			"RUGGED1",
+			"HIGH-MANEUVER"
+		]
+	},
+	"Javelin_MDL_2": {
+		"quirks": [
+			"UNBALANCED",
+			"NIMBLEJUMPER",
+			"RUGGED1",
+			"HIGH-MANEUVER"
+		]
+	},
+	"JVN-HT": {
+		"quirks": [
+			"HITHERE",
+			"HITHERE1",
+			"HITHERE2"
+		]
+	},
+	"JVN-10A": {
+		"quirks": [
+			"MSLJVN"
+		]
+	},
+	"JVN-10F": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"JVN-10N": {
+		"quirks": [
+			"SRMSPR"
+		]
+	},
+	"JVN-10P": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"JVN-11A": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"JVN-11B": {
+		"quirks": [
+			"SRMDMM"
+		]
+	},
+	"JVN-11D": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"JVN-11F": {
+		"quirks": [
+			"MACALL",
+			"PPCARC"
+		]
+	},
+	"JVN-11P": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"JVN-11R": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"JVN-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"JVN-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"JVN-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Jenner_MDL": {
+		"quirks": [
+			"UBIQUITOUS"
+		]
+	},
+	"JR7-O": {
+		"quirks": [
+			"OXIDE",
+			"OXIDE1",
+			"OXIDE2"
+		]
+	},
+	"JR7-A": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"JR7-C": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"JR7-C2": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"JR7-C3": {
+		"quirks": [
+			"SCOUT",
+			"LBECNT"
+		]
+	},
+	"JR7-C4": {
+		"quirks": [
+			"SCOUT",
+			"MMLALL"
+		]
+	},
+	"JR7-D": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"JR7-F": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"JR7-K": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"JR7-N": {
+		"quirks": [
+			"WOBBREM",
+			"SCOUT"
+		]
+	},
+	"JR7-P": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"JR7-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"JR7-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"JR7-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"JR7-X": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"Kingcrab_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"REINFORCEDCOCKPIT",
+			"KGCARM"
+		]
+	},
+	"KGC-CAR": {
+		"quirks": [
+			"CPACE",
+			"CPACE1",
+			"CPACE2"
+		]
+	},
+	"KGC-KJ": {
+		"quirks": [
+			"KAIJU",
+			"KAIJU1",
+			"KAIJU2"
+		]
+	},
+	"KGC-000": {
+		"quirks": [
+			"ATCDMM"
+		]
+	},
+	"KGC-0000": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"KGC-000B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"KGC-001": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"KGC-KING": {
+		"quirks": [
+			"KGCKNG"
+		]
+	},
+	"Kintaro_MDL": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"KTO-GB": {
+		"quirks": [
+			"GBOY",
+			"GBOY1",
+			"GBOY2"
+		]
+	},
+	"KTO-18": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"KTO-18P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"KTO-19": {
+		"quirks": [
+			"LRMDMM"
+		]
+	},
+	"KTO-19B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"KTO-19O": {
+		"quirks": [
+			"PPCDML"
+		]
+	},
+	"KTO-20": {
+		"quirks": [
+			"SRMSPR"
+		]
+	},
+	"KTO-21": {
+		"quirks": [
+			"MRMCRM"
+		]
+	},
+	"KTO-C": {
+		"quirks": [
+			"CLNEND",
+			"SRMALL"
+		]
+	},
+	"KTO-K": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"KTO-S7": {
+		"quirks": [
+			"TBDLLD"
+		]
+	},
+	"KTO-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"KTO-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"KTO-III": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Kodiak_MDL": {
+		"quirks": [
+			"KDKBOT",
+			"DISTRACTING",
+			"CLNEND"
+		]
+	},
+	"Cale": {
+		"quirks": [
+			"CALE",
+			"CALE1",
+			"CALE2",
+			"CALE3"
+		]
+	},
+	"Kodiak-2": {
+		"quirks": [
+			"LASALL",
+			"BALUDG"
+		]
+	},
+	"Kodiak-3": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"Kodiak-4": {
+		"quirks": [
+			"LRMCLU",
+			"LPSMEO"
+		]
+	},
+	"Kodiak-5": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"Kodiak-6": {
+		"quirks": [
+			"LBXCLU",
+			"SRMSTCLD"
+		]
+	},
+	"Kodiak-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"KodiakII_MDL": {
+		"quirks": [
+			"DISTRACTING",
+			"CLNEND"
+		]
+	},
+	"KodiakII-2": {
+		"quirks": [
+			"LRMBLT"
+		]
+	},
+	"KodiakII-PRIME": {
+		"quirks": [
+			"PRIME",
+			"LBECRB"
+		]
+	},
+	"UM-LAM": {
+		"quirks": [
+			"NARROW",
+			"UM-ASSAULT",
+			"HIGH-MANEUVER",
+			"HIGH-MAINTENANCE",
+			"LAMFCK"
+		]
+	},
+	"LCT-LAM (P)": {
+		"quirks": [
+			"LOCUST",
+			"NARROW",
+			"UBIQUITOUS",
+			"WEAK-LEGS",
+			"HIGH-MANEUVER",
+			"HIGH-MAINTENANCE",
+			"LAMFCK"
+		]
+	},
+	"Locust_MDL": {
+		"quirks": [
+			"COMPACT",
+			"NARROW",
+			"CRAMPED-COCKPIT",
+			"LOCUST"
+		]
+	},
+	"LocustR_MDL": {
+		"quirks": [
+			"COMPACT",
+			"NARROW",
+			"CRAMPED-COCKPIT",
+			"LOCUST",
+			"HERRSE"
+		]
+	},
+	"LCT-PB": {
+		"quirks": [
+			"PRTBANE",
+			"PRTBANE1",
+			"PRTBANE2",
+			"STEALTH"
+		]
+	},
+	"LCT-1E": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"LCT-1L": {
+		"quirks": [
+			"MACCLD"
+		]
+	},
+	"LCT-1M": {
+		"quirks": [
+			"LRMCLD"
+		]
+	},
+	"LCT-1S": {
+		"quirks": [
+			"SRMEXR"
+		]
+	},
+	"LCT-1V": {
+		"quirks": [
+			"BALMGR"
+		]
+	},
+	"LCT-1V (C)": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"LCT-1V2": {
+		"quirks": [
+			"RKTCLU"
+		]
+	},
+	"LCT-1VB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"LCT-3D": {
+		"quirks": [
+			"MSLCRM"
+		]
+	},
+	"LCT-3M": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"LCT-3S": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"LCT-3V": {
+		"quirks": [
+			"ENGHET"
+		]
+	},
+	"LCT-5M": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"LCT-5M2": {
+		"quirks": [
+			"LBECON"
+		]
+	},
+	"LCT-5M3": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"LCT-5S": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"LCT-5T": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"LCT-5V": {
+		"quirks": [
+			"RKTCLU"
+		]
+	},
+	"LCT-5W": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"LCT-5W2": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"LCT-6M": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"LCT-7S": {
+		"quirks": [
+			"BALMGRF",
+			"BALMFM"
+		]
+	},
+	"LCT-7V": {
+		"quirks": [
+			"BALGAU",
+			"LBEXPL"
+		]
+	},
+	"LCT-7V2": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"LCT-C (C)": {
+		"quirks": [
+			"CLNEND",
+			"LASALL"
+		]
+	},
+	"LCT-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"LCT-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"LCT-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Longbow_MDL": {
+		"quirks": [
+			"LBWMCD",
+			"ANTIAIR-TARGETING",
+			"MIN-ARMS"
+		]
+	},
+	"MadDog_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING-MEDIUM",
+			"CLNEND"
+		]
+	},
+	"MadDog-Kristen": {
+		"quirks": [
+			"KRIST",
+			"KRIST1",
+			"KRIST2"
+		]
+	},
+	"MadDog-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"MadDog-A": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"MadDog-B": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"MadDog-C": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"MadDog-D": {
+		"quirks": [
+			"ATMALL"
+		]
+	},
+	"MadDog-DD": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"MadDog-E": {
+		"quirks": [
+			"GAUHAG"
+		]
+	},
+	"MadDog-F": {
+		"quirks": [
+			"HAGHDS"
+		]
+	},
+	"MadDog-G": {
+		"quirks": [
+			"MSLALL",
+			"LRMCLU"
+		]
+	},
+	"MadDog-H": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"MadDog-I": {
+		"quirks": [
+			"RACALL",
+			"PPCCA1"
+		]
+	},
+	"MadDog-S": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"MadDog-T": {
+		"quirks": [
+			"DRKAGEMDG",
+			"DRKAGEMDG1",
+			"DRKAGEMDG2"
+		]
+	},
+	"MadDog-V": {
+		"quirks": [
+			"MECHART"
+		]
+	},
+	"Marauder_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"MOUNT-RT",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW",
+			"EXPOSED-LINKAGERT"
+		]
+	},
+	"Marauder_MDL_2": {
+		"quirks": [
+			"CMD-MECH",
+			"MOUNT-RT",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW",
+			"EXPOSED-LINKAGERT"
+		]
+	},
+	"MAD-BH2": {
+		"quirks": [
+			"MADBOUNTY",
+			"MADBOUNTY1",
+			"MADBOUNTY2",
+			"MADBOUNTY3"
+		]
+	},
+	"MAD-11D": {
+		"quirks": [
+			"GAUSVB"
+		]
+	},
+	"MAD-1R (R)": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"MAD-2R": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"MAD-2T": {
+		"quirks": [
+			"BALLBX"
+		]
+	},
+	"MAD-3D": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"MAD-3L": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"MAD-3M": {
+		"quirks": [
+			"ENGCLD"
+		]
+	},
+	"MAD-3R": {
+		"quirks": [
+			"WARHMR"
+		]
+	},
+	"MAD-3R (C)": {
+		"quirks": [
+			"ENGALL",
+			"CLNEND"
+		]
+	},
+	"MAD-4X": {
+		"quirks": [
+			"STEALTH"
+		]
+	},
+	"MAD-5CS": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"MAD-5D": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"MAD-5D-DC": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"MAD-5L": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"MAD-5M": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"MAD-5R": {
+		"quirks": [
+			"RACHEAT"
+		]
+	},
+	"MAD-5S": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"MAD-5T": {
+		"quirks": [
+			"JJFST"
+		]
+	},
+	"MAD-6L": {
+		"quirks": [
+			"PLRCLD"
+		]
+	},
+	"MAD-7C": {
+		"quirks": [
+			"LBEXPL"
+		]
+	},
+	"MAD-7D": {
+		"quirks": [
+			"ENGFST"
+		]
+	},
+	"MAD-7M": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"MAD-7R": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"MAD-7S": {
+		"quirks": [
+			"LBEXPL"
+		]
+	},
+	"MAD-9D": {
+		"quirks": [
+			"DRKAGEMAD",
+			"DRKAGEMAD1",
+			"DRKAGEMAD2",
+			"DRKAGEMAD3"
+		]
+	},
+	"MAD-9M": {
+		"quirks": [
+			"SRMCLD"
+		]
+	},
+	"MAD-9M2": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"MAD-9S": {
+		"quirks": [
+			"BALLRF"
+		]
+	},
+	"MAD-9W": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"MAD-9W2": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"MAD-BR-A": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"MAD-BR-B": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"MAD-BR-C": {
+		"quirks": [
+			"LRMBLT"
+		]
+	},
+	"MAD-BR-PRIME": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"MAD-IIC-2X": {
+		"quirks": [
+			"LPSCLD",
+			"CLNEND"
+		]
+	},
+	"MAD-PPI-AR": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"MAD-PPI-M": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"MAD-PPI-S": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"MAD-PPII-A": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"MAD-PPII-R": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"MAD-PPII-T": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"MAD-PPIII-B": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"MAD-PPIII-R": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"MarauderII_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"MOUNT-RT",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW",
+			"CBTCPU"
+		]
+	},
+	"MarauderII_MDL_2": {
+		"quirks": [
+			"CMD-MECH",
+			"MOUNT-RT",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW",
+			"CBTCPU"
+		]
+	},
+	"MAD-AL": {
+		"quirks": [
+			"ALPHA",
+			"ALPHA1",
+			"ALPHA2"
+		]
+	},
+	"MAD-10D": {
+		"quirks": [
+			"LBECON",
+			"WOBBREL"
+		]
+	},
+	"MAD-4A": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"MAD-4H": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"MAD-4HP": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"MAD-4K": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"MAD-4L": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"MAD-4S": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"MAD-5A": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"MAD-5B": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"MAD-5C": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"MAD-5W": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"MAD-6A": {
+		"quirks": [
+			"DRKAGEMADII",
+			"DRKAGEMADII1",
+			"DRKAGEMADII2",
+			"DRKAGEMADII3"
+		]
+	},
+	"MAD-6C": {
+		"quirks": [
+			"JJFST",
+			"PPCALL"
+		]
+	},
+	"MAD-6D": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"MAD-6M": {
+		"quirks": [
+			"LPSXPL"
+		]
+	},
+	"MAD-6S": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"MAD-8K": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"MAD-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"MAD-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"MAD-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"MAD-PPIV": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"Mauler_MDL": {
+		"quirks": [
+			"STABILIZED-WEAPON",
+			"IMPROVED-TARGETING"
+		]
+	},
+	"MAL-KO": {
+		"quirks": [
+			"KOUT",
+			"KOUT1",
+			"KOUT2",
+			"KOUT3"
+		]
+	},
+	"MAL-1K": {
+		"quirks": [
+			"MALTOR",
+			"ATCRAC"
+		]
+	},
+	"MAL-1P": {
+		"quirks": [
+			"MALTOR",
+			"ATCVEL"
+		]
+	},
+	"MAL-1R": {
+		"quirks": [
+			"MALTOR",
+			"ATCCLD"
+		]
+	},
+	"MAL-2P": {
+		"quirks": [
+			"MALTOR",
+			"UACCLD"
+		]
+	},
+	"MAL-2R": {
+		"quirks": [
+			"MALTOR",
+			"BALSND"
+		]
+	},
+	"MAL-3R": {
+		"quirks": [
+			"LRMHE"
+		]
+	},
+	"MAL-4X": {
+		"quirks": [
+			"ATCHVR"
+		]
+	},
+	"MAL-MX90": {
+		"quirks": [
+			"MALTOR",
+			"ATCDMM"
+		]
+	},
+	"MAL-PPIB": {
+		"quirks": [
+			"MALTOR",
+			"PRTPPI"
+		]
+	},
+	"MAL-PPIIAOE": {
+		"quirks": [
+			"MALTOR",
+			"PRTPPII"
+		]
+	},
+	"MAL-PPIIB": {
+		"quirks": [
+			"MALTOR",
+			"PRTPPII"
+		]
+	},
+	"MAL-PPIIIR": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"MAL-PPIIIS": {
+		"quirks": [
+			"MALTOR",
+			"PRTPPIII"
+		]
+	},
+	"MAL-PPIIIT": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"MAL-PPIIZ": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"MAL-PPIM": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"NightGyr_MDL": {
+		"quirks": [
+			"DIFFICULTTOMAINTAIN",
+			"CLNEND"
+		]
+	},
+	"NightGyr-A": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"NightGyr-B": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"NightGyr-C": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"NightGyr-D": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"NightGyr-E": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"NightGyr-F": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"NightGyr-G": {
+		"quirks": [
+			"BALLRF",
+			"BURNIF"
+		]
+	},
+	"NightGyr-H": {
+		"quirks": [
+			"BALALL"
+		]
+	},
+	"NightGyr-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"NightGyr-T": {
+		"quirks": [
+			"LBXCLU"
+		]
+	},
+	"Nightstar_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-TARGETING",
+			"NSR-DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT"
+		]
+	},
+	"Nightstar_MDL_2": {
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-TARGETING",
+			"NSR-DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT"
+		]
+	},
+	"NSR-WP": {
+		"quirks": [
+			"WOLFP",
+			"WOLFP1",
+			"WOLFP2",
+			"WOLFP3"
+		]
+	},
+	"NSR-10C": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"NSR-10D": {
+		"quirks": [
+			"DRKAGENSR",
+			"DRKAGENSR1",
+			"DRKAGENSR2",
+			"DRKAGENSR3"
+		]
+	},
+	"NSR-10P": {
+		"quirks": [
+			"ATCALL"
+		]
+	},
+	"NSR-9FC": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"NSR-9J": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"NSR-9P": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"NSR-9S": {
+		"quirks": [
+			"BALBRC"
+		]
+	},
+	"NSR-9SS": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"NSR-IIC": {
+		"quirks": [
+			"CLNEND",
+			"GAUALL"
+		]
+	},
+	"NSR-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"NSR-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"NSR-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Orion_MDL": {
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"EASYTOMAINTAIN",
+			"RUGGED1"
+		]
+	},
+	"ON1-P": {
+		"quirks": [
+			"PROTECT",
+			"PROTECT1",
+			"PROTECT2",
+			"PROTECT3"
+		]
+	},
+	"ON1-YAJ": {
+		"quirks": [
+			"YADAL",
+			"YADAL1",
+			"YADAL2"
+		]
+	},
+	"ON1-C 2": {
+		"quirks": [
+			"SRMSTCLD",
+			"CLNEND"
+		]
+	},
+	"ON1-K": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"ON1-Kerensky": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"ON1-M": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"ON1-MA": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"ON1-MB": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"ON1-MC": {
+		"quirks": [
+			"MRMALL"
+		]
+	},
+	"ON1-MD": {
+		"quirks": [
+			"BALSPR"
+		]
+	},
+	"ON1-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"ON1-V": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"ON1-VA": {
+		"quirks": [
+			"SRMSPR"
+		]
+	},
+	"ON2-M": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"ON2-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"ON3-M": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"ON3-MX": {
+		"quirks": [
+			"LRMBLT"
+		]
+	},
+	"ON3-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Orion-C": {
+		"quirks": [
+			"DRKAGEON",
+			"DRKAGEON1",
+			"DRKAGEON2",
+			"DRKAGEON3",
+			"CLNEND"
+		]
+	},
+	"OW-1": {
+		"quirks": [
+			"IMPSNS",
+			"LRMCRF"
+		]
+	},
+	"Panther_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"NIMBLEJUMPER",
+			"PPCCAPRA"
+		]
+	},
+	"PNT-KK": {
+		"quirks": [
+			"KATKAT",
+			"KATKAT1",
+			"KATKAT2",
+			"KATKAT3"
+		]
+	},
+	"PNT-10K": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"PNT-10K2": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"PNT-10P": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"PNT-12A": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"PNT-12K2": {
+		"quirks": [
+			"MRMBLT"
+		]
+	},
+	"PNT-12KC": {
+		"quirks": [
+			"CLNEND"
+		]
+	},
+	"PNT-13K": {
+		"quirks": [
+			"SCOUT",
+			"PLRDMG"
+		]
+	},
+	"PNT-14R": {
+		"quirks": [
+			"CLNEND",
+			"PPCDMG"
+		]
+	},
+	"PNT-14S": {
+		"quirks": [
+			"MSLALL",
+			"PPCSPD"
+		]
+	},
+	"PNT-16K": {
+		"quirks": [
+			"CLNEND",
+			"SRMSTCLD"
+		]
+	},
+	"PNT-8Z": {
+		"quirks": [
+			"ENGEXR"
+		]
+	},
+	"PNT-9R": {
+		"quirks": [
+			"PPCDML"
+		]
+	},
+	"PNT-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"PNT-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"PNT-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Phoenixhawk_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-COMS",
+			"UBIQUITOUS"
+		]
+	},
+	"PXH-KB": {
+		"quirks": [
+			"KOBOLD",
+			"KOBOLD1",
+			"KOBOLD2"
+		]
+	},
+	"PXH-KK": {
+		"quirks": [
+			"KURKIR",
+			"KURKIR1",
+			"KURKIR2",
+			"KURKIR3"
+		]
+	},
+	"PXH-R": {
+		"quirks": [
+			"ROC",
+			"ROC1",
+			"ROC2",
+			"ROC3"
+		]
+	},
+	"PXH-1": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"PXH-1B": {
+		"quirks": [
+			"PNCBOT",
+			"SLDFR"
+		]
+	},
+	"PXH-1BC": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"PXH-1C": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"PXH-1EC": {
+		"quirks": [
+			"CLNEND",
+			"LASALL"
+		]
+	},
+	"PXH-1K": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"PXH-1KK": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"PXH-1P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"PXH-2": {
+		"quirks": [
+			"SCOUT"
+		]
+	},
+	"PXH-2K": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"PXH-3D": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"PXH-3K": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"PXH-3M": {
+		"quirks": [
+			"MACDMM"
+		]
+	},
+	"PXH-3PL": {
+		"quirks": [
+			"LBECON"
+		]
+	},
+	"PXH-3S": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"PXH-4L": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"PXH-4M": {
+		"quirks": [
+			"WOBBREL"
+		]
+	},
+	"PXH-4W": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"PXH-5L": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"PXH-6D": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"PXH-7CS": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"PXH-7K": {
+		"quirks": [
+			"SCOUT",
+			"PPCARC"
+		]
+	},
+	"PXH-7S": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"PXH-8CS": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"PXH-9": {
+		"quirks": [
+			"LBEXPL",
+			"MACDMM"
+		]
+	},
+	"PXH-99": {
+		"quirks": [
+			"LBEXPL",
+			"LASALL"
+		]
+	},
+	"PXH-C (C)": {
+		"quirks": [
+			"UACALL",
+			"CLNEND"
+		]
+	},
+	"PXH-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"PXH-PPII": {
+		"quirks": [
+			"LBEPRT",
+			"PRTPPII"
+		]
+	},
+	"PXH-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Quickdraw_MDL": {
+		"quirks": [
+			"HYPER-EXT-ACTUATOR",
+			"EXP-ACTUATOR"
+		]
+	},
+	"QKD-IV4": {
+		"quirks": [
+			"IVFOUR",
+			"IVFOUR1",
+			"IVFOUR2"
+		]
+	},
+	"QKD-SC": {
+		"quirks": [
+			"SCRAP",
+			"SCRAP1",
+			"SCRAP2"
+		]
+	},
+	"QKD-4G": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"QKD-4H": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"QKD-4P": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"QKD-5A": {
+		"quirks": [
+			"LPSDMG"
+		]
+	},
+	"QKD-5K": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"QKD-5P": {
+		"quirks": [
+			"MELHEV"
+		]
+	},
+	"Rakshasa_MDL": {
+		"quirks": [
+			"SHTRAK"
+		]
+	},
+	"RK_V2": {
+		"quirks": [
+			"SHTRAK"
+		]
+	},
+	"RK_11A": {
+		"quirks": [
+			""
+		]
+	},
+	"Raven_MDL": {
+		"quirks": [
+			"RVN-SENSOR",
+			"NARROW",
+			"NON-STANDARD-PARTS",
+			"HIGH-MAINTENANCE",
+			"UAVCARRIER",
+			"SCOUT"
+		]
+	},
+	"Raven_MDL_2": {
+		"quirks": [
+			"RVN-SENSOR",
+			"NARROW",
+			"NON-STANDARD-PARTS",
+			"HIGH-MAINTENANCE",
+			"SCOUT"
+		]
+	},
+	"RVN-H": {
+		"quirks": [
+			"HUGINN",
+			"HUGINN1",
+			"HUGINN2",
+			"HUGINN3"
+		]
+	},
+	"RVN-M": {
+		"quirks": [
+			"MUNINN",
+			"MUNINN1",
+			"MUNINN2",
+			"MUNINN3"
+		]
+	},
+	"RVN-1X": {
+		"quirks": [
+			"SRMSPR"
+		]
+	},
+	"RVN-2X": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"RVN-3L": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"RVN-3M": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"RVN-3XX": {
+		"quirks": [
+			"MRMBLT"
+		]
+	},
+	"RVN-4L": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"RVN-4LC": {
+		"quirks": [
+			"SRMMRP"
+		]
+	},
+	"RVN-4LR": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"RVN-4X": {
+		"quirks": [
+			"MACCLD",
+			"LEMLBN"
+		]
+	},
+	"RVN-5L": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"RVN-IIC": {
+		"quirks": [
+			"CLNEND"
+		]
+	},
+	"RVN-SR": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"RVN-SS": {
+		"quirks": [
+			"LBECRB"
+		]
+	},
+	"RVN-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"RVN-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"RVN-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Revenant_MDL": {
+		"scale": "X=0.85 Y=0.85 Z=0.85",
+		"quirks": [
+			"QUAD",
+			"STABLE"
+		]
+	},
+	"UBM-1A": {
+		"quirks": [
+			"MACALL",
+			"NON-STANDARD-PARTS",
+			"OBSOLE"
+		]
+	},
+	"UBM-2R": {
+		"quirks": [
+			"BALMGRF",
+			"LPSMEO",
+			"IMPROVED-COMS"
+		]
+	},
+	"UBM-2R2": {
+		"quirks": [
+			"LRMUNS"
+		]
+	},
+	"UBM-2R3": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"UBM-2R4": {
+		"quirks": [
+			"SCOUT"
+		]
+	},
+	"UBM-InfernalSpider": {
+		"quirks": [
+			"ISPID"
+		]
+	},
+	"Scorpion_MDL": {
+		"scale": "X=0.85 Y=0.85 Z=0.85",
+		"quirks": [
+			"HARD-PILOT",
+			"QUAD",
+			"STABLE"
+		]
+	},
+	"Scorpion-C": {
+		"quirks": [
+			"ATMALL",
+			"PPCCA1",
+			"CLNEND"
+		]
+	},
+	"SCP-10M": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"SCP-12C": {
+		"quirks": [
+			"NARCIMP"
+		]
+	},
+	"SCP-12K": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"SCP-12S": {
+		"quirks": [
+			"BALLRF"
+		]
+	},
+	"SCP-1BR": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"SCP-1N": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"SCP-1NWendall": {
+		"quirks": [
+			""
+		]
+	},
+	"SCP-1O": {
+		"quirks": [
+			"ENGALL",
+			"MSLALL"
+		]
+	},
+	"SCP-1TB": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"SCP-2N": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"Rifleman_MDL": {
+		"quirks": [
+			"TARRFL",
+			"IMPROVED-COMS",
+			"UBIQUITOUS",
+			"RFLARM"
+		]
+	},
+	"RFL-DB": {
+		"quirks": [
+			"DBREAK",
+			"DBREAK1",
+			"DBREAK2"
+		]
+	},
+	"RFL-DNA": {
+		"quirks": [
+			"DIANA",
+			"DIANA1",
+			"DIANA2"
+		]
+	},
+	"RFL-LK": {
+		"quirks": [
+			"LKILL",
+			"LKILL1",
+			"LKILL2"
+		]
+	},
+	"RFL-3C": {
+		"quirks": [
+			"BALBSD"
+		]
+	},
+	"RFL-3N": {
+		"quirks": [
+			"BALCLD"
+		]
+	},
+	"RFL-4D": {
+		"quirks": [
+			"PPCDML"
+		]
+	},
+	"RFL-5D": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"RFL-8D": {
+		"quirks": [
+			"BALUDG"
+		]
+	},
+	"Roughneck_MDL": {
+		"quirks": [
+			""
+		]
+	},
+	"RGH-1A": {
+		"quirks": [
+			""
+		]
+	},
+	"Shadowcat_MDL": {
+		"quirks": [
+			"NARROW",
+			"CLNEND"
+		]
+	},
+	"ShadowCat-A": {
+		"quirks": [
+			"LPSLAR",
+			"SRMSTCLD"
+		]
+	},
+	"ShadowCat-B": {
+		"quirks": [
+			"LRMHE"
+		]
+	},
+	"ShadowCat-C": {
+		"quirks": [
+			"ATMALL",
+			"LPSMED"
+		]
+	},
+	"ShadowCat-D": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"ShadowCat-E": {
+		"quirks": [
+			"LPSHEV"
+		]
+	},
+	"ShadowCat-F": {
+		"quirks": [
+			"ENGFST"
+		]
+	},
+	"ShadowCat-H": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"ShadowCat-I": {
+		"quirks": [
+			"LPSHEV",
+			"SRMSTCLD"
+		]
+	},
+	"ShadowCat-J": {
+		"quirks": [
+			"BALGAB"
+		]
+	},
+	"ShadowCat-M": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"ShadowCat-Prime": {
+		"quirks": [
+			"PRIME",
+			"POPTART"
+		]
+	},
+	"ShadowCat-T": {
+		"quirks": [
+			"BALUDG"
+		]
+	},
+	"ShadowCat-TC": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"Shadowhawk_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"IMP-LIFE-SUPPORT",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"ShadowhawkPHX_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"IMP-LIFE-SUPPORT",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"SHD-GD": {
+		"quirks": [
+			"GDEATH",
+			"GDEATH1",
+			"GDEATH2",
+			"GDEATH3"
+		]
+	},
+	"SHD-11CS": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"SHD-12C (C)": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"SHD-1P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"SHD-2D": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"SHD-2D2": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"SHD-2H": {
+		"quirks": [
+			"BEGIN"
+		]
+	},
+	"SHD-2H (C)": {
+		"quirks": [
+			"CLNEND",
+			"LBXALL"
+		]
+	},
+	"SHD-2HB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"SHD-2HT": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"SHD-2K": {
+		"quirks": [
+			"PPCSPD"
+		]
+	},
+	"SHD-2P": {
+		"quirks": [
+			"BALMRF"
+		]
+	},
+	"SHD-3K": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"SHD-4H": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"SHD-5D": {
+		"quirks": [
+			"RACDMG"
+		]
+	},
+	"SHD-5M": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"SHD-5R": {
+		"quirks": [
+			"TDBHOT"
+		]
+	},
+	"SHD-5S": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"SHD-6D": {
+		"quirks": [
+			"MMLHE",
+			"LBEXPL"
+		]
+	},
+	"SHD-7CS": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"SHD-7H": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"SHD-7M": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"SHD-8L": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"SHD-9D": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"SHD-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"SHD-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"SHD-PPIID": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"SHD-PPIIH": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"SHD-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Omega_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"DISTRACTING",
+			"HARD-PILOT",
+			"OBSOLE",
+			"PROTOT"
+		]
+	},
+	"SHP-TORT": {
+		"quirks": [
+			"TORT",
+			"TORT1",
+			"TORT2"
+		]
+	},
+	"SHP-MOBI": {
+		"quirks": [
+			"DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT",
+			"BALAPDS"
+		]
+	},
+	"SHP-5R": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"SHP-X4": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"Sentinel_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"NIMBLEJUMPER"
+		]
+	},
+	"STN-1S": {
+		"quirks": [
+			"SRMDMM"
+		]
+	},
+	"STN-3K": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"STN-3KA": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"STN-3KB": {
+		"quirks": [
+			"PPCVEL"
+		]
+	},
+	"STN-3L": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"STN-3Lb": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"STN-3M": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"STN-4D": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"STN-5WB": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"STN-6S": {
+		"quirks": [
+			"DRKAGESTN",
+			"DRKAGESTN1",
+			"DRKAGESTN2",
+			"DRKAGESTN3"
+		]
+	},
+	"STN-C": {
+		"quirks": [
+			"UACJMC",
+			"CLNEND"
+		]
+	},
+	"STN-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"STN-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"STN-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Spider_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"NIMBLEJUMPER"
+		]
+	},
+	"SDR-A": {
+		"quirks": [
+			"ANANSI",
+			"ANANSI1",
+			"ANANSI2",
+			"ANANSI3"
+		]
+	},
+	"SDR-10K": {
+		"quirks": [
+			""
+		]
+	},
+	"SDR-5D": {
+		"quirks": [
+			"ENGEXR"
+		]
+	},
+	"SDR-5K": {
+		"quirks": [
+			"MACCLD"
+		]
+	},
+	"SDR-5V": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"SDR-7K": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"SDR-7K2": {
+		"quirks": [
+			""
+		]
+	},
+	"SDR-7KC": {
+		"quirks": [
+			""
+		]
+	},
+	"SDR-7KR": {
+		"quirks": [
+			"SCOUT",
+			"LBECON"
+		]
+	},
+	"SDR-7M": {
+		"quirks": [
+			"LPSHTDP",
+			"ENGALL"
+		]
+	},
+	"SDR-8K": {
+		"quirks": [
+			""
+		]
+	},
+	"SDR-8M": {
+		"quirks": [
+			"LASALL",
+			"LPSDMGP"
+		]
+	},
+	"SDR-8R": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"SDR-8X": {
+		"quirks": [
+			"CLNEND",
+			"LBECON"
+		]
+	},
+	"SDR-8XR": {
+		"quirks": [
+			"LBECRB"
+		]
+	},
+	"SDR-9M": {
+		"quirks": [
+			"WOBBREL"
+		]
+	},
+	"SDR-C": {
+		"quirks": [
+			"SCOUT"
+		]
+	},
+	"SDR-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"SDR-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"SDR-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"SDR-PPIV": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"Stalker_MDL": {
+		"quirks": [
+			"CBTCPU",
+			"UBIQUITOUS",
+			"MISSILEBOAT"
+		]
+	},
+	"StalkerV_MDL": {
+		"quirks": [
+			"CBTCPU",
+			"UBIQUITOUS",
+			"MISSILEBOAT"
+		]
+	},
+	"STK-M": {
+		"quirks": [
+			"MISERY",
+			"MISERY1",
+			"MISERY2",
+			"MISERY3"
+		]
+	},
+	"STK-3FJamison": {
+		"quirks": [
+			"JAMI",
+			"JAMI1",
+			"JAMI2",
+			"JAMI3"
+		]
+	},
+	"STK-3FJagawen": {
+		"quirks": [
+			"JAG",
+			"JAG1",
+			"JAG2",
+			"JAG3"
+		]
+	},
+	"STK-3F": {
+		"quirks": [
+			"MSLVEL"
+		]
+	},
+	"STK-3FB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"STK-3FK": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"STK-3H": {
+		"quirks": [
+			"SRMSPD"
+		]
+	},
+	"STK-4N": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"STK-4P": {
+		"quirks": [
+			"SRMCLD"
+		]
+	},
+	"STK-5M": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"STK-5S": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"STK-6M": {
+		"quirks": [
+			"LRMHE"
+		]
+	},
+	"STK-7C3BS": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"STK-7D": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"STK-8S": {
+		"quirks": [
+			"GAUHEV"
+		]
+	},
+	"STK-9A": {
+		"quirks": [
+			"LPSMEO"
+		]
+	},
+	"STK-9F": {
+		"quirks": [
+			"MSLCRM",
+			"CLNEND"
+		]
+	},
+	"STK-RR": {
+		"quirks": [
+			"RETRI",
+			"RETRI1",
+			"RETRI2"
+		]
+	},
+	"STK-PPIA": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"STK-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"STK-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"STK-PPIIB": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"STK-PPIIC": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"STK-PPIIIA": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"STK-PPIIIB": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"StoneRhino_MDL": {
+		"quirks": [
+			"BARREL-FISTS",
+			"PROTECTED-ACTUATOR",
+			"OVERSZ",
+			"POORPF",
+			"WEAK-HEAD-1",
+			"CLNEND"
+		]
+	},
+	"StoneRhino-2": {
+		"quirks": [
+			"LPSHEV"
+		]
+	},
+	"StoneRhino-3": {
+		"quirks": [
+			"ATMCRM"
+		]
+	},
+	"StoneRhino-4": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"StoneRhino-5": {
+		"quirks": [
+			"BALLBS"
+		]
+	},
+	"StoneRhino-6": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"StoneRhino-7": {
+		"quirks": [
+			"LPSGEN"
+		]
+	},
+	"StoneRhino-8": {
+		"quirks": [
+			"BALGAR",
+			"LPSGEN"
+		]
+	},
+	"StoneRhino-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"Summoner_MDL": {
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"quirks": [
+			"IMPROVED-COMS",
+			"UBIQUITOUS",
+			"CLNEND"
+		]
+	},
+	"Summoner-A": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"Summoner-AA": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"Summoner-B": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"Summoner-C": {
+		"quirks": [
+			"UACALL"
+		]
+	},
+	"Summoner-D": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"Summoner-E": {
+		"quirks": [
+			"ATMALL"
+		]
+	},
+	"Summoner-F": {
+		"quirks": [
+			"BALUFE"
+		]
+	},
+	"Summoner-G": {
+		"quirks": [
+			"SRMCRM"
+		]
+	},
+	"Summoner-H": {
+		"quirks": [
+			"LPSHEV"
+		]
+	},
+	"Summoner-HH": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"Summoner-J": {
+		"quirks": [
+			"BALGAR"
+		]
+	},
+	"Summoner-M": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"Summoner-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"Summoner-Q": {
+		"quirks": [
+			"SRMHE"
+		]
+	},
+	"Summoner-T": {
+		"quirks": [
+			"ATCRAC"
+		]
+	},
+	"Supernova_MDL": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"CLNEND"
+		]
+	},
+	"Supernova-2": {
+		"quirks": [
+			"ATMCRI"
+		]
+	},
+	"Supernova-3": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"Supernova-4": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"Supernova-5": {
+		"quirks": [
+			"LPSLAR",
+			"POPTART"
+		]
+	},
+	"Supernova-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"Thunderbolt_MDL": {
+		"quirks": [
+			"MULTITRAC",
+			"RUGGED2",
+			"UBIQUITOUS"
+		]
+	},
+	"ThunderboltV_MDL": {
+		"quirks": [
+			"MULTITRAC",
+			"RUGGED2",
+			"UBIQUITOUS"
+		]
+	},
+	"TDR-5S-T": {
+		"quirks": [
+			"TOPDOG",
+			"TOPDOG1",
+			"TOPDOG2"
+		]
+	},
+	"TDR-5S-TTallman": {
+		"quirks": [
+			"TALL",
+			"TALL1",
+			"TALL2"
+		]
+	},
+	"TDR-10MIlyena": {
+		"quirks": [
+			"ILYENA",
+			"ILYENA1",
+			"ILYENA2"
+		]
+	},
+	"TDR-10MSalazar": {
+		"quirks": [
+			"SALZ",
+			"SALZ1",
+			"SALZ2"
+		]
+	},
+	"TDR-10M": {
+		"quirks": [
+			"MMLALL"
+		]
+	},
+	"TDR-10S": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"TDR-10SE": {
+		"quirks": [
+			"LNBREAK"
+		]
+	},
+	"TDR-11S": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"TDR-11SE": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"TDR-12R": {
+		"quirks": [
+			"LBECON"
+		]
+	},
+	"TDR-17S": {
+		"quirks": [
+			"PNCBOT"
+		]
+	},
+	"TDR-1C": {
+		"quirks": [
+			"DIFFICULTTOMAINTAIN",
+			"OBSOLE",
+			"POORWRK"
+		]
+	},
+	"TDR-5D": {
+		"quirks": [
+			"ATCDMM"
+		]
+	},
+	"TDR-5L": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"TDR-5LS": {
+		"quirks": [
+			"LASCLD"
+		]
+	},
+	"TDR-5Sb (R)": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"TDR-60-RLA": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"TDR-7M": {
+		"quirks": [
+			"MACALL"
+		]
+	},
+	"TDR-7S": {
+		"quirks": [
+			"LPSXPL"
+		]
+	},
+	"TDR-7SE": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"TDR-8M": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"TDR-9M": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"TDR-9NAIS": {
+		"quirks": [
+			"RACALL"
+		]
+	},
+	"TDR-9Nr": {
+		"quirks": [
+			"WOBBREL"
+		]
+	},
+	"TDR-9S": {
+		"quirks": [
+			"AMSOVER"
+		]
+	},
+	"TDR-9T": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"TDR-9W": {
+		"quirks": [
+			"MERCWLFD"
+		]
+	},
+	"Thunderbolt-C": {
+		"quirks": [
+			"LASAL",
+			"CLNEND"
+		]
+	},
+	"Thunderbolt-C2": {
+		"quirks": [
+			"ENGALL",
+			"CLNEND"
+		]
+	},
+	"TDR-IIC C2": {
+		"quirks": [
+			"PPCALL",
+			"CLNEND"
+		]
+	},
+	"Thunderbolt-IIC": {
+		"quirks": [
+			"PRIME",
+			"CLNEND"
+		]
+	},
+	"TDR-PPIA": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"TDR-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"TDR-PPIIA": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"TDR-PPIIB": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"TDR-PPIIIA": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"TDR-PPIIIB": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"TDR-5S": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"TDR-5SD": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"TDR-5SE": {
+		"quirks": [
+			"MERCELHM"
+		]
+	},
+	"TDR-5SS": {
+		"quirks": [
+			"PPCCAPRA"
+		]
+	},
+	"TDR-9SE": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"TimberWolf_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"WEAK-HEAD-1",
+			"CLNEND"
+		]
+	},
+	"TimberWolf-BH": {
+		"quirks": [
+			"MDCTBH",
+			"MDCTBH1",
+			"MDCTBH2"
+		]
+	},
+	"TimberWolf-BH2": {
+		"quirks": [
+			"MDCTBHMKII",
+			"MDCTBHMKII1",
+			"MDCTBHMKII2",
+			"MDCTBHMKII3"
+		]
+	},
+	"TimberWolf-Pryde": {
+		"quirks": [
+			"PRYDE",
+			"PRYDE1",
+			"PRYDE2",
+			"PRYDE3"
+		]
+	},
+	"TimberWolf-A": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"TimberWolf-B": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"TimberWolf-BEAR": {
+		"quirks": [
+			"MADBEAR",
+			"MADBEAR1",
+			"MADBEAR2",
+			"MADBEAR3",
+			"MADBEAR4"
+		]
+	},
+	"TimberWolf-BLO": {
+		"quirks": [
+			"BLSORD",
+			"BLSORD1",
+			"BLSORD2",
+			"BLSORD3"
+		]
+	},
+	"TimberWolf-C": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"TimberWolf-D": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"TimberWolf-E": {
+		"quirks": [
+			"ATMCRI"
+		]
+	},
+	"TimberWolf-F": {
+		"quirks": [
+			"GAUGAB"
+		]
+	},
+	"TimberWolf-H": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"TimberWolf-M": {
+		"quirks": [
+			"WARHMR"
+		]
+	},
+	"TimberWolf-N": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"TimberWolf-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"TimberWolf-S": {
+		"quirks": [
+			"SRMALL"
+		]
+	},
+	"TimberWolf-T": {
+		"quirks": [
+			"LPSHEV",
+			"LRMBLT"
+		]
+	},
+	"TimberWolf-TC": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"TimberWolf-PPI (P)": {
+		"quirks": [
+			"LBEPRT",
+			"PRTPPI"
+		]
+	},
+	"TimberWolf-PPII (P)": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"TimberWolf-W": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"MadcatMk2_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"CLNEND"
+		]
+	},
+	"MadCatMkII-Enhanced": {
+		"quirks": [
+			"PROTECTED-ACTUATOR",
+			"ENH",
+			"ENH1",
+			"ENH2",
+			"ENH3"
+		]
+	},
+	"MadCatMkII-Prime": {
+		"quirks": [
+			"PRIME"
+		]
+	},
+	"MadCatMkII-2": {
+		"quirks": [
+			"LBXCLU"
+		]
+	},
+	"MadCatMkII-3": {
+		"quirks": [
+			"GAUHAG"
+		]
+	},
+	"MadCatMkII-4": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"MadCatMkII-5": {
+		"quirks": [
+			"BALGAU"
+		]
+	},
+	"MadCatMkII-6": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"Trebuchet_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"FAST-RELOAD-TORSO"
+		]
+	},
+	"TBT-LG": {
+		"quirks": [
+			"LDG",
+			"LDG1",
+			"LDG2"
+		]
+	},
+	"TBT-3C": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"TBT-5J": {
+		"quirks": [
+			"LRMDMM"
+		]
+	},
+	"TBT-5N": {
+		"quirks": [
+			"LRMHET"
+		]
+	},
+	"TBT-5P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"TBT-5S": {
+		"quirks": [
+			"SRMEXR"
+		]
+	},
+	"TBT-7K": {
+		"quirks": [
+			"ATCDMM"
+		]
+	},
+	"TBT-7M": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"TBT-8B": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"TBT-9K": {
+		"quirks": [
+			"MRMTDB"
+		]
+	},
+	"TBT-9N": {
+		"quirks": [
+			"WOBBREL"
+		]
+	},
+	"TBT-9R": {
+		"quirks": [
+			"LRMCLU"
+		]
+	},
+	"TBT-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"TBT-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"TBT-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Urbanmech_MDL": {
+		"quirks": [
+			"FULL-TWIST",
+			"NARROW",
+			"UM-ASSAULT"
+		]
+	},
+	"Urbanmech_MDL_2": {
+		"quirks": [
+			"FULL-TWIST",
+			"NARROW",
+			"UM-ASSAULT"
+		]
+	},
+	"UM-K9": {
+		"quirks": [
+			"CANINE",
+			"CANINE1",
+			"CANINE2",
+			"URBACC"
+		]
+	},
+	"UM-SC": {
+		"quirks": [
+			"STCLEAN",
+			"STCLEAN1",
+			"STCLEAN2",
+			"URBACC"
+		]
+	},
+	"UM-R100": {
+		"quirks": [
+			"PPCCAPLA",
+			"PPCSTC"
+		]
+	},
+	"UM-R60": {
+		"quirks": [
+			"URBACC",
+			"ATCVEL"
+		]
+	},
+	"UM-R60L": {
+		"quirks": [
+			"URBACC",
+			"ATCEXR"
+		]
+	},
+	"UM-R63": {
+		"quirks": [
+			"URBACC",
+			"LBXVEL"
+		]
+	},
+	"UM-R63X": {
+		"quirks": [
+			"URBACC",
+			"ATCCLD"
+		]
+	},
+	"UM-R68": {
+		"quirks": [
+			"URBACC",
+			"SRMSPD",
+			"SRMSPR"
+		]
+	},
+	"UM-R69": {
+		"quirks": [
+			"UMSPIN",
+			"URBACC",
+			"BALUFE"
+		]
+	},
+	"UM-R70": {
+		"quirks": [
+			"URBACC",
+			"RACDMG"
+		]
+	},
+	"UM-80": {
+		"quirks": [
+			"VNDARM",
+			"PPCARC"
+		]
+	},
+	"UM-R90": {
+		"quirks": [
+			"PPCCAPLA",
+			"PPCALL"
+		]
+	},
+	"UM-R93": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"UM-R96": {
+		"quirks": [
+			"PPCCAPLA",
+			"PPCDMG"
+		]
+	},
+	"UM-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"UM-PPIB": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"UM-PPIC": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"UM-PPID": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"UM-PPIE": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"UM-PPII": {
+		"quirks": [
+			"PRTPPII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIB": {
+		"quirks": [
+			"PRTPPII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIC": {
+		"quirks": [
+			"PRTPPII",
+			"URBACC"
+		]
+	},
+	"UM-PPIID": {
+		"quirks": [
+			"PRTPPII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIE": {
+		"quirks": [
+			"PRTPPII",
+			"URBACC"
+		]
+	},
+	"UM-PPIII": {
+		"quirks": [
+			"PRTPPIII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIIB": {
+		"quirks": [
+			"PRTPPIII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIIC": {
+		"quirks": [
+			"PRTPPIII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIID": {
+		"quirks": [
+			"PRTPPIII",
+			"URBACC"
+		]
+	},
+	"UM-PPIIIE": {
+		"quirks": [
+			"PRTPPIII",
+			"URBACC"
+		]
+	},
+	"UM-PPIV": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"UM-PPIVB": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"UM-PPIVC": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"UM-PPIVD": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"UM-PPIVE": {
+		"quirks": [
+			"PRTPPIV"
+		]
+	},
+	"UM-PPV": {
+		"quirks": [
+			"PRTPPV"
+		]
+	},
+	"UM-PPVI": {
+		"quirks": [
+			"PRTPPVI"
+		]
+	},
+	"Victor_MDL": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"VTR-BSK": {
+		"quirks": [
+			"BLISK",
+			"BLISK1",
+			"BLISK2"
+		]
+	},
+	"VTR-DS": {
+		"quirks": [
+			"DSLAY",
+			"DSLAY1",
+			"DSLAY2"
+		]
+	},
+	"VTR-9A1": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"VTR-9B": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"VTR-9K": {
+		"quirks": [
+			"GAUALL"
+		]
+	},
+	"VTR-9P": {
+		"quirks": [
+			"MELASS"
+		]
+	},
+	"VTR-9S": {
+		"quirks": [
+			"SRMCLD"
+		]
+	},
+	"VTR-BRL": {
+		"quirks": [
+			"BALALL"
+		]
+	},
+	"Vindicator_MDL": {
+		"quirks": [
+			"RUGGED1",
+			"DIFFICULT-EJECT",
+			"VNDARM"
+		]
+	},
+	"VND-1SIB": {
+		"quirks": [
+			"SIBLUES",
+			"SIBLUES1",
+			"SIBLUES2"
+		]
+	},
+	"VND-1AA": {
+		"quirks": [
+			"PPCSPD"
+		]
+	},
+	"VND-1P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"VND-1R": {
+		"quirks": [
+			"PPCCLD"
+		]
+	},
+	"VND-1SIC": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"VND-1X": {
+		"quirks": [
+			"MACDMM"
+		]
+	},
+	"VND-3L": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"VND-3LD": {
+		"quirks": [
+			"VNDDRN"
+		]
+	},
+	"VND-4L": {
+		"quirks": [
+			"ENGALL"
+		]
+	},
+	"VND-5L": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"VND-6L": {
+		"quirks": [
+			"PLRCLD"
+		]
+	},
+	"VND-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"VND-PPII": {
+		"quirks": [
+			"LBEPRT",
+			"PRTPPII"
+		]
+	},
+	"VND-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Vulcan_MDL": {
+		"quirks": [
+			"CQC-SUITE",
+			"NARROW",
+			"SEARCHLIGHT",
+			"OVERHEAD-ARMS"
+		]
+	},
+	"Vulcan_MDL_2": {
+		"quirks": [
+			"CQC-SUITE",
+			"NARROW",
+			"SEARCHLIGHT",
+			"OVERHEAD-ARMS"
+		]
+	},
+	"VL-BL": {
+		"quirks": [
+			"BLUST",
+			"BLUST1",
+			"BLUST2"
+		]
+	},
+	"VL-2P": {
+		"quirks": [
+			"MACDMM"
+		]
+	},
+	"VL-2T": {
+		"quirks": [
+			"ATCVEL"
+		]
+	},
+	"VL-5M": {
+		"quirks": [
+			"LPSRNGP"
+		]
+	},
+	"VL-5ML": {
+		"quirks": [
+			"TDBLLD"
+		]
+	},
+	"VL-5S": {
+		"quirks": [
+			"BALUFE"
+		]
+	},
+	"VL-5SR": {
+		"quirks": [
+			"PLRDMG"
+		]
+	},
+	"VL-5T": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"VL-6C": {
+		"quirks": [
+			"LPSLAR",
+			"LPSCLD"
+		]
+	},
+	"VL-6M": {
+		"quirks": [
+			"LBXSPR"
+		]
+	},
+	"VL-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"VL-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"VL-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Warhammer_MDL": {
+		"quirks": [
+			"RUGGED2",
+			"STABLE",
+			"UBIQUITOUS",
+			"WARHMR"
+		]
+	},
+	"WarhammerV_MDL": {
+		"quirks": [
+			"RUGGED2",
+			"STABLE",
+			"UBIQUITOUS",
+			"WARHMR"
+		]
+	},
+	"WHM-BW": {
+		"quirks": [
+			"BWIDOW",
+			"BWIDOW1",
+			"BWIDOW2",
+			"BWIDOW3",
+			"BWIDOW4"
+		]
+	},
+	"WHM-4L": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"WHM-6D": {
+		"quirks": [
+			"PPCHET"
+		]
+	},
+	"WHM-6K": {
+		"quirks": [
+			"SRMDMM"
+		]
+	},
+	"WHM-6L": {
+		"quirks": [
+			"ENGCLD"
+		]
+	},
+	"WHM-6R": {
+		"quirks": [
+			"PPCCLD"
+		]
+	},
+	"WHM-6RB": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"WHM-7S": {
+		"quirks": [
+			"MSLALL"
+		]
+	},
+	"WHM-9D": {
+		"quirks": [
+			"ENGALL",
+			"WHM-9D"
+		]
+	},
+	"WHD-10CT": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"WHM-10K": {
+		"quirks": [
+			"DRKAGEWHM",
+			"DRKAGEWHM1",
+			"DRKAGEWHM2",
+			"DRKAGEWHM3",
+			"DRKAGEWHM4"
+		]
+	},
+	"WHM-10T": {
+		"quirks": [
+			"JJENH"
+		]
+	},
+	"WHM-11T": {
+		"quirks": [
+			"PPCARC",
+			"MMLALL"
+		]
+	},
+	"WHM-5L": {
+		"quirks": [
+			"PLRFST"
+		]
+	},
+	"WHM-6K-Olesko": {
+		"quirks": [
+			"OLESKO",
+			"OLESKO1",
+			"OLESKO2"
+		]
+	},
+	"WHM-6Rk": {
+		"quirks": [
+			"SLDFR"
+		]
+	},
+	"WHM-7A": {
+		"quirks": [
+			"LPSMEO"
+		]
+	},
+	"WHM-7CS": {
+		"quirks": [
+			"CLNBST"
+		]
+	},
+	"WHM-7K": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"WHM-7M-DC": {
+		"quirks": [
+			"TARPRE"
+		]
+	},
+	"WHM-7M": {
+		"quirks": [
+			"AMSOVER"
+		]
+	},
+	"WHM-8D2": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"WHM-8D": {
+		"quirks": [
+			"INCASE"
+		]
+	},
+	"WHM-8K": {
+		"quirks": [
+			"PPCHEV"
+		]
+	},
+	"WHM-8M": {
+		"quirks": [
+			"GAUGAB"
+		]
+	},
+	"WHM-8R": {
+		"quirks": [
+			"BALMGRF"
+		]
+	},
+	"WHM-9K": {
+		"quirks": [
+			"PPCDMG"
+		]
+	},
+	"WHM-9S": {
+		"quirks": [
+			"LPSMED"
+		]
+	},
+	"WHM-X7-The-Lich": {
+		"quirks": [
+			"LICH",
+			"LICH1",
+			"LICH2",
+			"LICH3"
+		]
+	},
+	"WHM-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"WHM-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"WHM-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Warhawk_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"CLNEND"
+		]
+	},
+	"Warhawk-A": {
+		"quirks": [
+			"LBXALL"
+		]
+	},
+	"Warhawk-B": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"Warhawk-C": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"Warhawk-D": {
+		"quirks": [
+			"UACJMC"
+		]
+	},
+	"Warhawk-E": {
+		"quirks": [
+			"PLRALL"
+		]
+	},
+	"Warhawk-F": {
+		"quirks": [
+			"LRMALL"
+		]
+	},
+	"Warhawk-G": {
+		"quirks": [
+			"LPSHEV",
+			"LBECON"
+		]
+	},
+	"Warhawk-H": {
+		"quirks": [
+			"LPSHEV"
+		]
+	},
+	"Warhawk-I": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"Warhawk-L": {
+		"quirks": [
+			"BURNIF",
+			"PPCDMG"
+		]
+	},
+	"Warhawk-Prime": {
+		"quirks": [
+			"PPCALL",
+			"PRIME"
+		]
+	},
+	"Warhawk-T": {
+		"quirks": [
+			"RKTFCK",
+			"PLRALL"
+		]
+	},
+	"WSP-1A": {
+		"scale": "X=0.6 Y=0.6 Z=0.6",
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"EXT-TWIST",
+			"UBIQUITOUS"
+		]
+	},
+	"Whitworth_MDL": {
+		"quirks": [
+			"BEGIN",
+			"WEAK-LEGS"
+		]
+	},
+	"Wolfhound_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"WLF-GR": {
+		"quirks": [
+			"GRINNER",
+			"GRINNER1",
+			"GRINNER2",
+			"GRINNER3"
+		]
+	},
+	"WLF-1": {
+		"quirks": [
+			"LPSHTD"
+		]
+	},
+	"WLF-1A": {
+		"quirks": [
+			"ENGCLD"
+		]
+	},
+	"WLF-1B": {
+		"quirks": [
+			"LPSLAR"
+		]
+	},
+	"WLF-2": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"WLF-2H": {
+		"quirks": [
+			"LBECNT"
+		]
+	},
+	"WLF-2X": {
+		"quirks": [
+			"LBEASS"
+		]
+	},
+	"WLF-3M": {
+		"quirks": [
+			""
+		]
+	},
+	"WLF-3S": {
+		"quirks": [
+			"LEMLBN"
+		]
+	},
+	"WLF-4W": {
+		"quirks": [
+			"PPCSTC"
+		]
+	},
+	"WLF-4WA": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"WLF-5": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"WLF-6S": {
+		"quirks": [
+			"LPSLAR",
+			"LBEXPL"
+		]
+	},
+	"WLF-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"WLF-PPII": {
+		"quirks": [
+			"PRTPPII",
+			"LBEPRT"
+		]
+	},
+	"WLF-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Wolverine_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-COMS",
+			"PROTECTED-ACTUATOR",
+			"CRAMPED-COCKPIT",
+			"UBIQUITOUS"
+		]
+	},
+	"WVR-Q": {
+		"quirks": [
+			"QUARAN",
+			"QUARAN1",
+			"QUARAN2",
+			"QUARAN3"
+		]
+	},
+	"WVR-10D": {
+		"quirks": [
+			"RACDMG"
+		]
+	},
+	"WVR-10R": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"WVR-10V2": {
+		"quirks": [
+			"BALGAR"
+		]
+	},
+	"WVR-11M": {
+		"quirks": [
+			"LBEXPL"
+		]
+	},
+	"WVR-6D": {
+		"quirks": [
+			"BALBSD"
+		]
+	},
+	"WVR-6K": {
+		"quirks": [
+			"LPSRNG"
+		]
+	},
+	"WVR-6M": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"WVR-6P": {
+		"quirks": [
+			"MELMED"
+		]
+	},
+	"WVR-6R": {
+		"quirks": [
+			"ATCCLD"
+		]
+	},
+	"WVR-7D": {
+		"quirks": [
+			"BALALL"
+		]
+	},
+	"WVR-7H": {
+		"quirks": [
+			"WVR-7H",
+			"SLDFR"
+		]
+	},
+	"WVR-7K": {
+		"quirks": [
+			"LASALLP"
+		]
+	},
+	"WVR-7M": {
+		"quirks": [
+			"LASALL"
+		]
+	},
+	"WVR-7M2": {
+		"quirks": [
+			"SRMMRP"
+		]
+	},
+	"WVR-8C": {
+		"quirks": [
+			"SRMSTCLD"
+		]
+	},
+	"WVR-8D": {
+		"quirks": [
+			"RACSPR"
+		]
+	},
+	"WVR-8K": {
+		"quirks": [
+			"PPCARC"
+		]
+	},
+	"WVR-9D": {
+		"quirks": [
+			"BALRJC"
+		]
+	},
+	"WVR-9K": {
+		"quirks": [
+			"PPCSNR"
+		]
+	},
+	"WVR-9M": {
+		"quirks": [
+			"PPCCA1"
+		]
+	},
+	"WVR-9R": {
+		"quirks": [
+			"BALUDG"
+		]
+	},
+	"WVR-9W": {
+		"quirks": [
+			"MMLHE"
+		]
+	},
+	"WVR-9W2": {
+		"quirks": [
+			"PPCBYP"
+		]
+	},
+	"WVR-PPI": {
+		"quirks": [
+			"PRTPPI"
+		]
+	},
+	"WVR-PPII": {
+		"quirks": [
+			"PRTPPII"
+		]
+	},
+	"WVR-PPIII": {
+		"quirks": [
+			"PRTPPIII"
+		]
+	},
+	"Wyvern_MDL": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"WVE-10N": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"PPCARC",
+			"BEGIN"
+		]
+	},
+	"WVE-5N": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"MSLHET",
+			"BEGIN"
+		]
+	},
+	"WVE-5NB (R)": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"SLDFR",
+			"BEGIN"
+		]
+	},
+	"WVE-6N": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"LPSRNG",
+			"BEGIN"
+		]
+	},
+	"WVE-9N": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"CLNBST",
+			"BEGIN"
+		]
+	},
+	"Zeus_MDL": {
+		"quirks": [
+			"BARREL-FIST (R)",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"ZEU-SK": {
+		"quirks": [
+			"SKOK",
+			"SKOK1",
+			"SKOK2",
+			"SKOK3"
+		]
+	},
+	"ZEU-5S": {
+		"quirks": [
+			"UACCLD"
+		]
+	},
+	"ZEU-5T": {
+		"quirks": [
+			"ENGDMM"
+		]
+	},
+	"ZEU-6S": {
+		"quirks": [
+			"LRMDMM"
+		]
+	},
+	"ZEU-6T": {
+		"quirks": [
+			"LPSCLD"
+		]
+	},
+	"ZEU-9S": {
+		"quirks": [
+			"PPCALL"
+		]
+	},
+	"ZEU-9S2": {
+		"quirks": [
+			"GAUALL"
+		]
+	}
+}

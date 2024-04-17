@@ -1,0 +1,1881 @@
+{
+	"Equipment.Upgrades.Armor": {
+		"color": "(R=0.59,G=0.03,B=0.11,A=1)",
+		"category": "equipment.internal"
+	},
+	"MODULAR_ARMOR_MK1_FRONT": {
+		"armorComponentFront": 8,
+		"rarity": 0.04
+	},
+	"MODULAR_ARMOR_MK2_FRONT": {
+		"armorComponentFront": 16,
+		"rarity": 0.03
+	},
+	"MODULAR_ARMOR_MK3_FRONT": {
+		"armorComponentFront": 24,
+		"rarity": 0.02
+	},
+	"MODULAR_ARMOR_MK4_FRONT": {
+		"armorComponentFront": 32,
+		"rarity": 0.01
+	},
+	"MODULAR_ARMOR_MK1_REAR": {
+		"armorComponentRear": 8,
+		"invalidMechParts": [
+			"Head",
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg"
+		],
+		"rarity": 0.01
+	},
+	"MODULAR_ARMOR_MK2_REAR": {
+		"armorComponentRear": 16,
+		"invalidMechParts": [
+			"Head",
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg"
+		],
+		"rarity": 0.01
+	},
+	"MODULAR_ARMOR_MK3_REAR": {
+		"armorComponentRear": 24,
+		"invalidMechParts": [
+			"Head",
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg"
+		],
+		"rarity": 0.01
+	},
+	"MODULAR_ARMOR_MK4_REAR": {
+		"armorComponentRear": 32,
+		"invalidMechParts": [
+			"Head",
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg"
+		],
+		"rarity": 0.01
+	},
+	"MODULAR_FERRO_MK1": {
+		"maxArmorComponent": 8,
+		"rarity": 0.1,
+		"mechPartConflicts": [
+			"MODULAR_FERRO_MK1",
+			"MODULAR_FERRO_MK2",
+			"MODULAR_FERRO_MK3",
+			"MODULAR_FERRO_MK4",
+			"MODULAR_ARMOR_MK1_FRONT",
+			"MODULAR_ARMOR_MK2_FRONT",
+			"MODULAR_ARMOR_MK3_FRONT",
+			"MODULAR_ARMOR_MK4_FRONT",
+			"MODULAR_ARMOR_MK1_REAR",
+			"MODULAR_ARMOR_MK2_REAR",
+			"MODULAR_ARMOR_MK3_REAR",
+			"MODULAR_ARMOR_MK4_REAR"
+		]
+	},
+	"MODULAR_FERRO_MK2": {
+		"maxArmorComponent": 16,
+		"rarity": 0.08,
+		"mechPartConflicts": [
+			"MODULAR_FERRO_MK1",
+			"MODULAR_FERRO_MK2",
+			"MODULAR_FERRO_MK3",
+			"MODULAR_FERRO_MK4",
+			"MODULAR_ARMOR_MK1_FRONT",
+			"MODULAR_ARMOR_MK2_FRONT",
+			"MODULAR_ARMOR_MK3_FRONT",
+			"MODULAR_ARMOR_MK4_FRONT",
+			"MODULAR_ARMOR_MK1_REAR",
+			"MODULAR_ARMOR_MK2_REAR",
+			"MODULAR_ARMOR_MK3_REAR",
+			"MODULAR_ARMOR_MK4_REAR"
+		]
+	},
+	"MODULAR_FERRO_MK3": {
+		"maxArmorComponent": 24,
+		"rarity": 0.06,
+		"mechPartConflicts": [
+			"MODULAR_FERRO_MK1",
+			"MODULAR_FERRO_MK2",
+			"MODULAR_FERRO_MK3",
+			"MODULAR_FERRO_MK4",
+			"MODULAR_ARMOR_MK1_FRONT",
+			"MODULAR_ARMOR_MK2_FRONT",
+			"MODULAR_ARMOR_MK3_FRONT",
+			"MODULAR_ARMOR_MK4_FRONT",
+			"MODULAR_ARMOR_MK1_REAR",
+			"MODULAR_ARMOR_MK2_REAR",
+			"MODULAR_ARMOR_MK3_REAR",
+			"MODULAR_ARMOR_MK4_REAR"
+		]
+	},
+	"MODULAR_FERRO_MK4": {
+		"maxArmorComponent": 32,
+		"rarity": 0.05,
+		"mechPartConflicts": [
+			"MODULAR_FERRO_MK1",
+			"MODULAR_FERRO_MK2",
+			"MODULAR_FERRO_MK3",
+			"MODULAR_FERRO_MK4",
+			"MODULAR_ARMOR_MK1_FRONT",
+			"MODULAR_ARMOR_MK2_FRONT",
+			"MODULAR_ARMOR_MK3_FRONT",
+			"MODULAR_ARMOR_MK4_FRONT",
+			"MODULAR_ARMOR_MK1_REAR",
+			"MODULAR_ARMOR_MK2_REAR",
+			"MODULAR_ARMOR_MK3_REAR",
+			"MODULAR_ARMOR_MK4_REAR"
+		]
+	},
+	"Equipment.Harjel": {
+		"color": "(R=0.11,G=0.19,B=0.77,A=0.5)",
+		"category": "equipment.internal",
+		"installCostScaling": 10
+	},
+	"HARJEL_I": {
+		"armorComponentFrontMulti": 1.1,
+		"armorComponentRearMulti": 1.1,
+		"selfRepairArmor": 0.5,
+		"selfRepairStructure": 0.2,
+		"selfRepairDuration": 7,
+		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.98,
+		"selfRepairScope": "component",
+		"mechPartConflicts": [
+			"HARJEL_I"
+		],
+		"mechConflicts": [
+			"HARJEL_II",
+			"HARJEL_III"
+		],
+		"invalidMechParts": [
+			"Head"
+		],
+		"rarity": 0.1,
+		"structureRepairCostMulti": 1.1,
+		"structureRepairDaysMulti": 1.1,
+		"armorRepairCostMulti": 1.1,
+		"armorRepairDaysMulti": 1.1
+	},
+	"HARJEL_II": {
+		"armorComponentFrontMulti": 1.1,
+		"armorComponentRearMulti": 1.1,
+		"selfRepairArmor": 1,
+		"selfRepairStructure": 0.4,
+		"selfRepairDuration": 7,
+		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.98,
+		"selfRepairScope": "component",
+		"mechPartConflicts": [
+			"HARJEL_II"
+		],
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_III"
+		],
+		"invalidMechParts": [
+			"Head"
+		],
+		"rarity": 0.1,
+		"structureRepairCostMulti": 1.15,
+		"structureRepairDaysMulti": 1.15,
+		"armorRepairCostMulti": 1.15,
+		"armorRepairDaysMulti": 1.15
+	},
+	"HARJEL_III": {
+		"armorComponentFrontMulti": 1.1,
+		"armorComponentRearMulti": 1.1,
+		"selfRepairArmor": 2,
+		"selfRepairStructure": 0.8,
+		"selfRepairDuration": 7,
+		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.98,
+		"selfRepairScope": "component",
+		"mechPartConflicts": [
+			"HARJEL_III"
+		],
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_II"
+		],
+		"invalidMechParts": [
+			"Head"
+		],
+		"rarity": 0.05,
+		"structureRepairCostMulti": 1.2,
+		"structureRepairDaysMulti": 1.2,
+		"armorRepairCostMulti": 1.2,
+		"armorRepairDaysMulti": 1.2
+	},
+	"Equipment.Upgrades.Patchwork": {
+		"category": "equipment.internal",
+		"installCostScaling": 15,
+		"mechPartConflicts": [
+			"PATCHWORK_T1",
+			"PATCHWORK_T2",
+			"PATCHWORK_T3"
+		]
+	},
+	"PATCHWORK_T1": {
+		"rarity": 0.04,
+		"installCost": 30000,
+		"removeCost": 3000
+	},
+	"PATCHWORK_T2": {
+		"rarity": 0.03,
+		"installCost": 45000,
+		"removeCost": 4500
+	},
+	"PATCHWORK_T3": {
+		"rarity": 0.02,
+		"installCost": 60000,
+		"removeCost": 6000
+	},
+	"BLACK_CARAPACE": {
+		"loreAccurate": false,
+		"description": "The Black Carapace is the result of a secret research project which integrated the HarJel self-repair system directly into the armor plates. As a result the armor is slightly more bulky and heavier but the self-repair effect makes more than up for this.\nHowever, due to the compact build weapon heat can be vented less effectively.\n\nReserves 1 slot per Location except Head.",
+		"selfRepairArmor": 0.8,
+		"selfRepairStructure": 0.4,
+		"selfRepairDuration": 9,
+		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.995,
+		"selfRepairScope": "mech",
+		"fillerSlots": {
+			"CenterTorso": 1,
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1,
+			"LeftArm": 1,
+			"RightArm": 1
+		},
+		"armorWeightMulti": 1.15,
+		"color": "(R=0.1,G=0.1,B=0.1,A=1)",
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [ "Weapon" ],
+				"heatMulti": 1.1
+			}]
+		},
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_II",
+			"HARJEL_III"
+		],
+		"rarity": 0.02,
+		"installCost": 78000,
+		"removeCost": 7800,
+		"installCostScaling": 10
+	},
+	"HARDENED_FERRO": {
+		"loreAccurate": false,
+		"description": "Advances in Material Sciences since and recovered from the Star League in combination with RISC ingenuity allowed the creation of this Armor. Combining the Toughness of Hardened Structure and the weight savings of Heavy Ferro with a refurbished unique HarJel Self Repair System does this Armor turn anything into an undying Juggernaut.\n\nReserves 2 slots in every component except the head.",
+		"selfRepairArmor": 1.8,
+		"selfRepairStructure": 0.6,
+		"selfRepairDuration": 7,
+		"selfRepairInterval": 1,
+		"selfRepairDegradation": 0.96,
+		"selfRepairScope": "mech",
+		"caseLevel": 2,
+		"caseScope": "mech",
+		"fillerSlots": {
+			"LeftTorso": 2,
+			"RightTorso": 2,
+			"LeftArm": 2,
+			"RightArm": 2,
+			"LeftLeg": 2,
+			"RightLeg": 2,
+			"CenterTorso": 2
+		},
+		"armorWeightMulti": 1.4,
+		"armorMulti": 1.5,
+		"mechConflicts": [
+			"HARJEL_I",
+			"HARJEL_II",
+			"HARJEL_III"
+		],
+		"rarity": 0.02,
+		"installCost": 82000,
+		"removeCost": 8200,
+		"installCostScaling": 10,
+		"armorRepairCostMulti": 2,
+		"armorRepairDaysMulti": 2
+	},
+	"FERRO_CARBIDE_C": {
+		"caseLevel": 1,
+		"caseScope": "mech",
+		"armorWeightMulti": 0.89286,
+		"armorMulti": 1.1,
+		"installCostScaling": 10,
+		"armorRepairCostMulti": 2.0,
+		"armorRepairDaysMulti": 1.9,
+		"rarity": 0.01,
+		"fillerSlots": {
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftArm": 1,
+			"RightArm": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1,
+			"CenterTorso": 1
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"armorDamageMulti": 0.85,
+				"scope": "mech"
+			},{
+				"weaponGroupName": "Re-Engineered Laser",
+				"tags": [
+					"Weapon.Energy.Laser.RELaser",
+					"Weapon.Energy.Laser.Re"
+				],
+				"armorDamageMulti": 1.15,
+				"scope": "mech"
+			}]
+		}
+	},
+	"TCOMP_MISSLE_ADVANCED": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Missile",
+				"tags": [
+					"Weapon.Missile",
+					"Weapon.ArtemisMissile"
+				],
+				"spreadRadiusMulti": 0.7,
+				"spreadDistanceMulti": 1.3,
+				"speedMulti": 1.15,
+				"cooldownMulti": 0.85
+			}],
+			"lockonTimeMulti": 0.85
+		},
+		"rarity": 0.1
+	},
+	"TCOMP_BALLISTIC_ADVANCED": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Ballistic",
+				"tags": [
+					"Weapon.Ballistic"
+				],
+				"spreadRadiusMulti": 0.7,
+				"spreadDistanceMulti": 1.3,
+				"speedMulti": 1.15,
+				"cooldownMulti": 0.85
+			}]
+		},
+		"rarity": 0.1
+	},
+	"TCOMP_PPC_ADVANCED": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "PPC",
+				"tags": [
+					"Weapon.Energy.ParticleCannon"
+				],
+				"spreadRadiusMulti": 0.7,
+				"spreadDistanceMulti": 1.3,
+				"speedMulti": 1.15,
+				"cooldownMulti": 0.85
+			}]
+		},
+		"rarity": 0.1
+	},
+	"TCOMP_TRACE_ADVANCED": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Laser",
+				"tags": [
+					"Weapon.Energy.Laser"
+				],
+				"durationMulti": 0.85,
+				"cooldownMulti": 0.85
+			}]
+		},
+		"rarity": 0.1
+	},
+	"TCOMP_HEAT": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [ "Weapon" ],
+				"heatMulti": 0.95
+			}]
+		},
+		"rarity": 0.1
+	},
+	"TCOMP_NOVA": {
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Laser",
+				"tags": [ "Weapon.Energy.Laser" ],
+				"heatMulti": 0.9
+			}]
+		},
+		"rarity": 0.1
+	},
+	"COMPOSITE_STRUCTURE": {
+		"structureMulti": 0.5,
+		"structureWeightMulti": "0.5",
+		"rarity": 0.2,
+		"installCost": 35000,
+		"removeCost": 3500,
+		"installCostScaling": 10,
+		"structureRepairCostMulti": 0.65,
+		"structureRepairDaysMulti": 0.4
+	},
+	"ENDO_COMPOSITE_STRUCTURE": {
+		"structureWeightMulti": "0.75",
+		"rarity": 0.08,
+		"installCost": 45000,
+		"removeCost": 4500,
+		"installCostScaling": 10,
+		"structureRepairCostMulti": 1.3,
+		"structureRepairDaysMulti": 1.2,
+		"fillerSlots": {
+			"dynamic": 1
+		}
+	},
+	"ENDO_COMPOSITE_STRUCTURE_CLAN": {
+		"structureWeightMulti": "0.75",
+		"rarity": 0.08,
+		"installCost": 90000,
+		"removeCost": 9000,
+		"installCostScaling": 10,
+		"structureRepairCostMulti": 1.45,
+		"structureRepairDaysMulti": 1.3,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"module": "Clan"
+	},
+	"STEALTH_ARMOR": {
+		"stealth": true,
+		"armorPerTon": 32,
+		"fillerSlots": {
+			"LeftTorso": 2,
+			"RightTorso": 2,
+			"LeftLeg": 2,
+			"RightLeg": 2,
+			"LeftArm": 2,
+			"RightArm": 2
+		},
+		"mechRequirements": [
+			"GuardianECM"
+		],
+		"color": "(R=0.27,G=0.3176,B=0.3216,A=1)",
+		"rarity": 0.05
+	},
+	"SENSORS_PROBE": {
+		"rarity": 0.1,
+		"color": "(R=1,G=0.115883,B=0,A=1)"
+	},
+	"SENSORS_SEARCHLIGHT": {
+		"rarity": 0.1,
+		"features": [
+			"searchlight"
+		],
+		"sensorRangeBonus": 80
+	},
+	"ARMOR_NSS": {
+		"armorPerTon": 32,
+		"fillerSlots": {
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftArm": 1,
+			"RightArm": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1,
+			"CenterTorso": 1
+		},
+		"mechRequirements": [
+			"Equipment.ECM"
+		],
+		"rarity": 0.02,
+		"heat": 0.35,
+		"weapons": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [ "Weapon" ],
+				"heatMulti": 1.15
+			}]
+		},
+		"armorRepairCostMulti": 1.8,
+		"armorRepairDaysMulti": 1.6
+	},
+	"ARMOR_BALLISTIC_REINFORCED":{
+		"armorPerTon": 24,
+		"rarity": 0.15,
+		"installCost": 20000,
+		"removeCost": 4000,
+		"installCostScaling": 10,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Missile and Ballistic",
+				"tags": [
+					"Weapon.Missile",
+					"Weapon.ArtemisMissile",
+					"Weapon.Ballistic"
+				],
+				"armorDamageMulti": 0.5,
+				"scope": "mech"
+			}]
+		},
+		"armorRepairCostMulti": 2,
+		"armorRepairDaysMulti": 2
+	},
+	"ARMOR_SPALL_LINER": {
+		"loreAccurate": false,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"armorWeightMulti": 1.15,
+		"rarity": 0.05,
+		"installCost": 20000,
+		"removeCost": 4000,
+		"installCostScaling": 10,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": [
+					"Weapon"
+				],
+				"armorDamageMulti": 0.85,
+				"structureDamageMulti": 0.6,
+				"scope": "mech"
+			},{
+				"weaponGroupName": "Re-Engineered Laser",
+				"tags": [
+					"Weapon.Energy.Laser.RELaser",
+					"Weapon.Energy.Laser.Re"
+				],
+				"armorDamageMulti": 1.15,
+				"scope": "mech"
+			}]
+		},
+		"armorRepairCostMulti": 1.2,
+		"armorRepairDaysMulti": 1.2
+	},
+	"LASER_INSULATOR": {
+		"description": "The  Laser Insulators were an advanced heat sink first used in the SLDF's Chippewa fighter. They have been adjusted to be used in battlemechs to specifically cool down laser weapons.\n\nNeeds to be installed in a location with a laser.",
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Laser",
+					"tags": [
+						"Weapon.Energy.Laser"
+					],
+					"heatMulti": 0.95
+				}
+			]
+		},
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"mechPartRequirements": [
+			"Weapon.Energy.Laser"
+		]
+	},
+	"SHOULDER_ARMORED": {
+		"relativeWeight": 0.01,
+		"rarity": 0.02,
+		"armorComponentFrontMulti": 1.25,
+		"loreAccurate": false
+	},
+	"UPPER_MELEE": {
+		"relativeWeight": 0.01,
+		"rarity": 0.02,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.15
+				}
+			]
+		},
+		"armorComponentFront": 10,
+		"structureComponent": 5,
+		"loreAccurate": false
+	},
+	"UPPER_SPIKED": {
+		"relativeWeight": 0.01,
+		"rarity": 0.01,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.1
+				}
+			]
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Melee",
+				"tags": ["Weapon.Melee"],
+				"armorDamageMulti": 0.85,
+				"structureDamageMulti": 0.85,
+				"scope": "component"
+			}]
+		},
+		"loreAccurate": false,
+		"module": "Pirate"
+	},
+	"SPIKED_FIST": {
+		"loreAccurate": false,
+		"relativeWeight": 0.025,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Punch",
+					"tags": [
+						"Weapon.Melee.Light.Punch",
+						"Weapon.Melee.Medium.Punch",
+						"Weapon.Melee.Heavy.Punch",
+						"Weapon.Melee.Assault.Punch"
+
+					],
+					"damageMulti": 1.2,
+					"cooldownMulti": 0.9
+				},
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon.Energy",
+						"Weapon.Missile",
+						"Weapon.ArtemisMissile",
+						"Weapon.Ballistic"
+					],
+					"cooldownMulti": 1.2,
+					"damageMulti": 0.85
+				}
+			]
+		},
+		"armorComponentFront": 10,
+		"structureComponent": 5,
+		"module": "Pirate"
+	},
+	"UPPER_ARMORED": {
+		"relativeWeight": 0.01,
+		"rarity": 0.02,
+		"armorComponentFrontMulti": 1.2,
+		"loreAccurate": false,
+		"caseLevel": 2,
+		"case2MaxDmg": 5
+	},
+	"UPPER_HARD_ENED": {
+		"relativeWeight": 0.01,
+		"rarity": 0.01,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"armorDamageMulti": 0.9,
+				"structureDamageMulti": 0.9,
+				"scope": "component"
+			}]
+		},
+		"loreAccurate": false,
+		"caseLevel": 2,
+		"case2MaxDmg": 5
+	},
+	"LOWER_MELEE": {
+		"relativeWeight": 0.01,
+		"rarity": 0.02,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.15
+				}
+			]
+		},
+		"loreAccurate": false
+	},
+	"WEAPON_MOUNT": {
+		"relativeWeight": 0.01,
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon.Energy",
+						"Weapon.Ballistic",
+						"Weapon.Missile",
+						"Weapon.ArtemisMissile"
+					],
+					"cooldownMulti": 0.9,
+					"damageMulti": 1.05
+				},
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 0.85
+				}
+			]
+		}
+	},
+	"WEAPON_MOUNT_RECOIL": {
+		"relativeWeight": 0.01,
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"jamChanceMulti": 0.75,
+					"spreadRadiusMulti": 0.9,
+					"spreadDistanceMulti": 1.1
+				}
+			]
+		}
+	},
+	"WEAPON_MOUNT_HEAT": {
+		"relativeWeight": 0.01,
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.95
+				},
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 0.85
+				}
+			]
+		}
+	},
+	"COOLING_JACKET": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.9
+				}
+			]
+		},
+		"armTwistAngleMulti": 0.9,
+		"armTwistRateMulti": 0.85
+	},
+	"COCKPIT_SMALL_ADVANCED": {
+		"rarity": 0.05,
+		"loreAccurate": false
+	},
+	"COCKPIT_HOTSEAT": {
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"C79_MASC_MKI",
+			"C79_MASC_MKII",
+			"C79_MASC_MKIII",
+			"C79_MASC_MKIV",
+			"C79_MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT"
+		],
+		"loreAccurate": false,
+		"rarity": 0.03,
+		"armorComponentFront": 3,
+		"structureComponent": 3,
+		"equipmentToggle": "ToggleCockpitHotseat",
+		"activeProperties": {
+			"heat": 1,
+			"heatBuildup": 0.06,
+			"heatDissipation": 0.1,
+			"tsmMulti": 1.5,
+			"topSpeedMulti": 1.3
+		}
+	},
+	"SLIC_SUITE": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"evasionSkillBonus": 2,
+		"sensorRangeMultiLance": 1.15
+	},
+	"GYRO_MELEE": {
+		"loreAccurate": false,
+		"rarity": 0.03,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.1,
+					"cooldownMulti": 0.9
+				}
+			]
+		}
+	},
+	"GYRO_MELEE_MK2": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.15,
+					"cooldownMulti": 0.85
+				}
+			]
+		},
+		"torsoTwistRateMulti": 1.08
+	},
+	"GYRO_MELEE_MK3": {
+		"loreAccurate": false,
+		"rarity": 0.01,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Melee",
+					"tags": [
+						"Weapon.Melee"
+					],
+					"damageMulti": 1.2,
+					"cooldownMulti": 0.85
+				}
+			]
+		},
+		"torsoTwistRateMulti": 1.1,
+		"turnSpeedMulti": 1.08
+	},
+	"GYRO_STABILITY": {
+		"loreAccurate": false,
+		"rarity": 0.03,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"jamChanceMulti": 0.85
+				}
+			]
+		}
+	},
+	"GYRO_DREADNOUGHT": {
+		"loreAccurate": false,
+		"relativeWeight": 0.5,
+		"rarity": 0.01,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"jamChanceMulti": 0.85
+				}
+			]
+		},
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"armorDamageMulti": 0.95,
+				"structureDamageMulti": 0.95,
+				"scope": "mech"
+			}]
+		},
+		"installCostScaling": 10
+	},
+	"GYRO_DEFENSIVE": {
+		"loreAccurate": false,
+		"rarity": 0.03,
+		"evasionSkillBonus": 3
+	},
+	"TCOMP_MODULAR_BC": {
+		"loreAccurate": false,
+		"rarity": 0.03,
+		"features": [
+			"modularTc"
+		]
+	},
+	"Equipment.Misc.BattleComputer": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"requiredFeatures": [
+			"modularTc"
+		],
+		"color": "(R=1,G=0.26,B=0,A=1)",
+		"category": "equipment.electronics"
+	},
+	"BC_HEAT": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.9
+				}
+			]
+		},
+		"mechConflicts": [
+			"BC_HEAT"
+		]
+	},
+	"BC_RANGE": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"maxRangeMulti": 1.2,
+					"optimalRangeMulti": 1.2,
+					"minRangeMulti": 0.5
+				}
+			]
+		},
+		"mechConflicts": [
+			"BC_RANGE"
+		]
+	},
+	"BC_ENERGY": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Laser",
+					"tags": [
+						"Weapon.Energy.Laser"
+					],
+					"heatMulti": 0.95,
+					"durationMulti": 0.9,
+					"cooldownMulti": 0.9
+				}
+			]
+		},
+		"mechConflicts": [
+			"BC_ENERGY"
+		]
+	},
+	"BC_PPC": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "PPC",
+					"tags": [
+						"Weapon.Energy.ParticleCannon"
+					],
+					"spreadRadiusMulti": 0.8,
+					"spreadDistanceMulti": 1.2,
+					"cooldownMulti": 0.9,
+					"speedMulti": 1.1
+				}
+			]
+		},
+		"mechConflicts": [
+			"BC_PPC"
+		]
+	},
+	"BC_MISSILE": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Missile",
+					"tags": [
+						"Weapon.ArtemisMissile",
+						"Weapon.Missile"
+					],
+					"spreadRadiusMulti": 0.8,
+					"spreadDistanceMulti": 1.2,
+					"speedMulti": 1.1,
+					"cooldownMulti": 0.9
+				}
+			],
+			"lockonTimeMulti": 0.9
+		},
+		"mechConflicts": [
+			"BC_MISSILE"
+		]
+	},
+	"BC_BALLISTIC": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Ballistic",
+					"tags": [
+						"Weapon.Ballistic"
+					],
+					"spreadRadiusMulti": 0.8,
+					"spreadDistanceMulti": 1.2,
+					"speedMulti": 1.1,
+					"cooldownMulti": 0.9
+				}
+			]
+		},
+		"mechConflicts": [
+			"BC_BALLISTIC"
+		]
+	},
+	"BC_ARTEMIS_V": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Artemis Missile",
+					"tags": [
+						"Weapon.ArtemisMissile"
+					],
+					"spreadRadiusMulti": 0.8,
+					"spreadDistanceMulti": 1.2,
+					"speedMulti": 1.1,
+					"cooldownMulti": 0.85,
+					"maxRangeMulti": 1.1,
+					"optimalRangeMulti": 1.1
+				}
+			],
+			"lockonTimeMulti": 0.9
+		},
+		"mechConflicts": [
+			"BC_ARTEMIS_V"
+		],
+		"mechRequirements": [
+			"Weapon.ArtemisMissile"
+		]
+	},
+	"BC_PILOTING": {
+		"evasionSkillBonus": 2,
+		"turnSpeedMulti": 1.15,
+		"torsoTwistRateMulti": 1.15,
+		"mechConflicts": [
+			"BC_PILOTING"
+		]
+	},
+	"BC_PREDICTIVE": {
+		"mechConflicts": [
+			"BC_PREDICTIVE"
+		],
+		"description": "Battle Computers are Modular Pieces that can be added to a Targeting Computer Modular, greatly enhancing the Combat capabilities of any Mech it is installed on.\n\nPredicts projectile trajectory and drop of the actually selected ballistic weapon (Autocannons, PPCs, Gauss, etc) and selected enemy unit movement for pinpoint accuracy while in combat, by drawing a crosshair on the HUD at the optimal aim location.",
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"spreadRadiusMulti": 0.9,
+					"spreadDistanceMulti": 1.1,
+					"speedMulti": 1.05
+				}
+			]
+		},
+		"features": [
+			"predictiveTargeting"
+		]
+	},
+	"BC_PROBE": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"requiredFeatures": [
+			"modularTc"
+		],
+		"color": "(R=1,G=0.26,B=0,A=1)",
+		"category": "equipment.electronics",
+		"mechConflicts": [
+			"BC_PROBE"
+		]
+	},
+	"RE_INFORCED_LEGS": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"relativeWeight": 0.01,
+		"armorComponentFrontMulti": 1.1,
+		"structureComponentMulti": 1.1,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Melee",
+				"tags": ["Weapon.Melee"],
+				"armorDamageMulti": 0.95,
+				"structureDamageMulti": 0.95,
+				"scope": "component"
+			}]
+		},
+		"caseScope": "component",
+		"caseLevel": 1
+	},
+	"HIP_ARMORED": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"relativeWeight": 0.01,
+		"armorComponentFrontMulti": 1.1,
+		"structureComponentMulti": 1.1,
+		"caseLevel": 2,
+		"case2MaxDmg": 4,
+		"caseScope": "component"		
+	},
+	"EXCHANGER": {
+		"description": "Thermal Exchangers reduce the overall heat generated by a fixed percentage.\n\nExplodes for 8 damage when destroyed.",
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.95
+				}
+			]
+		},
+		"mechConflicts": [
+			"EXCHANGER",
+			"EXCHANGER_CLAN",
+			"EXCHANGER_MK2"
+		]
+	},
+	"EXCHANGER_CLAN": {
+		"description": "Thermal Exchangers reduce the overall heat generated by a fixed percentage.\n\nExplodes for 8 damage when destroyed.",
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.92
+				}
+			]
+		},
+		"mechConflicts": [
+			"EXCHANGER",
+			"EXCHANGER_CLAN",
+			"EXCHANGER_MK2"
+		],
+		"module": "Clan"
+	},
+	"EXCHANGER_MK2": {
+		"description": "Thermal Exchangers reduce the overall heat generated by a fixed percentage.\n\nExplodes for 16 damage when destroyed.",
+		"rarity": 0.005,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.85
+				}
+			]
+		},
+		"mechConflicts": [
+			"EXCHANGER",
+			"EXCHANGER_CLAN",
+			"EXCHANGER_MK2"
+		]
+	},
+	"ImprovedJumpJet_Class1_Equipment":	{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class1_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"ImprovedJumpJet_Class2_Equipment":	{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class2_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"ImprovedJumpJet_Class3_Equipment":	{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class3_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"ImprovedJumpJet_Class4_Equipment":	{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class4_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"ImprovedJumpJet_Class5_Equipment":	{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class5_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"PrototypeImpJumpJet_Class1_Equipment":	{
+		"rarity": 0.01,
+		"mechConflicts": [
+			"JumpJet_Class1_Equipment",
+			"ImprovedJumpJet_Class1_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5,
+		"module": "prototype"
+	},
+	"PrototypeImpJumpJet_Class2_Equipment":	{
+		"rarity": 0.01,
+		"mechConflicts": [
+			"JumpJet_Class2_Equipment",
+			"ImprovedJumpJet_Class2_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5
+	},
+	"PrototypeImpJumpJet_Class3_Equipment":	{
+		"rarity": 0.01,
+		"mechConflicts": [
+			"JumpJet_Class3_Equipment",
+			"ImprovedJumpJet_Class3_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5,
+		"module": "prototype"
+	},
+	"PrototypeImpJumpJet_Class4_Equipment":	{
+		"rarity": 0.01,
+		"mechConflicts": [
+			"JumpJet_Class4_Equipment",
+			"ImprovedJumpJet_Class4_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5,
+		"module": "prototype"
+	},
+	"PrototypeImpJumpJet_Class5_Equipment":	{
+		"rarity": 0.01,
+		"mechConflicts": [
+			"JumpJet_Class5_Equipment",
+			"ImprovedJumpJet_Class5_Equipment"
+		],
+		"maxJumpJetsMulti": 1.5,
+		"module": "prototype"
+	},
+	"COMMAND_CONSOLE": {
+		"description": "All 'Mechs come equipped with a stock cockpit configuration, which can be upgraded for improved performance. The Console adds a complete set of controls for a second MechWarrior with added command and control facilities, allowing for better Lance coordination.\nAdds low-tier ECM functionality, a boost to sensor range and reduced weapon cycle times due to the better coordination of two mech warriors.\nThe Command Console system can only be added to Heavy or Assault class 'Mechs; it is too large to fit into smaller 'Mechs.",
+		"color": "(R=0.625,G=1,B=0,A=1)",
+		"rarity": 0.02,
+		"installCostScaling": 10,
+		"minTonnage": 60,
+		"weapons": {
+			"scope": "mech",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"cooldownMulti": 0.92
+				}
+			]
+		},
+		"sensorRangeMultiLance": 1.6,
+		"sensorFovLance": 360,
+		"features": [
+			"modularTc"
+		]
+	},
+	"ClanDHS79": {
+		"rarity": 0.1,
+		"module": "Clan"
+	},
+	"ClanLHS79": {
+		"rarity": 0.08,
+		"module": "Clan"
+	},
+	"CompactHeatSink79": {
+		"rarity": 0.1
+	},
+	"PROTO_DHS": {
+		"weapons": {
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.98
+				}
+			]
+		},
+		"rarity": 0.04,
+		"heatActivationThreshold": 0.9,
+		"heatDeactivationThreshold": 0.7,
+		"heatFailureChancePerSec": 0.001,
+		"damageOnFailure": 1
+	},
+	"Cooling_diss100": {
+		"rarity": 0.1,
+		"name": "Double Heat Sink Kit",
+		"engineHeatsinkEfficiency": 0.2,
+		"engineHeatsinkCapacity": 2
+	},
+	"CLAN_DHS_KIT": {
+		"rarity": 0.08,
+		"module": "Clan",
+		"engineHeatsinkEfficiency": 0.2,
+		"engineHeatsinkCapacity": 2
+	},
+	"COMPACT_HS_KIT": {
+		"rarity": 0.08,
+		"engineHeatsinkEfficiency": 0.2,
+		"engineHeatsinkCapacity": 2
+	},
+	"PROTO_DHS_KIT": {
+		"description": "Converts the engine to use proto heat sinking. Allows the mech to equip Prototype Double Heatsinks.\nReduces the weapon heat generated by 20% at the cost of a fail chance at high heat.",
+		"rarity": 0.04,
+		"weapons": {
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.8
+				}
+			]
+		},
+		"heatActivationThreshold": 0.9,
+		"heatDeactivationThreshold": 0.65,
+		"heatFailureChancePerSec": 0.002,
+		"heatDamageOnFailure": 0.5,
+		"damageOnFailure": 4,
+		"engineHeatsinkEfficiency": 0.133,
+		"engineHeatsinkCapacity": 1.33
+	},
+	"RADICAL_PROTO_DHS_KIT": {
+		"description": "The Radical Prototype Double Heatsink Kit converts the engine to use proto heat sinking. Allows the mech to equip Prototype Double Heatsinks.\nReduces the weapon heat generated by 20%.\n\nDoes not allow for additional heat sinks in the engine.\n\nAt high temperatures the Radical Heat Sink Kit's safeguards activate and provide additional heat dissipation until temperatures drop to safe levels. Prolonged activation risks failure, causing internal damage and additional heat buildup.",
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"weapons": {
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.8
+				}
+			]
+		},
+		"engineHeatsinkMulti": 0,
+		"heatActivationThreshold": 0.8,
+		"heatDeactivationThreshold": 0.3,
+		"heatDissWhenActive": 1.5,
+		"heatFailureChancePerSec": 0.004,
+		"heatDamageOnFailure": 1,
+		"damageOnFailure": 8,
+		"engineHeatsinkEfficiency": 0.133,
+		"engineHeatsinkCapacity": 1.33
+	},
+	"RADICAL_DHS_KIT": {
+		"description": "Converts the engine to use double heat sinks. Allows the mech to equip double heat sinks.\n\nAt high temperatures the Radical Heat Sink Kit's safeguards activate and provide additional heat dissipation until temperatures drop to safe levels. Prolonged activation risks failure, causing internal damage and additional heat buildup.",
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"heatActivationThreshold": 0.85,
+		"heatDeactivationThreshold": 0.4,
+		"heatDissWhenActive": 1.2,
+		"heatFailureChancePerSec": 0.003,
+		"heatDamageOnFailure": 0.6,
+		"damageOnFailure": 6,
+		"engineHeatsinkEfficiency": 0.2,
+		"engineHeatsinkCapacity": 2
+	},
+	"SENSORS_ARMORED": {
+		"armorComponentFront": 12,
+		"structureComponent": 8,
+		"rarity": 0.1
+	},
+	"COCKPIT_ARMORED": {
+		"armorComponentFront": 20,
+		"structureComponent": 10,
+		"rarity": 0.1
+	},
+	"ARMOR_HEAT_DISS": {
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"armorWeightMulti": 1.1,
+		"rarity": 0.1,
+		"incomingDamage": {
+			"heatMulti": 0.5
+		},
+		"installCostScaling": 10,
+		"armorRepairCostMulti": 1.1,
+		"armorRepairDaysMulti": 1.1
+	},
+	"COCKPIT_PRIMITIVE": {
+		"noEjectionSystem": true,
+		"pilotDeathPercMult": 3,
+		"installCostScaling": 15,
+		"removeCost": 150000,
+		"removeDays": 30
+	},
+	"SENSORS_PRIMITIVE": {
+		"sensorRangeMulti": 0.8,
+		"removeCost": 320000,
+		"removeDays": 20
+	},
+	"ARMOR_PRIMITIVE": {
+		"armorWeightMulti": 1.495,
+		"armorRepairCostMulti": 0.5,
+		"armorRepairDaysMulti": 0.5,
+		"installCostScaling": 15,
+		"removeCost": 400000,
+		"removeDays": 50
+	},
+	"PPC_CAPACITOR": {
+		"rarity": 0.04,
+		"color": "(R=1.0,G=0.26,B=0,A=1)",
+		"category": "equipment.electronics",
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "PPC",
+					"tags": [
+						"Weapon.Energy.ParticleCannon"
+					],
+					"excludeTags": [
+						"Weapon.Energy.ParticleCannon.ERPPC.Cap",
+						"Weapon.Energy.ParticleCannon.HPPC.Cap",
+						"Weapon.Energy.ParticleCannon.LPPC.Cap",
+						"Weapon.Energy.ParticleCannon.PPC.Cap",
+						"Weapon.Energy.ParticleCannon.SNPPC.Cap"
+					],
+					"heatMulti": 1.15,
+					"damageMulti": 1.3
+				}
+			]
+		},
+		"mechPartConflicts": [
+			"PPC_CAPACITOR"
+		]
+	},
+	"LASER_PULSE_MODULE": {
+		"rarity": 0.02,
+		"color": "(R=1.0,G=0.26,B=0,A=1)",
+		"category": "equipment.electronics",
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Laser",
+					"tags": [
+						"Weapon.Energy.Laser"
+					],
+					"heatMulti": 1.15,
+					"durationMulti": 0.7,
+					"cooldownMulti": 0.85
+				}
+			]
+		},
+		"mechPartConflicts": [
+			"LASER_PULSE_MODULE",
+			"LASER_OVERCHARGE_MODULE"
+		]
+	},
+	"LASER_OVERCHARGE_MODULE": {
+		"rarity": 0.02,
+		"color": "(R=1.0,G=0.26,B=0,A=1)",
+		"category": "equipment.electronics",
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Laser",
+					"tags": [
+						"Weapon.Energy.Laser"
+					],
+					"heatMulti": 1.15,
+					"damageMulti": 1.3,
+					"maxRangeMulti": 1.3,
+					"optimalRangeMulti": 1.3
+				}
+			]
+		},
+		"mechPartConflicts": [
+			"LASER_PULSE_MODULE",
+			"LASER_OVERCHARGE_MODULE"
+		]
+	},
+	"SUPER_COOLED_MYOMER": {
+		"description": "The RISC Super-Cooled Myomer is a Dark Age era improvement on myomer. It offers a benefit in that it effectively eliminates heat buildup due to movement.\nThe system works by adding friction-reducing fluids to the myomer, secondary coolant lines between myomer bundles, and sheathing the key myomer bundles in extra insulation.\nThis myomer is not compatible with any other type of myomer or myomer enhancements.",
+		"category": "equipment.mobility",
+		"color": "(R=1.0,G=1.0,B=0.282176,A=1)",
+		"mechConflicts": [
+			"COCKPIT_HOTSEAT",
+			"TSMYOMER",
+			"SUPER_COOLED_MYOMER",
+			"HYBRID_TSM_QS"
+		],
+		"movementHeatMulti": 0,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"structureRepairCostMulti": 1.2,
+		"structureRepairDaysMulti": 1.2,
+		"armorRepairCostMulti": 1.2,
+		"armorRepairDaysMulti": 1.2
+	},
+	"FERRO_PROTOTYPE": {
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"rarity": 0.01,
+		"armorRepairCostMulti": 1.4,
+		"armorRepairDaysMulti": 1.4,
+		"module": "prototype"
+	},
+	"ENDO_PROTOTYPE": {
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"rarity": 0.01,
+		"structureRepairCostMulti": 1.8,
+		"structureRepairDaysMulti": 1.8,
+		"module": "prototype"
+	},
+	"TURRET_MOUNT": {
+		"rarity": 0.01,
+		"loreAccurate": false,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"cooldownMulti": 0.85,
+					"damageMulti": 1.1
+				}
+			]
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg"
+		],
+		"mechPartConflicts": [
+			"TURRET_MOUNT"
+		]
+	},
+	"ENDO_TSM": {
+		"structureWeightMulti": "0.75",
+		"rarity": 0.06,
+		"installCost": 45000,
+		"removeCost": 4500,
+		"installCostScaling": 10,
+		"structureRepairCostMulti": 1.4,
+		"structureRepairDaysMulti": 1.25,
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"features": [
+			"tsm"
+		],
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"C79_MASC_MKI",
+			"C79_MASC_MKII",
+			"C79_MASC_MKIII",
+			"C79_MASC_MKIV",
+			"C79_MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT",
+			"ENDO_TSM"
+		]
+	},
+	"PARTIAL_WING_SYSTEM": {
+		"category": "equipment.mobility",
+		"relativeWeight": 0.07,
+		"jumpJetXyAccelMulti": 1.5,
+		"gravityScale": 0.4,
+		"installCostScaling": 10,
+		"fillerSlots": {
+			"LeftTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"Head",
+			"CenterTorso",
+			"LeftTorso"
+		],
+		"mechConflicts": [
+			"PARTIAL_WING_SYSTEM",
+			"PARTIAL_WING_SYSTEM_C"
+		],
+		"mechRequirements": [
+			"Equipment.JumpJets"
+		],
+		"rarity": 0.08
+	},
+	"PARTIAL_WING_SYSTEM_C": {
+		"category": "equipment.mobility",
+		"relativeWeight": 0.05,
+		"jumpJetXyAccelMulti": 1.5,
+		"gravityScale": 0.4,
+		"installCostScaling": 10,
+		"fillerSlots": {
+			"LeftTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"Head",
+			"CenterTorso",
+			"LeftTorso"
+		],
+		"mechConflicts": [
+			"PARTIAL_WING_SYSTEM",
+			"PARTIAL_WING_SYSTEM_C"
+		],
+		"mechRequirements": [
+			"Equipment.JumpJets"
+		],
+		"rarity": 0.05,
+		"module": "Clan"
+	},
+	"INTERLINKED_MYOMER_LEG": {
+		"loreAccurate": false,
+		"relativeWeight": 0.01,
+		"accelerationMulti": 1.05,
+		"rarity": 0.1
+	},
+	"MACHINED_PIVOT_POINT": {
+		"loreAccurate": false,
+		"relativeWeight": 0.01,
+		"turnSpeedMulti": 1.05,
+		"rarity": 0.1
+	},
+	"COOLING_LINES": {
+		"loreAccurate": false,
+		"category": "equipment.cooling",
+		"coolingMulti": 1.4,
+		"coolingMultiScope": "component",
+		"mechPartConflicts": [
+			"COOLING_LINES"
+		],
+		"invalidMechParts": [
+			"CenterTorso"
+		],
+		"rarity": 0.07
+	},
+	"IMPROVED_ACTUATORS": {
+		"loreAccurate": false,
+		"rarity": 0.04,
+		"armTwistAngleMulti": 1.2,
+		"armTwistRateMulti": 1.15
+	},
+	"BATTLE_FIST": {
+		"loreAccurate": false,
+		"rarity": 0.1,
+		"relativeWeight": 0.01,
+		"weapons": {
+			"scope": "component",
+			"groups": [
+				{
+					"weaponGroupName": "Punch",
+					"tags": [
+						"Weapon.Melee.Light.Punch",
+						"Weapon.Melee.Medium.Punch",
+						"Weapon.Melee.Heavy.Punch",
+						"Weapon.Melee.Assault.Punch"
+					],
+					"damageMulti": 1.1
+				}
+			]
+		},
+		"armorComponentFront": 10,
+		"structureComponent": 5
+	},
+	"IMPROVED_LIFE_SUPPORT": {
+		"rarity": 0.05,
+		"armorComponentFront": 2,
+		"pilotDeathPercMult": 0.7,
+		"category": "equipment.misc"
+	},
+	"EVASION_SUPPORT_1": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"category": "equipment.misc",
+		"evasionSkillBonus": 2
+	},
+	"SHIELDING_SUPPORT_1": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"category": "equipment.misc",
+		"shieldingSkillBonus": 2
+	},
+	"HEAT_MANAGEMENT_SUPPORT_1": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"category": "equipment.misc",
+		"heatManagementSkillBonus": 2
+	},
+	"FERRO_LAMELLOR_CLAN": {
+		"description": "Created by the Scientist caste of Clan Snow Raven in 3070, Ferro-Lamellor armor is based on the Ferro-Carbide armor used in the Raven's WarShips. Scaled down for use on 'Mechs, AeroSpace Fighters, and tanks, the experimental Ferro-Lamellor armor offers improved protection, beyond even that of the Ferro-Fibrous armor family.\n\nThough it only offers 88% coverage compared to standard armor , Ferro-Lamellor has a unique property: It reduces the damage of weapon strikes by 20%. In addition, the armor will reinforce the structure of the unit mounting it.\nRequires 12 dynamic slots.",
+		"fillerSlots": {
+			"dynamic": 1
+		},
+		"armorPerTon": 28,
+		"rarity": 0.01,
+		"installCost": 20000,
+		"installCostScaling": 10,
+		"armorMulti": 1.25,
+		"structureMulti": 1.2,
+		"armorRepairCostMulti": 2,
+		"armorRepairDaysMulti": 2,
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "Re-Engineered Laser",
+				"tags": [
+					"Weapon.Energy.Laser.RELaser",
+					"Weapon.Energy.Laser.Re"
+				],
+				"armorDamageMulti": 1.25,
+				"scope": "mech"
+			}]
+		},
+		"module": "Clan"
+	},
+	"BLUE_SHIELD_PARTICLE_FIELD_DAMPER": {
+		"category": "equipment.internal",
+		"color": "(R=1.0,G=0.26,B=0,A=1)",
+		"rarity": 0.01,
+		"fillerSlots": {
+			"LeftTorso": 1,
+			"RightTorso": 1,
+			"LeftArm": 1,
+			"RightArm": 1,
+			"LeftLeg": 1,
+			"RightLeg": 1
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"Head",
+			"RightTorso",
+			"LeftTorso"
+		],
+		"mechConflicts": [
+			"BLUE_SHIELD_PARTICLE_FIELD_DAMPER"
+		],
+		"incomingDamage": {
+			"groups": [{
+				"weaponGroupName": "PPC",
+				"tags": [
+					"Weapon.Energy.ParticleCannon"
+				],
+				"armorDamageMulti": 0.85,
+				"structureDamageMulti": 0.85,
+				"scope": "mech"
+			},{
+				"weaponGroupName": "Energy",
+				"tags": [
+					"Weapon.Energy"
+				],
+				"armorDamageMulti": 0.65,
+				"structureDamageMulti": 0.65,
+				"scope": "mech"
+			}]
+		}
+	}
+}

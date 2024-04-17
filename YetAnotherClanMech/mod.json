@@ -1,0 +1,33 @@
+{
+   "displayName" : "YetAnotherClanMech",
+   "version" : "1.99.9.9.9",
+   "buildNumber" : 284,
+   "description" : "Yet Another Clan Mech adds a collection of Clan mechs to YetAnotherMechlab. These include IIC variants which are based on the vanilla models as well as a growing selection of Omnimechs based on the MWO models (thanks to Paulleonard) and the Savage Wolf by offai500.\r\n\r\nAdditionally the Clans are introduced as a new faction starting in 3049, a single faction for now, no individual clans. Clan mechs will only spawn in missions against the Clans.\r\n\r\nUses weapons and equipment from YetAnotherWeaponClan (a very small number of special variants use some equipment from YetAnotherEquipmentCollection but there is no hard requirement).\r\n\r\nNew Variants of IS 'mechs:\r\n- Annihilator C\r\n- Annihilator C2\r\n- Locust LCT-C\r\n- Rifleman RFL-C\r\n- Rifleman RFL-C3\r\n\r\nClan IIC variants (using their IS counterpart's model):\r\n- Commando IIC\r\n\r\n- Conjurer (aka Hellhound aka Wolverine IIC) 1\r\n- Conjurer 3\r\n- Conjurer 8\r\n\r\n- Dervish IIC\r\n\r\n- Griffin IIC GRF-IIC-1\r\n- Griffin IIC GRF-IIC-2\r\n- Griffin IIC GRF-IIC-3\r\n- Griffin IIC GRF-IIC-4\r\n- Griffin IIC GRF-IIC-6\r\n- Griffin IIC GRF-IIC-7\r\n- Griffin IIC GRF-IIC-8\r\n- Griffin IIC GRF-IIC-9\r\n\r\n- Highlander IIC HGN-IIC-1\r\n- Highlander IIC HGN-IIC-3\r\n- Highlander IIC HGN-IIC-A\r\n- Highlander IIC HGN-IIC-B\r\n- Highlander IIC HGN-IIC-C\r\n- Highlander IIC HGN-IIC-KP Keeper Hero\r\n\r\n- Jenner JR7-IIC-1\r\n- Jenner JR7-IIC-2\r\n- Jenner JR7-IIC-3\r\n- Jenner JR7-IIC-4\r\n- Jenner JR7-IIC-5\r\n- Jenner JR7-IIC-A\r\n\r\n- Locust IIC LCT-IIC-1\r\n- Locust IIC LCT-IIC-2\r\n- Locust IIC LCT-IIC-3\r\n- Locust IIC LCT-IIC-4\r\n- Locust IIC LCT-IIC-5\r\n- Locust IIC LCT-IIC-6\r\n- Locust IIC LCT-IIC-7\r\n- Locust IIC LCT-IIC-8\r\n- Locust IIC LCT-IIC-9\r\n- Locust IIC LCT-IIC-10\r\n\r\n- Marauder IIC-A\r\n- Marauder IIC-B\r\n- Marauder IIC-C\r\n- Marauder IIC-2\r\n- Marauder IIC-2X\r\n- Marauder IIC-4\r\n- Marauder IIC-SC Scorch Hero\r\n\r\n- Orion IIC ON1-IIC-1\r\n- Orion IIC ON1-IIC-A\r\n- Orion IIC ON1-IIC-C\r\n- Orion IIC ON1-IIC-BTN Burton\r\n- Orion IIC ON1-IIC-SK Sk\u00F6ll\r\n\r\n- Phoenix Hawk IIC-1\r\n- Phoenix Hawk IIC-2\r\n- Phoenix Hawk IIC-3\r\n- Phoenix Hawk IIC-4\r\n- Phoenix Hawk IIC-5\r\n- Phoenix Hawk IIC-6\r\n- Phoenix Hawk IIC-7\r\n- Phoenix Hawk IIC-8\r\n- Phoenix Hawk IIC-9\r\n- Phoenix Hawk IIC-10\r\n\r\n- Rifleman IIC-1\r\n- Rifleman IIC-2\r\n- Rifleman IIC-3\r\n- Rifleman IIC-4\r\n- Rifleman IIC-5\r\n- Rifleman IIC-6\r\n- Rifleman IIC-7\r\n- Rifleman IIC-8\r\n- Rifleman IIC-9\r\n- Rifleman IIC-10\r\n- Rifleman IIC-A\r\n- Rifleman IIC-CH Chironex Hero\r\n\r\n- Shadowhawk IIC SHD-IIC-1\r\n- Shadowhawk IIC SHD-IIC-2\r\n- Shadowhawk IIC SHD-IIC-3\r\n- Shadowhawk IIC SHD-IIC-4\r\n- Shadowhawk IIC SHD-IIC-6\r\n- Shadowhawk IIC SHD-IIC-7\r\n- Shadowhawk IIC SHD-IIC-8\r\n- Shadowhawk IIC SHD-IIC-9\r\n\r\n- Thunderbolt IIC TDR-IIC-1\r\n- Thunderbolt IIC TDR-IIC-2\r\n\r\n- Urbanmech IIC\r\n- Urbanmech IIC 2\r\n\r\n- Wolfhound IIC WLF-IIC-TRG The \"Real\" Grinner Hero\r\n\r\nMWO Onmimechs:\r\n- Adder Prime and alternative configurations\r\n- Cougar Prime\r\n- Black Lanner Prime\r\n- Mad Dog Prime\r\n- Nova Prime\r\n- Direwolf with a bunch of alternative configurations including 4 heros\r\n- Mad Cat Mk II with variants and the Deathstrike hero\r\n- Blood Asp Prime\r\n- Ebon Jaguar Prime\r\n- Arctic Wolf Prime\r\n- Shadow Cat Prime\r\n\r\nSavage Wolf variants (Fully custom design by offai500):\r\n- Savage Wolf SVG-PRIME\r\n- Savage Wolf SVG-A\r\n- Savage Wolf SVG-B\r\n- Savage Wolf SVG-C\r\n- Savage Wolf SVG-D\r\n- Savage Wolf SVG-E\r\n- Savage Wolf SVG-F\r\n- Savage Wolf SVG-S\r\n- Savage Wolf SVG-D1CK1 Hero Mech\r\n\r\nUrsus Variants (Fully custom design by SamuraiSam):\r\n- Ursus\r\n- Ursus-2\r\n- Ursus-3\r\n- Ursus-II\r\n\r\nThanks to Will9761 for his amazing paperdolls and improved mech meshes.\r\n",
+   "author" : "cszolee79 and trueg",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Factions/Clan.uasset",
+      "/Game/LevelGenerators/Mods/Mod00_ScenarioGenerators.uasset",
+      "/Game/Libraries/MW5_TOI_Functions.uasset",
+      "/Game/UI/Frontend/InstantAction/InstantActionScenarioGen.uasset",
+      "/Game/UnitCards/Turret_AC2_1x0_UnitCard.uasset",
+      "/Game/UnitCards/Turret_AC2_1x1_UnitCard.uasset",
+      "/Game/UnitCards/Turret_AC2_2x2_UnitCard.uasset",
+      "/Game/UnitCards/Turret_LargeLaser_1x1_Fortified_UnitCard.uasset",
+      "/Game/UnitCards/Turret_LargeLaser_1x1_UnitCard.uasset",
+      "/Game/UnitCards/Turret_MediumLaser_1x0_UnitCard.uasset",
+      "/Game/UnitCards/Turret_MediumLaser_1x1_UnitCard.uasset",
+      "/Game/UnitCards/Turret_MediumLaser_2x2_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SmallLaser_1x0_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SmallLaser_1x1_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SmallLaser_2x2_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SRM2_1x0_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SRM2_1x1_UnitCard.uasset",
+      "/Game/UnitCards/Turret_SRM6_1x1_UnitCard.uasset"
+   ],
+   "steamPublishedFileId" : 2815252243,
+   "steamLastSubmittedBuildNumber" : 263,
+   "steamModVisibility" : "Public"
+}

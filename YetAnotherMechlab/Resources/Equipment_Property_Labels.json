@@ -1,0 +1,596 @@
+{
+	"hasStealth": {
+		"label": "Sensor Stealth",
+		"unit": "boolean"
+	},
+	"noEjectionSystem": {
+		"label": "Optical Stealth",
+		"unit": "boolean"
+	},
+	"noEjectionSystem": {
+		"label": "No Ejection System",
+		"unit": "boolean"
+	},
+	"pilotDeathPercMult": {
+		"label": "Ejection Death Chance",
+		"unit": "multi"
+	},
+	"hasBasicUAV": {
+		"label": "UAV Drones",
+		"unit": "modifier"
+	},
+	"antiAirTargeting": {
+		"label": "Anti-Air Targeting",
+		"unit": "boolean"
+	},
+	"predictiveTargeting": {
+		"label": "Predictive Targeting",
+		"unit": "boolean"
+	},
+	"minTonnage": {
+		"label": "Min Mech tonnage",
+		"unit": "tons"
+	},
+	"maxTonnage": {
+		"label": "Max Mech tonnage",
+		"unit": "tons"
+	},
+	"mechAmmoBonus": {
+		"label": "Ammo bonus",
+		"unit": "modifier"
+	},
+	"mechAmmoMulti": {
+		"label": "Ammo multiplier",
+		"unit": "multi"
+	},
+	"armorComponentFront": {
+		"label": "Front component armor bonus",
+		"unit": "modifier"
+	},
+	"armorComponentRear": {
+		"label": "Rear component armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorComponent": {
+		"label": "Max component armor bonus",
+		"unit": "modifier"
+	},
+	"armorComponentFrontMulti": {
+		"label": "Front component armor modifier",
+		"unit": "multi"
+	},
+	"armorComponentRearMulti": {
+		"label": "Rear component armor modifier",
+		"unit": "multi"
+	},
+	"armorMulti": {
+		"label": "Armor modifier",
+		"unit": "multi"
+	},
+	"componentArmorWeightMulti": {
+		"label": "Component armor weight modifier",
+		"unit": "multi"
+	},
+	"armorBonus/Head": {
+		"label": "Head armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/CenterTorso": {
+		"label": "Center torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RearCenterTorso": {
+		"label": "Rear center torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RightTorso": {
+		"label": "Right torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RearRightTorso": {
+		"label": "Rear right torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/LeftTorso": {
+		"label": "Left torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RearLeftTorso": {
+		"label": "Rear left torso armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RightLeg": {
+		"label": "Right leg armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/LeftLeg": {
+		"label": "Left leg armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/RightArm": {
+		"label": "Right arm armor bonus",
+		"unit": "modifier"
+	},
+	"armorBonus/LeftArm": {
+		"label": "Left arm armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/Head": {
+		"label": "Head max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/CenterTorso": {
+		"label": "Center torso max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/RightTorso": {
+		"label": "Right torso max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/LeftTorso": {
+		"label": "Left torso max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/RightLeg": {
+		"label": "Right leg max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/LeftLeg": {
+		"label": "Left leg max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/RightArm": {
+		"label": "Right arm max armor bonus",
+		"unit": "modifier"
+	},
+	"maxArmorBonus/LeftArm": {
+		"label": "Left arm max armor bonus",
+		"unit": "modifier"
+	},
+	"structureComponent": {
+		"label": "Component structure bonus",
+		"unit": "modifier"
+	},
+	"structureComponentMulti": {
+		"label": "Component structure modifier",
+		"unit": "multi"
+	},
+	"structureMulti": {
+		"label": "Structure modifier",
+		"unit": "multi"
+	},
+	"structureBonus/Head": {
+		"label": "Head structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/CenterTorso": {
+		"label": "Center torso structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/RightTorso": {
+		"label": "Right torso structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/LeftTorso": {
+		"label": "Left torso structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/RightLeg": {
+		"label": "Right leg structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/LeftLeg": {
+		"label": "Left leg structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/RightArm": {
+		"label": "Right arm structure bonus",
+		"unit": "modifier"
+	},
+	"structureBonus/LeftArm": {
+		"label": "Left arm structure bonus",
+		"unit": "modifier"
+	},
+	"topSpeedMulti": {
+		"label": "Top speed modifier",
+		"unit": "multi"
+	},
+	"topSpeedReverseMulti": {
+		"label": "Top reverse speed modifier",
+		"unit": "multi"
+	},
+	"torsoTwistAngleMulti": {
+		"label": "Torso twist angle modifier",
+		"unit": "multi"
+	},
+	"torsoTwistAngleYawMulti": {
+		"label": "Torso twist angle modifier (yaw)",
+		"unit": "multi"
+	},
+	"torsoTwistAnglePitchMulti": {
+		"label": "Torso twist angle modifier (pitch)",
+		"unit": "multi"
+	},
+	"torsoTwistRateMulti": {
+		"label": "Torso twist rate modifier",
+		"unit": "multi"
+	},
+	"torsoTwistRateYawMulti": {
+		"label": "Torso twist rate modifier (yaw)",
+		"unit": "multi"
+	},
+	"torsoTwistRatePitchMulti": {
+		"label": "Torso twist rate modifier (pitch)",
+		"unit": "multi"
+	},
+	"armTwistAngleMulti": {
+		"label": "Arm twist angle modifier",
+		"unit": "multi"
+	},
+	"armTwistAngleYawMulti": {
+		"label": "Arm twist angle modifier (yaw)",
+		"unit": "multi"
+	},
+	"armTwistAnglePitchMulti": {
+		"label": "Arm twist angle modifier (pitch)",
+		"unit": "multi"
+	},
+	"armTwistRateMulti": {
+		"label": "Arm twist rate modifier",
+		"unit": "multi"
+	},
+	"armTwistRateYawMulti": {
+		"label": "Arm twist rate modifier (yaw)",
+		"unit": "multi"
+	},
+	"armTwistRatePitchMulti": {
+		"label": "Arm twist rate modifier (pitch)",
+		"unit": "multi"
+	},
+	"turnSpeedMulti": {
+		"label": "Turn speed modifier",
+		"unit": "multi"
+	},
+	"accelerationMulti": {
+		"label": "Acceleration modifier",
+		"unit": "multi"
+	},
+	"decelerationMulti": {
+		"label": "Deceleration modifier",
+		"unit": "multi"
+	},
+	"sensorRangeBonus": {
+		"label": "Sensor range bonus",
+		"unit": "m"
+	},
+	"sensorRangeMulti": {
+		"label": "Sensor range modifier",
+		"unit": "multi"
+	},
+	"sensorFov": {
+		"label": "Sensor field of view",
+		"unit": "degrees"
+	},
+	"sensorRangeBonusLance": {
+		"label": "Sensor range bonus for the lance",
+		"unit": "m"
+	},
+	"sensorRangeMultiLance": {
+		"label": "Sensor range modifier for the lance",
+		"unit": "multi"
+	},
+	"sensorFovLance": {
+		"label": "Sensor field of view for the lance",
+		"unit": "degrees"
+	},
+	"weapons/traceDurationMulti": {
+		"label": "Energy beam duration modifier",
+		"unit": "multi"
+	},
+	"weapons/traceDamageMulti": {
+		"label": "Energy damage modifier",
+		"unit": "multi"
+	},
+	"weapons/traceCooldownMulti": {
+		"label": "Energy cooldown modifier",
+		"unit": "multi"
+	},
+	"weapons/traceHeatMulti": {
+		"label": "Energy heat generation modifier",
+		"unit": "multi"
+	},
+	"weapons/traceOptimalRangeMulti": {
+		"label": "Energy optimal range modifier",
+		"unit": "multi"
+	},
+	"weapons/traceMaxRangeMulti": {
+		"label": "Energy max range modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticSpreadRadiusMulti": {
+		"label": "Ballistic spread radius modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticSpreadDistanceMulti": {
+		"label": "Ballistic spread distance modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticSpeedMulti": {
+		"label": "Ballistic projectile speed modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticDamageMulti": {
+		"label": "Ballistic damage modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticCooldownMulti": {
+		"label": "Ballistic cooldown modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticHeatMulti":{
+		"label": "Ballistic heat generation modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticNullRangeMulti": {
+		"label": "Ballistic zero damage range modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticMinRangeMulti": {
+		"label": "Ballistic min range modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticOptimalRangeMulti": {
+		"label": "Ballistic optimal range modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticMaxRangeMulti": {
+		"label": "Ballistic max range modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticJamChanceMulti": {
+		"label": "Ballistic jam chance modifier",
+		"unit": "multi"
+	},
+	"weapons/ballisticAmmoMulti": {
+		"label": "Ballistic ammo modifier",
+		"unit": "multi"
+	},
+	"weapons/missileSpreadRadiusMulti": {
+		"label": "Missile spread radius modifier",
+		"unit": "multi"
+	},
+	"weapons/missileSpreadDistanceMulti": {
+		"label": "Missile spread distance modifier",
+		"unit": "multi"
+	},
+	"weapons/missileSpeedMulti": {
+		"label": "Missile projectile speed modifier",
+		"unit": "multi"
+	},
+	"weapons/missileDamageMulti": {
+		"label": "Missile damage modifier",
+		"unit": "multi"
+	},
+	"weapons/missileCooldownMulti": {
+		"label": "Missile cooldown modifier",
+		"unit": "multi"
+	},
+	"weapons/missileHeatMulti":{
+		"label": "Missile heat generation modifier",
+		"unit": "multi"
+	},
+	"weapons/missileNullRangeMulti": {
+		"label": "Missile zero damage range modifier",
+		"unit": "multi"
+	},
+	"weapons/missileMinRangeMulti": {
+		"label": "Missile min range modifier",
+		"unit": "multi"
+	},
+	"weapons/missileOptimalRangeMulti": {
+		"label": "Missile optimal range modifier",
+		"unit": "multi"
+	},
+	"weapons/missileMaxRangeMulti": {
+		"label": "Missile max range modifier",
+		"unit": "multi"
+	},
+	"weapons/missileJamChanceMulti": {
+		"label": "Missile jam chance modifier",
+		"unit": "multi"
+	},
+	"weapons/missileAmmoMulti": {
+		"label": "Missile ammo modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcSpreadRadiusMulti": {
+		"label": "PPC spread radius modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcSpreadDistanceMulti": {
+		"label": "PPC spread distance modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcSpeedMulti": {
+		"label": "PPC projectile speed modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcDamageMulti": {
+		"label": "PPC damage modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcCooldownMulti": {
+		"label": "PPC cooldown modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcHeatMulti":{
+		"label": "PPC heat generation modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcNullRangeMulti": {
+		"label": "PPC zero damage range modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcMinRangeMulti": {
+		"label": "PPC min range modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcOptimalRangeMulti": {
+		"label": "PPC optimal range modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcMaxRangeMulti": {
+		"label": "PPC max range modifier",
+		"unit": "multi"
+	},
+	"weapons/ppcAmmoMulti": {
+		"label": "PPC ammo modifier",
+		"unit": "multi"
+	},
+	"weapons/lockonTimeMulti": {
+		"label": "Weapon lock-on time modifier",
+		"unit": "multi"
+	},
+	"weapon/amsMissilesDestroyedMulti": {
+		"label": "AMS missiles destroyed per sec",
+		"unit": "multi"
+	},
+	"weapon/amsRofMulti": {
+		"label": "AMS ammo usage/heat",
+		"unit": "multi"
+	},
+	"weapons/amsOptimalRangeMulti": {
+		"label": "AMS optimal range modifier",
+		"unit": "multi"
+	},
+	"weapons/amsMaxRangeMulti": {
+		"label": "AMS max range modifier",
+		"unit": "multi"
+	},
+	"weapons/amsAmmoMulti": {
+		"label": "AMS ammo modifier",
+		"unit": "multi"
+	},
+	"jumpJetXyAccelMulti": {
+		"label": "Jump Jet XY acceleration",
+		"unit": "multi"
+	},
+	"jumpJetZAccelMulti": {
+		"label": "Jump Jet Z acceleration",
+		"unit": "multi"
+	},
+	"jumpJetInitialZVelocityMulti": {
+		"label": "Jump Jet initial thrust",
+		"unit": "multi"
+	},
+	"jumpJetFuelBurnTimeMulti": {
+		"label": "Jump Jet burn time",
+		"unit": "multi"
+	},
+	"jumpJetFuelRegenTimeMulti": {
+		"label": "Jump Jet fuel regen time",
+		"unit": "multi"
+	},
+	"jumpJetHeatMulti": {
+		"label": "Jump Jet heat",
+		"unit": "multi"
+	},
+	"armorRepairCostMulti": {
+		"label": "Armor repair cost",
+		"unit": "multi"
+	},
+	"armorRepairDaysMulti": {
+		"label": "Armor repair time",
+		"unit": "multi"
+	},
+	"structureRepairCostMulti": {
+		"label": "Structure repair cost",
+		"unit": "multi"
+	},
+	"structureRepairDaysMulti": {
+		"label": "Structure repair time",
+		"unit": "multi"
+	},
+	"equipmentRefitDaysMulti": {
+		"label": "Weapon and equipment refit time",
+		"unit": "multi"
+	},
+	"equipmentRefitCostMulti": {
+		"label": "Weapon and equipment refit cost",
+		"unit": "multi"
+	},
+	"upkeepCostMulti": {
+		"label": "'Mech upkeep cost modifier",
+		"unit": "multi"
+	},
+	"heatCapacityBonus": {
+		"label": "Heat capacity modifier",
+		"unit": "modifier"
+	},
+	"gunnerySkillBonus": {
+		"label": "Gunnery pilot skill modifier",
+		"unit": "modifier"
+	},
+	"ballisticSkillBonus": {
+		"label": "Ballistics pilot skill modifier",
+		"unit": "modifier"
+	},
+	"missileSkillBonus": {
+		"label": "Missile pilot skill modifier",
+		"unit": "modifier"
+	},
+	"energySkillBonus": {
+		"label": "Energy pilot skill modifier",
+		"unit": "modifier"
+	},
+	"pilotingSkillBonus": {
+		"label": "Piloting skill modifier",
+		"unit": "modifier"
+	},
+	"evasionSkillBonus": {
+		"label": "Evasion pilot skill modifier",
+		"unit": "modifier"
+	},
+	"shieldingSkillBonus": {
+		"label": "Shielding pilot skill modifier",
+		"unit": "modifier"
+	},
+	"heatManagementSkillBonus": {
+		"label": "Heat management pilot skill modifier",
+		"unit": "modifier"
+	},
+	"dmgEvasionChance": {
+		"label": "Chance to completely avoid incoming fire",
+		"unit": "percent"
+	},
+	"incomingDamage/heatMulti": {
+		"label": "Incoming heat damage modifier",
+		"unit": "multi"
+	},
+	"movementHeatMulti": {
+		"label": "Movement heat modifier",
+		"unit": "multi"
+	},
+	"armorDamageMulti": {
+		"label": "Damage to armor",
+		"unit": "multi"
+	},
+	"structureDamageMulti": {
+		"label": "Damage to structure",
+		"unit": "multi"
+	},
+	"internalHeatsinkBonus": {
+		"label": "Internal Heatsinks",
+		"unit": "modifier"
+	},
+	"gravityScale": {
+		"label": "Gravity modifier",
+		"unit": "multi"
+	},
+	"engineHeatsinkEfficiency": {
+		"label": "Engine heatsink efficiency"
+	},
+	"engineHeatsinkCapacity": {
+		"label": "Engine heatsink capacity"
+	}
+}

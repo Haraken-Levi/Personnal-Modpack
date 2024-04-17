@@ -1,0 +1,440 @@
+{
+	"Marauder_IIC_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Marauder.MAD-3R",
+		"quirks": [
+			"clan-mech",
+			"CMD-MECH",
+			"MOUNT-RT",
+			"hyper-extending-actuators",
+			"EXP-ACTUATOR"
+		]
+	},
+	"MAD-IIC-SC": {
+		"quirks": [
+			"MAD-IIC-SC",
+			"MAD-IIC-HERO"
+		]
+	},
+	"MAD-IIC-C": {
+		"quirks": [
+			"TUNEDPULSE"
+		]
+	},
+	"MAD-IIC-XM": {
+		"quirks": [
+			"MAD-IIC-XM",
+			"MAD-IIC-HERO",
+			"KNIGHT-OF-THE-SPHERE",
+			"REINFORCEDCOCKPIT"
+		]
+	},
+	"Wolfhound_IIC_MDL": {
+		"useSkinsFrom": "Mech.Light.Wolfhound.WLF-1A",
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"WLF-IIC-TRG": {
+		"quirks": [
+			"THE-REAL-GRINNER",
+			"WLF-IIC-HERO"
+		]
+	},
+	"DV-IIC": {
+		"useSkinsFrom": "Mech.Medium.Dervish.DV-6M",
+		"quirks": [
+			"clan-mech",
+			"hyper-extending-actuators",
+			"MISSILEBOAT"
+		]
+	},
+	"Urbanmech_IIC_MDL": {
+		"quirks": [
+			"clan-mech",
+			"UM-ASSAULT",
+			"UM-IIC-piloting",
+			"NARROW-PROFILE"
+		]
+	},
+	"UM-IIC-1": {
+		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+	},
+	"UM-IIC-2": {
+		"useSkinsFrom": "Mech.Light.Urbanmech.UM-R60"
+	},
+	"RFL-C": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"RFL-C3": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"Jenner_IIC_MDL": {
+		"useSkinsFrom": "Mech.Light.Jenner.JR7-D",
+		"quirks": [
+			"clan-mech",
+			"IMPROVED_LIFE_SUPPORT"
+		]
+	},
+	"JR7-IIC-A": {
+		"quirks": [
+			"TUNEDPULSE"
+		]
+	},
+	"Thunderbolt_IIC_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Thunderbolt.TDR-5S",
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"clan-mech",
+			"MODULAR-WEAPONS",
+			"PROTECTED-ACTUATOR",
+			"DIFFICULTTOMAINTAIN"
+		]
+	},
+	"TDR-IIC-2": {
+		"quirks": [
+			"TUNEDPULSE"
+		]
+	},
+	"Orion_IIC_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Orion.ON1-K",
+		"quirks": [
+			"clan-mech",
+			"ANTIAIR-TARGETING",
+			"EASYTOMAINTAIN",
+			"RUGGED1"
+		]
+	},
+	"ON1-IIC-SK": {
+		"quirks": [
+			"ON1-IIC-SK",
+			"ON1-IIC-HERO"
+		]
+	},
+	"ON1-IIC-BTN": {
+		"quirks": [
+			"ON1-IIC-BTN",
+			"KNIGHT-OF-THE-SPHERE",
+			"ON1-IIC-HERO"
+		]
+	},
+	"Conjurer_MDL": {
+		"useSkinsFrom": "Mech.Medium.Wolverine.WVR-6K",
+		"scale": "X=0.91 Y=0.91 Z=0.91",
+		"quirks": [
+			"clan-mech",
+			"EXTENDED-TORSO-TWIST"
+		]
+	},
+	"Shadowhawk_IIC_MDL": {
+		"useSkinsFrom": "Mech.Medium.Shadowhawk.SHD-1P",
+		"scale": "X=0.85 Y=0.85 Z=0.85",
+		"quirks": [
+			"clan-mech",
+			"IMPROVED_LIFE_SUPPORT",
+			"BATTLEFISTS"
+		]
+	},
+	"Griffin_IIC_MDL": {
+		"useSkinsFrom": "Mech.Medium.Griffin.GRF-1E",
+		"scale": "X=0.8 Y=0.8 Z=0.8",
+		"quirks": [
+			"clan-mech",
+			"BATTLEFISTS"
+		]
+	},
+	"Locust_IIC_MDL": {
+		"useSkinsFrom": "Mech.Light.Locust.LCT-1V",
+		"scale": "X=1.05 Y=1.05 Z=1.05",
+		"quirks": [
+			"clan-mech",
+			"EASYTOMAINTAIN",
+			"NARROW-PROFILE"
+		]
+	},
+	"Commando_IIC_MDL": {
+		"useSkinsFrom": "Mech.Light.Commando.COM-2D",
+		"quirks": [
+			"clan-mech",
+			"NARROW-PROFILE",
+			"EXP-ACTUATOR"
+		]
+	},
+	"Highlander_IIC_MDL": {
+		"useSkinsFrom": "Mech.Assault.Highlander.HGN-732",
+		"quirks": [
+			"clan-mech",
+			"COWL",
+			"REINFORCED-LEGS",
+			"CMD-MECH",
+			"DIFFICULT-EJECT"
+		]
+	},
+	"Phoenixhawk_IIC_MDL": {
+		"useSkinsFrom": "Mech.Medium.Phoenixhawk.PXH-1",
+		"scale": "X=1.2 Y=1.2 Z=1.2",
+		"quirks": [
+			"clan-mech",
+			"FAST-RELOAD-TORSO",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"Rifleman_IIC_MDL": {
+		"useSkinsFrom": "Mech.Heavy.Rifleman.RFL-3N",
+		"scale": "X=1.04 Y=1.04 Z=1.04",
+		"quirks": [
+			"clan-mech",
+			"ANTIAIR-TARGETING",
+			"IMPROVED-COMS"
+		]
+	},
+	"RFL-IIC-1": {
+		"quirks": [
+			"TUNEDPULSE"
+		]
+	},
+	"RFL-IIC-CH": {
+		"quirks": [
+			"RFL-IIC-HERO",
+			"RFL-IIC-CH-HERO"
+		]
+	},
+	"HGN-IIC-KP": {
+		"quirks": [
+			"HGN-IIC-KEEPER-HERO",
+			"HGN-IIC-HERO"
+		]
+	},
+	"Battlemaster_IIC_MDL": {
+		"useSkinsFrom": "Mech.Assault.Battlemaster.BLR-1G",
+		"quirks": [
+			"CMD-MECH",
+			"IMP-COOLING-LASER"
+		]
+	},
+	"SavageWolf_MDL": {
+		"quirks": [
+			"clan-mech",
+			"NON-STANDARD-PARTS",
+			"PROTECTED-ACTUATOR",
+			"STABLE"
+		]
+	},
+	"SF-MKIV-D1CK1E": {
+		"quirks": [
+			"SVG-Dickie",
+			"high-pressure-cooling"
+		]
+	},
+	"MC-MKIV-PR": {
+		"quirks": [
+			"high-pressure-cooling"
+		]
+	},
+	"MC-MKIV-E": {
+		"quirks": [
+			"TUNEDPULSE"
+		]
+	},
+	"YACM_Cougar_MDL": {
+		"scale": "X=0.875 Y=0.875 Z=0.875",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"UBIQUITOUS"
+		]
+	},
+	"COU-BA": {
+		"quirks": [
+			"COU-BA-HERO-ARMOR",
+			"COU-BA-HERO"
+		]
+	},
+	"YACM_Blacklanner_MDL": {
+		"scale": "X=1.15 Y=1.15 Z=1.15",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH"
+		]
+	},
+	"BKL-BL": {
+		"quirks": [
+			"BKL-BL-HERO",
+			"BKL-BL-HERO-STRUCT"
+		]
+	},
+	"YACM_Maddog_MDL": {
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"IMPROVED-TARGETING-MEDIUM"
+		]
+	},
+	"MDD-BA": {
+		"quirks": [
+			"MDD-BA-HERO",
+			"MDD-BA"
+		]
+	},
+	"MDD-RV": {
+		"quirks": [
+			"MDD-RV-HERO",
+			"MDD-RV"
+		]
+	},
+	"YACM_Direwolf_MDL": {
+		"scale": "X=1.075 Y=1.075 Z=1.075",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"DIFFICULT-EJECT",
+			"IMPROVED-TARGETING-LONG"
+		]
+	},
+	"DWF-WM": {
+		"quirks": [
+			"DWF-HERO",
+			"DWF-WM"
+		]
+	},
+	"DWF-HO": {
+		"quirks": [
+			"DWF-HERO",
+			"DWF-HO"
+		]
+	},
+	"DWF-LW": {
+		"quirks": [
+			"DWF-HERO",
+			"DWF-LW"
+		]
+	},
+	"DWF-UV": {
+		"quirks": [
+			"DWF-HERO",
+			"DWF-UV"
+		]
+	},
+	"Nova_MDL": {
+		"scale": "X=0.925 Y=0.925 Z=0.925",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"ENERGYPROF",
+			"NARROW-PROFILE",
+			"CBTCPU"
+		]
+	},
+	"NVA-BK": {
+		"quirks": [
+			"NVA-HERO",
+			"NVA-BK"
+		]
+	},
+	"YACM_Bloodasp_MDL": {
+		"scale": "X=1.075 Y=1.075 Z=1.075",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"BALLISTICPROF"
+		]
+	},
+	"YACM_Adder_MDL": {
+		"scale": "X=0.875 Y=0.875 Z=0.875",
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH"
+		]
+	},
+	"ADR-PRIME": {
+		"quirks": [
+			"PPC-Platform"
+		]
+	},
+	"ADR-A": {
+		"quirks": [
+			"MISSILEBOAT"
+		]
+	},
+	"ANH-C": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"ANH-C2": {
+		"quirks": [
+			"clan-mech"
+		]
+	},
+	"Ursus_MDL": {
+		"quirks": [
+			"clan-mech",
+			"PROTECTED-ACTUATOR",
+			"DISTRACTING"
+		]
+	},
+	"Ursus-1": {
+		"quirks": [
+			"CRAMPED-COCKPIT"
+		]
+	},
+	"Ursus-2": {
+		"quirks": [
+			"CRAMPED-COCKPIT"
+		]
+	},
+	"Ursus-3": {
+		"quirks": [
+			"CRAMPED-COCKPIT"
+		]
+	},
+	"YACM_MCII_MDL": {
+		"scale": "X=1.09 Y=1.09 Z=1.09",
+		"quirks": [
+			"clan-mech",
+			"IMPROVED-TARGETING-MEDIUM"
+		]
+	},
+	"MCII-EH": {
+		"quirks": [
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"MCII-DS": {
+		"quirks": [
+			"MCII-HERO",
+			"MCII-DEATHSTRIKE"
+		]
+	},
+	"YACM_EbonJaguar_MDL": {
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"NARROW-PROFILE",
+			"CAULDRON-BORN"
+		]
+	},
+	"EBJ-EC": {
+		"quirks": [
+			"EBJ-HERO",
+			"EBJ-EC"
+		]
+	},
+	"YACM_ShadowCat_MDL": {
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"NARROW-PROFILE"
+		]
+	},
+	"YACM_ArcticWolf_MDL": {
+		"quirks": [
+			"clan-mech",
+			"OMNI-MECH",
+			"IMPROVED-TARGETING-SHORT"
+		]
+	}
+}

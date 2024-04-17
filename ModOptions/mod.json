@@ -1,0 +1,16 @@
+{
+   "displayName" : "Mod Options",
+   "version" : "1.2",
+   "buildNumber" : 27,
+   "description" : "Mod that allows configuring options/keybinds for my other mods via the in-game Options menu",
+   "author" : "Bobbert",
+   "authorURL" : "",
+   "defaultLoadOrder" : 13,
+   "gameVersion" : "1.1.338",
+   "manifest" : [
+      "/Game/UI/Options/KeybindingOptionsWidget.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

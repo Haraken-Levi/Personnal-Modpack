@@ -1,0 +1,60 @@
+{
+	"Weapon.Melee.Assault.BattleAxe": {
+		"armorComponentFront": 35,
+		"structureComponent": 28
+	},
+	"Weapon.Melee.Assault.Claymore": {
+		"armorComponentFront": 30,
+		"structureComponent": 24
+	},
+	"Weapon.Melee.Assault.Katana": {
+		"armorComponentFront": 30,
+		"structureComponent": 24
+	},
+	"Weapon.Melee.Heavy.Axe": {
+		"armorComponentFront": 25,
+		"structureComponent": 20
+	},
+	"Weapon.Melee.Heavy.Longsword": {
+		"armorComponentFront": 25,
+		"structureComponent": 20
+	},
+	"Weapon.Melee.Heavy.TrenchBlade": {
+		"armorComponentFront": 20,
+		"structureComponent": 16
+	},
+	"Weapon.Melee.Medium.Mace": {
+		"armorComponentFront": 20,
+		"structureComponent": 16
+	},
+	"Weapon.Melee.Medium.Claw": {
+		"armorComponentFront": 20,
+		"structureComponent": 16
+	},
+	"Weapon.Melee.Medium.Hatchet": {
+		"armorComponentFront": 15,
+		"structureComponent": 12
+	},
+	"Weapon.Melee.Assault.Punch": {
+		"armorComponentFront": 10,
+		"structureComponent": 8
+	},
+	"Weapon.Melee.Heavy.Punch": {
+		"armorComponentFront": 8,
+		"structureComponent": 6
+	},
+	"Weapon.Melee.Medium.Punch": {
+		"armorComponentFront":6,
+		"structureComponent": 4
+	},
+	"Weapon.Melee.Light.Punch": {
+		"armorComponentFront":4,
+		"structureComponent": 2
+	},
+	"Weapon.ArtemisMissile.MML": {
+		"ammoTypes": [
+			"Ammo.Missile.LRM.Artemis",
+			"Ammo.Missile.SRM.Artemis"
+		]
+	}
+}

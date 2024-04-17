@@ -1,0 +1,17 @@
+{
+    "displayName": "BetterMissionChoices",
+    "version": "1.0",
+    "buildNumber": 62,
+    "description": "- Allows player to change maximum amount of missions that can show up in a single system. \r\n- Allows to change maximum amount of missions for multi-mission contracts. \r\n- Allows to change a percentage of systems that can have missions per cluster. \r\n- Allows player to set minimum and maximum mission difficulty modifier. \r\n- Unlocks Periphery Realms, Mercenaries and Comstaras mission giver or target. \r\n- Unlocks Black Inferno and Clans (if YACM is installed) as possible mission targets. \r\n- Can change faction's presence using weight system.\r\nConfigurable in mod options.",
+    "author": "Toothless Shark",
+    "authorURL": "",
+    "defaultLoadOrder": 9,
+    "gameVersion": "1.1.0",
+    "manifest": [
+        "/Game/Campaign/TOIs/ClusterToiLogic.uasset",
+        "/Game/Libraries/MW5_TOI_Functions.uasset"
+    ],
+    "steamPublishedFileId": 2935470596,
+    "steamLastSubmittedBuildNumber": 0,
+    "steamModVisibility": "Private"
+}

@@ -1,0 +1,1152 @@
+{
+	"JumpJet_Universal_Equipment": {
+		"rarity": 0.01,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"relativeWeight": "0.02"
+	},
+	"Equipment.JumpJets.Universal.LAMS": {
+		"rarity": 0.05,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"relativeWeight": "0.02"
+	},
+	"JumpJet_BattleArmor_Equipment": {
+		"rarity": 0.15,
+		"minTonnage": "1",
+		"maxTonnage": "10",
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"Equipment.JumpJets.Universal.Pirate": {
+		"rarity": 0.15,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"relativeWeight": "0.02",
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"Equipment.JumpJets.Universal.Royal": {
+		"rarity": 0.1,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"relativeWeight": "0.02",
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"JumpJet_Class1_Equipment": {
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"JumpJet_Class2_Equipment": {
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"JumpJet_Class3_Equipment": {
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"JumpJet_Class4_Equipment": {
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"JumpJet_Class5_Equipment": {
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment"
+		]
+	},
+	"IJumpJet_Class1_Equipment": {
+		"maxJumpJetsMulti": 1.5,
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"IJumpJet_Class2_Equipment": {
+		"maxJumpJetsMulti": 1.5,
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"IJumpJet_Class3_Equipment": {
+		"maxJumpJetsMulti": 1.5,
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"IJumpJet_Class4_Equipment": {
+		"maxJumpJetsMulti": 1.5,
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"IJumpJet_Class5_Equipment": {
+		"maxJumpJetsMulti": 1.5,
+		"mechConflicts": [
+			"BoosterJets",
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"BoosterJets": {
+		"mechConflicts": [
+			"DrifterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"DrifterJets": {
+		"mechConflicts": [
+			"BoosterJets",
+			"JumpJet_Class1_EquipmentP",
+			"JumpJet_Class1_EquipmentC",
+			"JumpJet_Class2_EquipmentC",
+			"JumpJet_Class3_EquipmentC",
+			"JumpJet_Class4_EquipmentC",
+			"JumpJet_Class5_EquipmentC",
+			"IJumpJet_Class1_Equipment",
+			"IJumpJet_Class2_Equipment",
+			"IJumpJet_Class3_Equipment",
+			"IJumpJet_Class4_Equipment",
+			"IJumpJet_Class5_Equipment",
+			"JumpJet_Class1_EquipmentR",
+			"JumpJet_Class1_Equipment",
+			"JumpJet_Class2_Equipment",
+			"JumpJet_Class3_Equipment",
+			"JumpJet_Class4_Equipment",
+			"JumpJet_Class5_Equipment"
+		]
+	},
+	"Equipment.MASC.BattleArmor": {
+		"rarity": 0.05,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"relativeWeight": "0.05",
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT"
+		]
+	},
+	"Equipment.MASC.Universal.Clan": {
+		"relativeWeight": 0.04,
+		"rarity": 0.1,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT"
+		]
+	},
+	"Equipment.MASC.Universal.Pirate": {
+		"relativeWeight": 0.05,
+		"rarity": 0.15,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"mechConflicts": [
+			"TSMYOMER",
+			"TSMYOMER_H",
+			"TSMYOMER_L",
+			"TSMYOMER_M",
+			"MASC_MKI",
+			"MASC_MKII",
+			"MASC_MKIII",
+			"MASC_MKIV",
+			"MASC_MKV",
+			"Equipment.MASC",
+			"HYBRID_TSM_QS",
+			"COCKPIT_HOTSEAT"
+		]
+	},
+	"Equipment.SuperCharger.Universal.Pirate": {
+		"rarity": 0.25,
+		"minTonnage": "5",
+		"maxTonnage": "1000",
+		"engineRelativeWeight": 0.1
+	},
+	"Equipment.Engine.STD.DoubleEngine": {
+		"fixed": "false",
+		"rarity": 0.01,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Engine.Compact.DoubleEngine": {
+		"fixed": "true",
+		"rarity": 0.6,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Engine.Primitive.DoubleEngine": {
+		"fixed": "true",
+		"rarity": -1,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Engine.LFE.DoubleEngine": {
+		"fixed": "true",
+		"rarity": 0.4,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Engine.XL.DoubleEngine": {
+		"fixed": "true",
+		"rarity": 0.8,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Engine.XXL.DoubleEngine": {
+		"fixed": "true",
+		"rarity": 0.1,
+		"minTonnage": "5",
+		"maxTonnage": "1000"
+	},
+	"Equipment.Heatsinks.CoolingLines": {
+		"rarity": 0.1,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"LeftTorso",
+			"RightTorso",
+			"Head"
+		],
+		"mechPartRequirements": [
+			"Equipment.Engine"
+		]
+	},
+	"Equipment.Heatsinks.CoolingLines.Clan": {
+		"rarity": 0.05,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"LeftTorso",
+			"RightTorso",
+			"Head"
+		],
+		"mechPartRequirements": [
+			"Equipment.Engine"
+		]
+	},
+	"Equipment.Heatsinks.CoolingLines.Pirate": {
+		"rarity": 0.15,
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"LeftLeg",
+			"RightLeg",
+			"LeftTorso",
+			"RightTorso",
+			"Head"
+		],
+		"mechPartRequirements": [
+			"Equipment.Engine"
+		]
+	},
+	"Equipment.Heatsinks.Single.Clan": {
+		"rarity": 0.25
+	},
+	"Equipment.Heatsinks.Single.Pirate": {
+		"rarity": 0.35
+	},
+	"Equipment.Heatsinks.Double.Clan": {
+		"rarity": 0.2
+	},
+	"Equipment.Heatsinks.Double.Clan2": {
+		"rarity": 0.15
+	},
+	"Equipment.Heatsinks.Double.Clan3": {
+		"rarity": 0.1
+	},
+	"Equipment.Heatsinks.Double.Pirate": {
+		"rarity": 0.3
+	},
+	"Equipment.Heatsinks.Double.Royal": {
+		"rarity": 0.1
+	},
+	"Equipment.HeatSinks.HeatBank.Corrosive": {
+		"rarity": 0.35
+	},
+	"Equipment.HeatSinks.HeatBank.Compact": {
+		"rarity": 0.30
+	},
+	"Equipment.HeatSinks.HeatBank.Double": {
+		"rarity": 0.30
+	},
+	"Equipment.HeatSinks.HeatBank.Expanded": {
+		"rarity": 0.30
+	},
+	"Equipment.HeatSinks.HeatBank.Mini": {
+		"rarity": 0.2
+	},
+	"Equipment.HeatSinks.HeatBank.Mk2": {
+		"rarity": 0.25
+	},
+	"Equipment.HeatSinks.HeatBank.Mk3": {
+		"rarity": 0.2
+	},
+	"Equipment.BAP.Bloodhound": {
+		"rarity": 0.3
+	},
+	"Equipment.BAP.Clan": {
+		"rarity": 0.25
+	},
+	"Equipment.BAP.ECCM": {
+		"rarity": 0.45
+	},
+	"Equipment.BAP.ECCM.Clan": {
+		"rarity": 0.40
+	},
+	"Equipment.BAP.ECCM.EWBAP.Clan": {
+		"rarity": 0.30
+	},
+	"Equipment.BAP.ECCM.EWBAP.Pirate": {
+		"rarity": 0.45
+	},
+	"Equipment.BAP.ECCM.Pirate": {
+		"rarity": 0.50
+	},
+	"Equipment.BAP.EWBAP.Pirate": {
+		"rarity": 0.45
+	},
+	"Equipment.BAP.LeopardC3": {
+		"rarity": 0.1
+	},
+	"Equipment.BAP.Pirate": {
+		"rarity": 0.35
+	},
+	"Equipment.ECM.Angel": {
+		"rarity": 0.2
+	},
+	"Equipment.ECM.Angel.Clan": {
+		"rarity": 0.1
+	},
+	"Equipment.ECM.Clan": {
+		"rarity": 0.25
+	},
+	"Equipment.ECM.EWECM.Pirate": {
+		"rarity": 0.45
+	},
+	"Equipment.ECM.EWECM.Clan": {
+		"rarity": 0.35
+	},
+	"Equipment.ECM.Stealth": {
+		"rarity": 0.1,
+		"mechPartConflicts": [
+			"ARMOR_NSS",
+			"STEALTH_ARMOR"
+		]
+	},
+	"Equipment.ECM.Stealth.Null": {
+		"rarity": 0.15,
+		"mechPartConflicts": [
+			"ARMOR_NSS",
+			"STEALTH_ARMOR"
+		]
+	},
+	"Equipment.ECM.Stealth.Void": {
+		"rarity": 0.05,
+		"mechPartConflicts": [
+			"ARMOR_NSS",
+			"STEALTH_ARMOR"
+		]
+	},
+	"Equipment.ECM.Watchdog": {
+		"rarity": 0.05
+	},
+	"PPCCAP": {
+		"weapons": {
+			"scope": "component",
+			"groups": [{
+				"weaponGroupName": "PPC",
+				"tags": ["Weapon.Energy.ParticleCannon"],
+				"damageMulti": 1.3,
+				"heatMulti": 1.3
+			}]
+		},
+		"mechPartConflicts": [
+			"PPCCAP"
+		],
+		"mechPartRequirements": [
+			"Weapon.Energy.ParticleCannon"
+		]
+	},
+	"CCannon_Ammo_Equipment": {
+		"mechPartConflicts": [
+			"CCannon_Ammo_Equipment"
+		],
+		"mechPartRequirements": [
+			"Weapon.Ballistic.ChainCannon"
+		]
+	},
+	"MGC_Ammo_Equipment": {
+		"mechPartConflicts": [
+			"MGC_Ammo_Equipment"
+		],
+		"mechPartRequirements": [
+			"Weapon.Ballistic.ChainCannon"
+		]
+	},
+	"DRIFTER": {
+		"installCostScaling": 10,
+		"relativeWeight": 0.07,
+		"heatManagementSkillBonus": 2,
+		"fillerSlots": {
+			"LeftTorso": 3,
+			"RightTorso": 3
+		},
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"Head"
+		],
+		"rarity": 0.08
+	},
+	"Booster": {
+		"invalidMechParts": [
+			"LeftArm",
+			"RightArm",
+			"CenterTorso",
+			"LeftTorso",
+			"RightTorso",
+			"Head"
+		],
+		"mechPartConflicts": [
+			"MECHANICAL"
+		],
+		"rarity": 0.015
+	},
+	"ATMLRM_AmmoEquipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "LRM",
+				"tags": ["Weapon.Missile.LRM"],
+				"speedMulti": 1.2,
+				"damageMulti": 1.1
+			}]
+		},
+		"mechConflicts": [
+			"LRMATM2",
+			"LRMATM3"
+		]
+	},
+	"ATMLRM_AmmoEquipment1": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "LRM",
+				"tags": ["Weapon.Missile.LRM"],
+				"speedMulti": 1.4,
+				"damageMulti": 1.25
+			}]
+		},
+		"mechConflicts": [
+			"LRMATM1",
+			"LRMATM3"
+		]
+	},
+	"ATMLRM_AmmoEquipment2": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "LRM",
+				"tags": [
+					"Weapon.Missile.LRM",
+					"Weapon.ArtemisMissile.LRM"
+				],
+				"speedMulti": 1.6,
+				"damageMulti": 1.5
+			}]
+		},
+		"mechConflicts": [
+			"LRMATM1",
+			"LRMATM2"
+		]
+	},
+	"ATMLRM_Artemis_AmmoEquipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis LRM",
+				"tags": ["Weapon.ArtemisMissile.LRM"],
+				"speedMulti": 1.25,
+				"damageMulti": 1.15
+			}]
+		},
+		"mechConflicts": [
+			"LRMATM2",
+			"LRMATM3"
+		]
+	},
+	"ATMLRM_Artemis_AmmoEquipment1": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis LRM",
+				"tags": ["Weapon.ArtemisMissile.LRM"],
+				"speedMulti": 1.45,
+				"damageMulti": 1.3
+			}]
+		},
+		"mechConflicts": [
+			"LRMATMIV1",
+			"LRMATMIV3"
+		]
+	},
+	"ATMLRM_Artemis_AmmoEquipment2": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis LRM",
+				"tags": ["Weapon.ArtemisMissile.LRM"],
+				"speedMulti": 1.75,
+				"damageMulti": 1.5
+			}]
+		},
+		"mechConflicts": [
+			"LRMATMIV1",
+			"LRMATMIV2"
+		]
+	},
+	"HELRM_AmmoEquipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "LRM",
+				"tags": [
+					"Weapon.Missile.LRM",
+					"Weapon.ArtemisMissile.LRM"
+				],
+				"damageMulti": 1.3
+			}]
+		}
+	},
+	"ATMSRM_AmmoEquipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "SRM",
+				"tags": ["Weapon.Missile.SRM"],
+				"speedMulti": 1.2,
+				"damageMulti": 1.1
+			}]
+		},
+		"mechConflicts": [
+			"SRMATM2",
+			"SRMATM3"
+		]
+	},
+	"ATMSRM_AmmoEquipment1": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "SRM",
+				"tags": ["Weapon.Missile.SRM"],
+				"speedMulti": 1.4,
+				"damageMulti": 1.25
+			}]
+		},
+		"mechConflicts": [
+			"SRMATM1",
+			"SRMATM3"
+		]
+	},
+	"ATMSRM_AmmoEquipment2": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "SRM",
+				"tags": ["Weapon.Missile.SRM"],
+				"speedMulti": 1.6,
+				"damageMulti": 1.5
+			}]
+		},
+		"mechConflicts": [
+			"SRMATM1",
+			"SRMATM2"
+		]
+	},
+	"ATMSRM_Artemis_AmmoEquipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis SRM",
+				"tags": ["Weapon.ArtemisMissile.SRM"],
+				"speedMulti": 1.25,
+				"damageMulti": 1.15,
+				"ammoMulti": 0.75
+			}]
+		},
+		"mechConflicts": [
+			"SRMATMIV2",
+			"SRMATMIV3"
+		]
+	},
+	"ATMSRM_Artemis_AmmoEquipment1": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis SRM",
+				"tags": ["Weapon.ArtemisMissile.SRM"],
+				"speedMulti": 1.45,
+				"damageMulti": 1.3
+			}]
+		},
+		"mechConflicts": [
+			"SRMATMIV1",
+			"SRMATMIV3"
+		]
+	},
+	"ATMSRM_Artemis_AmmoEquipment2": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Artemis SRM",
+				"tags": ["Weapon.ArtemisMissile.SRM"],
+				"speedMulti": 1.75,
+				"damageMulti": 1.5
+			}]
+		},
+		"mechConflicts": [
+			"SRMATMIV1",
+			"SRMATMIV2"
+		]
+	},
+	"SRMHE_Ammo_Equipment": {
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "SRM",
+				"tags": [
+					"Weapon.Missile.SRM",
+					"Weapon.ArtemisMissile.SRM"
+				],
+				"damageMulti": 1.3
+			}]
+		}
+	},
+	"TCLVL1": {
+		"name": "Targeting Computer MK.1",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.9,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"durationMulti": 0.975,
+				"speedMulti": 1.0725,
+				"optimalRangeMulti": 1.025,
+				"maxRangeMulti": 1.025,
+				"minRangeMulti": 0.925
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL2": {
+		"name": "Targeting Computer MK.2",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.85,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"durationMulti": 0.93,
+				"speedMulti": 1.13,
+				"optimalRangeMulti": 1.07,
+				"maxRangeMulti": 1.07,
+				"minRangeMulti": 0.85
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL3": {
+		"name": "Targeting Computer MK.3",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.8,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.975,
+				"durationMulti": 0.9,
+				"speedMulti": 1.17,
+				"optimalRangeMulti": 1.1,
+				"maxRangeMulti": 1.1,
+				"minRangeMulti": 0.8
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL4": {
+		"name": "Targeting Computer MK.4",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.75,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.95,
+				"durationMulti": 0.85,
+				"speedMulti": 1.25,
+				"optimalRangeMulti": 1.13,
+				"maxRangeMulti": 1.13,
+				"minRangeMulti": 0.75
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL5": {
+		"name": "Targeting Computer MK.5",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.7,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.9,
+				"durationMulti": 0.8,
+				"speedMulti": 1.3,
+				"optimalRangeMulti": 1.17,
+				"maxRangeMulti": 1.17,
+				"minRangeMulti": 0.7
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL6": {
+		"name": "Targeting Computer MK.6",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.65,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.85,
+				"durationMulti": 0.75,
+				"speedMulti": 1.35,
+				"optimalRangeMulti": 1.2,
+				"maxRangeMulti": 1.2,
+				"minRangeMulti": 0.6
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL7": {
+		"name": "Targeting Computer MK.7",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.5,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.8,
+				"durationMulti": 0.7,
+				"speedMulti": 1.4,
+				"optimalRangeMulti": 1.25,
+				"maxRangeMulti": 1.25,
+				"minRangeMulti": 0.5
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	},
+	"TCLVL8": {
+		"name": "Targeting Computer MK.8",
+		"category": "equipment.electronics",
+		"color": "(R=1.000000,G=0.115883,B=0.000000,A=1)",
+		"rarity": 0.05,
+		"lockonTimeMulti": 0.4,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Weapon",
+				"tags": ["Weapon"],
+				"cooldownMulti": 0.75,
+				"durationMulti": 0.65,
+				"speedMulti": 1.5,
+				"optimalRangeMulti": 1.3,
+				"maxRangeMulti": 1.3,
+				"minRangeMulti": 0.4
+			}]
+		},
+		"features": [
+			"predictiveTargeting"
+		],
+		"mechConflicts": [
+			"TCLVL1",
+			"TCLVL2",
+			"TCLVL3",
+			"TCLVL4",
+			"TCLVL5",
+			"TCLVL6",
+			"TCLVL7",
+			"TCLVL8"
+		]
+	}
+}

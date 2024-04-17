@@ -1,0 +1,228 @@
+{
+	"Annihilator_4A_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},		
+	"ZEU-10WB": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"Valkyrie_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},		
+	"HBK-2": {
+		"quirks": [
+			"BATTLEFISTS",			
+			"SLDF"
+		]
+	},	
+	"TDR-5Sb": {
+		"quirks": [
+			"SLDF"
+		]
+	},		
+	"SHD-2Hb": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"SHD-5S": {
+		"quirks": [
+			"BATTLEFISTS",
+			"IMP-LIFE-SUPPORT",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},	
+	"WHM-6Rk": {
+		"quirks": [
+			"SEARCHLIGHT",		
+			"SLDF"
+		]
+	},
+	"WHM-7CS": {
+		"quirks": [
+			"SEARCHLIGHT",
+			"RUGGED2",
+			"STABLE",
+			"UBIQUITOUS",
+			"CLANBUSTER"			
+		]
+	},		
+	"Atlas_II_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING",
+			"IMPROVED-COMS",
+			"SLDF"
+		]
+	},	
+	"BLR-1Gb": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"BL-9-KNT": {
+		"quirks": [
+			"MELEE",
+			"CLANBUSTER"
+		]
+	},	
+	"KGC-010": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"DV-6Md": {
+		"quirks": [
+			"SLDF"
+		]
+	},	
+	"THG-10E": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"THG-11E": {
+		"quirks": [
+			"RUGGED1"
+		]
+	},	
+	"THG-11Eb": {
+		"quirks": [
+			"RUGGED1",		
+			"SLDF"
+		]
+	},
+	"Hunchback_5S_MDL": {
+		"quirks": [
+			"BATTLEFISTS"		
+		]
+	},		
+	"Hornet_MDL": {
+		"quirks": [
+			"NARROW-PROFILE"
+		]
+	},	
+	"Hornet_171_MDL": {
+		"quirks": [
+			"NARROW-PROFILE"
+		]
+	},
+	"Mongoose_MDL": {
+		"quirks": [
+			"CMD-MECH",
+			"EASY-PILOT"			
+		]
+	},
+	"MON-66": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"MON-66b": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"Cicada_3F_MDL": {
+		"quirks": [
+			"EASY-PILOT",
+			"ENERGYPROF"
+		]
+	},
+    "ARC-5CS": {
+		"quirks": [
+			"CLANBUSTER"
+		]
+	},	
+    "MAD-5CS": {
+		"quirks": [
+			"CLANBUSTER"
+		]
+	},	
+	"JM7-D": {
+		"quirks": [],		
+		"scale": "X=1.05 Y=1.05 Z=1.05"			
+	},
+	"JM7-F": {
+		"quirks": [],		
+		"scale": "X=1.05 Y=1.05 Z=1.05"			
+	},
+	"JM7-G": {
+		"quirks": [],		
+		"scale": "X=1.05 Y=1.05 Z=1.05"			
+	},
+	"VND-5L": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+    "MAD-4X": {
+		"quirks": [
+			"CRAMPED-COCKPIT",
+			"DIFFICULTTOMAINTAIN",
+			"IMP-COOLING-BINARY",
+			"NO-EJECT"
+		]
+	},		
+	"ASN-99": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"Centurion_D9_MDL": {
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"NON-STANDARD-PARTS",
+			"CN9-SHIELD"
+		]
+	},		
+	"Mauler_3R_MDL": {
+		"quirks": [
+			"MAULER",
+			"NO-TWIST",
+			"STABILIZED-WEAPON",
+			"IMPROVED-TARGETING-LONG"
+		]
+	},	
+	"Archer_7L_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"STABLE",
+			"DIFFICULTTOMAINTAIN",
+			"ARC-LRM"
+		]
+	},	
+	"Commando_7B_MDL": {
+		"quirks": [
+			"NARROW-PROFILE",
+			"EXP-ACTUATOR"
+		]
+	},	
+	"Cataphract_4L_MDL":{
+		"quirks": [
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"Hatchetman_5K_MDL": {
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"MELEE"
+		]
+	},	
+	"Flea_14_MDL": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"HARD-PILOT",
+			"IMP-LIFE-SUPPORT"
+		],		
+		"scale": "X=0.8 Y=0.8 Z=0.8"		
+	}	
+}

@@ -1,0 +1,22 @@
+{
+   "displayName" : "Alternate Flamer Visuals",
+   "version" : "1.0",
+   "buildNumber" : 16,
+   "description" : "Gives an alternate look to Flamers.\r\n\r\n--\r\n\r\nTo me, Flamers have always felt very weak, visually; always behaved strangely (being a trace-based weapon (hitting immediately \u2013 wherever a user is pointing)); and they could be blinding (and blindingly bright) when hitting something up close. I found that my grievances with Flamers was to the point that I was actively avoiding using them because of how poor they felt to use. So, for this mod, the visual effects of Flamers have been changed/improved. Flamers still behave as trace weapons, but are far less awkward to use. (...To the point of being quite desireable to use, now, actually! (...With the exception of when they glitch \u2013 as described below. (...Which is native to the vanilla game!)))\r\n\r\nThe changes that have been made to Flamers are:\r\nVisual Appearance:\r\n- Flames have had their size increased by ~40-60%\r\n- Fire is a bit more opaque (can be seen more easily), and have a slightly different colour gradient (a bit more orange toward the flame tips)\r\n- Pilot light/flame origin has had its size increased by ~100-140%\r\n- Overall opacity of flames has been slightly increased (by about 25%), while brightness has been slightly reduced (by about 35%)\r\n- Opacity of hit effect flames has been reduced by ~25-40%\r\n- Duration of hit effect flames has been reduced by ~60% (to last roughly half a second)\r\n\r\nVisual Behaviour:\r\n- Flame has a *vastly* increased velocity (600m/sec vs. 80m/sec)\r\n- Flame stream has had its delay reduced to 0 seconds, compared to 0.2\r\n\r\nAs a result of these changes, Flamers now respond very quickly; travel very quickly; and have more impactful visual effects and hit effects without being blinding. Flames do not travel so fast as to look like jets, but respond in a way that is between the two. (Flames can hit an enemy at 90m (optimal/maximum range) in 0.15 seconds, as opposed to 1.125 seconds, for instance.)\r\n\r\n--\r\n\r\nPlease be aware that the hit effect of Flamers have a naturally occuring issue (native to the vanilla game) that I discovered that still persists with this mod: Flamers will sometimes hit objects that used to be in the way (trees, buildings, etc.); blinding the player. This will correct itself after some time (about 30 seconds at most). \r\n\r\nUnfortunately, this problem appears to be beyond my control. I wanted to make this clear for those that already played the vanilla game and found this to be problematic (you have my sympathies >:(), as well as to ensure those that use \u2013 or are considering using my mod \u2013 that this is not a new glitch that has been introduced as a result of my work.\r\n\r\n--\r\n\r\nAnyhow, I hope that you find the changes I made to be enjoyable. This took a surprising amount of work to figure out and to do! (...Although not as much as some of my other mods.)\r\n\r\nPlease enjoy. :)",
+   "author" : "AltaMasters_1011",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/Dropships/_common/Thrusters/Thruster_Long_PCL.uasset",
+      "/Game/Objects/Dropships/_common/Thrusters/Thruster_stage/Custom_Flamer_PCL.uasset",
+      "/Game/Objects/Dropships/_common/Thrusters/Thruster_stage/Dynamic_thruster_PCL.uasset",
+      "/Game/Objects/Projectiles/Flamer/Flamer_2_PCL.uasset",
+      "/Game/Objects/Projectiles/Flamer/Flamer_PCL.uasset",
+      "/Game/Objects/Projectiles/Flamer/Ray_Flamer.uasset",
+      "/Game/Objects/VTOL/_common/Effects/VTOL_Jet_Thruster_PCL.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

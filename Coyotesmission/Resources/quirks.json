@@ -1,0 +1,79 @@
+{
+	"CLAN-QUIRK-coyotecic": {
+		"name": "Clan",
+		"description": "The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.\n\nC.A.S.E. protection on all components.",
+		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.067,
+			"accelerationMulti": 1.1,
+			"turnSpeedMulti": 1.1,
+			"upkeepCostMulti": 1.2,
+			"caseLevel": 1
+		}
+	},
+	"coyotekinshwlr": {
+		"name": "HWLR",
+		"description": "The HWLR is able to hold more SRM missiles then normal",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+
+					{
+						"weaponGroupName": "SRM Missile",
+						"tags": [
+							"Weapon.Missile.SRM",
+							"Weapon.ArtemisMissile.SRM"
+						],
+						"ammoMulti": 1.5
+					}
+				]
+			},
+			"topSpeedMulti": 1.05
+		}
+	},
+	"coyotekinsblue": {
+		"name": "BLU",
+		"description": "The BLU has an advanced AMS system",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+
+					{
+						"weaponGroupName": "AMS",
+						"tags": [
+							"Weapon.AMS"
+						],
+						"missilesDestroyedMulti": 1.25,
+						"rofMulti": 0.9,
+						"optimalRangeMulti": 1.15,
+						"maxRangeMulti": 1.15
+					}
+				]
+			},
+			"topSpeedMulti": 1.05
+		}
+	},
+	"PPC-Platformnullll": {
+		"name": "PPC Platform",
+		"description": "This 'Mech was designed to be a Particle Projection Cannon platform, and has improved PPC efficiency",
+		"comment": "generic version of awesome PPC quirk",
+		"color": "(R=0.033105,G=0.226966,B=1,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "PPC",
+						"tags": [
+							"Weapon.Energy.ParticleCannon"
+						],
+						"cooldownMulti": 0.85,
+						"heatMulti": 0.85,
+						"speedMulti": 1.25
+					}
+				]
+			}
+		}
+	}
+}

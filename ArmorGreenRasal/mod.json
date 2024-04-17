@@ -1,0 +1,17 @@
+{
+  "displayName": "ArmorGreenRasal",
+  "version": "1.0",
+  "buildNumber": 8,
+  "description": "Modifies damage colors to be more accurate. Default @ 100%, Blue @ 99%, Green @ 70%, Yellow @ 40%, Red @ 10%",
+  "author": "Fireflywater",
+  "authorURL": "",
+  "defaultLoadOrder": 26,
+  "gameVersion": "1.1.0",
+  "manifest": [
+    "/Game/UI/UI_Utils.uasset"
+  ],
+  "steamPublishedFileId": 2543639565,
+  "steamLastSubmittedBuildNumber": 2,
+  "steamModVisibility": "Private",
+  "bEnabled": true
+}

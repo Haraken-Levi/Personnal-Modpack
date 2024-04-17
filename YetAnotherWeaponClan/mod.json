@@ -1,0 +1,16 @@
+{
+   "displayName" : "Yet Another Weapon Clan",
+   "version" : "1.7",
+   "buildNumber" : 114,
+   "description" : "Adds Clan weapons to the game.\r\n\r\n1.7\r\n\r\nCorrect weapon sounds and missile logic require Yet Another Weapon.\r\n\r\nLBX mode switch (cluster / solid) requires the Yet Another Mechlab mod.\r\n\r\nWeapon intro dates:\r\nAll \"standard\" Clan weapons become available in 3055 except:\r\nProtoMech Autocannons (3073)\r\nMachine Gun Arrays, AP Gauss (3069)\r\nHyper-Assault Gauss (3068)\r\nER and Heavy Flamer (3067)\r\nLight and Heavy MG (3060)\r\nATMs (3060)\r\nER and Pulse Micro Lasers (3060)\r\nHeavy Lasers (3059)\r\nASRMs (3058)\r\nER Pulse Lasers, Streak LRMs (3057)\r\n\r\nStandard weapons (3055):\r\nArrow IV\r\nAC /2 /5 /10 /20\r\nUltra AC/2 /5 /10/20\r\nLBX /2 /5 /10 /20\r\nLRM / Artemis 5 10 15 20\r\nSRM / Artemis / Streak 2 4 6\r\nNARC\r\nLaser AMS\r\nFlamer\r\nGauss\r\nER Small, Medium, Large Lasers\r\nPulse Small, Medium, Large Lasers\r\nER PPC\r\n\r\nEquipment (3055):\r\nMASC, AP, Light AP, ECM, DHS\r\n\r\nYAML Discord:\r\nhttps://discord.gg/SnVahkkHEn\r\n\r\nItem lists:\r\nhttps://github.com/mw5mercs-modding/yaml-docs",
+   "author" : "cszolee79",
+   "authorURL" : "https://steamuserimages-a.akamaihd.net/ugc/1839162769839545451/139164F4E1877A87CD7C360894D09B6158972BDE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      
+   ],
+   "steamPublishedFileId" : 2512385719,
+   "steamLastSubmittedBuildNumber" : 113,
+   "steamModVisibility" : "Public"
+}

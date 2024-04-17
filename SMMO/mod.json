@@ -1,0 +1,18 @@
+{
+  "displayName": "StarMapMouseOver_V3_07 - Logos",
+  "version": "3.5",
+  "buildNumber": 4,
+  "description": "**Works With Rise of Rasalhague ** \r\nStar Map Mouse Over: Adds these items to the mouse over tool tip\r\n1) Hiring faction vs OpFor Logos \r\n2) Difficulty Rating\r\n3) Max Tonnage\r\n\r\nfixes \u0022TextBox\u0022 showing under certain circumstances\r\nSMMO",
+  "author": "JGood121",
+  "authorURL": "",
+  "defaultLoadOrder": 27,
+  "gameVersion": "1.1.0",
+  "manifest": [
+    "/Game/UI/Components/StarSystemTOITooltip.uasset",
+    "/Game/UI/Components/StarSystemTOITooltipEntry.uasset"
+  ],
+  "steamPublishedFileId": 2924931730,
+  "steamLastSubmittedBuildNumber": 3,
+  "steamModVisibility": "Public",
+  "bEnabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "displayName": "PilotOverhaul",
+  "version": "7.0.4",
+  "buildNumber": 770,
+  "description": "In vanilla, pilots feel.... trivial. Not any more!\r\n\r\nPilot Overhaul has too many features to list in this little text box. New systems, customization options, mod options, pilots, voices, and other additional content. It\u0027s a complete overhaul of all things Pilot related!",
+  "author": "Wpnx330",
+  "authorURL": "",
+  "defaultLoadOrder": 14,
+  "gameVersion": "1.1.0",
+  "manifest": [
+    "/Game/Campaign/CampaignArcs/HidingSystems/HidingSystemsArc.uasset",
+    "/Game/Campaign/CampaignEvents/PilotInjuryHandler.uasset",
+    "/Game/Campaign/Pilots/_common/PilotSkillGrowth.uasset",
+    "/Game/Campaign/TOIs/GeneratedMissionToiLogic.uasset",
+    "/Game/Campaign/TOIs/MultipleMissionOperationToiLogic.uasset",
+    "/Game/UI/FrontEnd/BarracksScreen.uasset",
+    "/Game/UI/FrontEnd/Barracks/BarracksHomeWidget.uasset",
+    "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotInfo.uasset",
+    "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotList.uasset",
+    "/Game/UI/FrontEnd/Barracks/Components/BarracksPilotListItem.uasset",
+    "/Game/UI/FrontEnd/Components/DelayedStartDialogBox.uasset",
+    "/Game/UI/FrontEnd/Components/MechSelectListItem.uasset",
+    "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset",
+    "/Game/UI/FrontEnd/Deployment/Components/DeploymentPilotWidget.uasset",
+    "/Game/UI/FrontEnd/HomeScreen/MenuPanel/ButtonLogic/HomeButtonLogic_PilotsForHire.uasset",
+    "/Game/UI/FrontEnd/PostMission/PostDropPilotStatus.uasset"
+  ],
+  "steamPublishedFileId": 2802020509,
+  "steamLastSubmittedBuildNumber": 0,
+  "steamModVisibility": "Public",
+  "bEnabled": true
+}

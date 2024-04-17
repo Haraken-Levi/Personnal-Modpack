@@ -1,0 +1,15 @@
+{
+  "displayName": "Mechs_of_Beauty",
+  "version": "1.3.4",
+  "buildNumber": 2,
+  "description": "New and fun skins",
+  "author": "42and19",
+  "authorURL": "",
+  "defaultLoadOrder": 22,
+  "gameVersion": "1.1.0",
+  "manifest": [],
+  "steamPublishedFileId": 2541247241,
+  "steamLastSubmittedBuildNumber": 1,
+  "steamModVisibility": "Public",
+  "bEnabled": true
+}

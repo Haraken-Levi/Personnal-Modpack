@@ -1,0 +1,14 @@
+{
+    "displayName": "MW5 Compatibility Pack",
+    "version": "4.1",
+    "buildNumber": 81,
+    "description": "MW5 Compatibility Mod.  MUST BE LOAD ORDER OF 0, WILL ALWAYS BE THE FIRST TO LOAD AND ALWAYS HAVE ITS FILES OVERWRITTEN",
+    "author": "MagnumGB",
+    "authorURL": "",
+    "defaultLoadOrder": 0,
+    "gameVersion": "1.1.0",
+    "manifest": [],
+    "steamPublishedFileId": 0,
+    "steamLastSubmittedBuildNumber": 0,
+    "steamModVisibility": "Private"
+}

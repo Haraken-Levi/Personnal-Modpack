@@ -1,0 +1,40 @@
+{
+	"Weapon.Ballistic.ChainCannon.CCannon": {
+		"jamChance": 0.0009,
+		"jamDuration": 10000.0
+	},
+	"Weapon.Ballistic.ChainCannon.HCCannon": {
+		"jamChance": 0.0009,
+		"jamDuration": 16.0
+	},
+	"Weapon.Ballistic.ChainCannon.Gatling": {
+		"jamChance": 0.0009,
+		"jamDuration": 10000.0
+	},
+	"Weapon.Ballistic.ChainCannon.Gatling2": {
+		"jamChance": 0.0009,
+		"jamDuration": 16.0
+	},
+	"Weapon.Energy.Laser.RELaser.Large": {
+		"armorDamageMulti": 1.5,
+		"structureDamageMulti": 0.6
+	},
+	"Weapon.Energy.Laser.RELaser.Medium": {
+		"armorDamageMulti": 1.5,
+		"structureDamageMulti": 0.6
+	},
+	"Weapon.Energy.Laser.RELaser.Small": {
+		"armorDamageMulti": 1.5,
+		"structureDamageMulti": 0.6
+	},
+	"Weapon.Ballistic.Railgun.Pirate": {
+		"jamChance": 0.01,
+		"jamDuration": 90.0
+	},
+	"Weapon.ArtemisMissile.MML": {
+		"ammoTypes": [
+			"Ammo.Missile.MML.Atrimis",
+			"Ammo.Missile.MML.Artemis"
+		]
+	}
+}

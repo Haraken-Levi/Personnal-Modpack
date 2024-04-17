@@ -1,0 +1,30 @@
+{
+   "displayName" : "Yet Another Clan Invasion",
+   "version" : "1.0",
+   "buildNumber" : 686,
+   "description" : "Clan invasion Mod, YAML Compatible!!",
+   "author" : "CI Team",
+   "authorURL" : "",
+   "defaultLoadOrder" : 8,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Campaign/Progression/DataTables/ClanMechsForPurchase.uasset",
+      "/Game/Campaign/Progression/DataTables/IATonnage.uasset",
+      "/Game/Campaign/Progression/DataTables/MissionRewardData.uasset",
+      "/Game/Campaign/TOIs/ClusterToiLogic.uasset",
+      "/Game/Campaign/TOIs/MarketTOIs/ClanMechToiAsset.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_13_14/Place_K_13_14.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_1_2/Place_K_1_2.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_2_3/Place_K_2_3.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_3_4/Place_K_3_4.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_3_5_1/Place_K_3_5_1.uasset",
+      "/Game/DLC1/CareerMode/Warzones/K_5_6/Place_K_5_6.uasset",
+      "/Game/DLC1/CareerMode/Warzones/Rasalhauge_Clusters/Common_R_7_10.uasset",
+      "/Game/DLC1/CareerMode/Warzones/Rasalhauge_Clusters/PlaceRasalhague_ArcAction_1_3.uasset",
+      "/Game/DLC1/CareerMode/Warzones/Rasalhauge_Clusters/PlaceRasalhague_ArcAction_7_10.uasset",
+      "/Game/DLC1/CareerMode/Warzones/S_6_7/Place_S_6_7.uasset"
+   ],
+   "steamPublishedFileId" : 2804076969,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}
